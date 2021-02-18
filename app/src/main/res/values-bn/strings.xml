@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wrdlst">সকল শব্দসমূহ</string>
+    <string name="rmbrdlst">মুখস্ত</string>
+    <string name="test">পরীক্ষা</string>
+    <string name="word">শব্দ</string>
+    <string name="meaning">অর্থ</string>
+    <string name="example">উদাহরন</string>
+    <string name="remembered">মুখস্থ হয়েছে</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">eng3k</string>
+    <string name="wrdlst">ALL WORDS</string>
+    <string name="rmbrdlst">REMEMBERED</string>
+    <string name="test">TEST</string>
+    <string name="word">Word</string>
+    <string name="meaning">Meaning</string>
+    <string name="example">Example</string>
+    <string name="remembered">Remembered</string>
+</resources>
