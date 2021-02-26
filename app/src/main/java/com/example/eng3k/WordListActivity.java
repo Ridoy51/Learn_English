@@ -21,22 +21,11 @@ public class WordListActivity extends AppCompatActivity {
 
         wordsRecView = findViewById(R.id.wrdlistRecView);
 
-        ArrayList<Words> words =new ArrayList<>();
 
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
-        words.add(new Words("Good", "ভালো", "tommy is a good dog"));
+
 
         WordsRecViewAdapter adapter = new WordsRecViewAdapter(this);
-        adapter.setWords(words);
+        adapter.setWords(Utils.getInstance().getAllWords());
 
         wordsRecView.setAdapter(adapter);
         wordsRecView.setLayoutManager(new LinearLayoutManager(this));

@@ -30,8 +30,8 @@ public class WordsRecViewAdapter extends RecyclerView.Adapter<WordsRecViewAdapte
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View view= LayoutInflater.from(parent.getContext()).inflate(R.layout.word_list_items,parent,false);
-        ViewHolder holder= new ViewHolder(view);
-        return holder;
+
+        return new ViewHolder(view);
     }
 
     @Override
