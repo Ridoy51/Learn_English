@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31455467675",
+    "project_id": "eng3k-auth",
+    "storage_bucket": "eng3k-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31455467675:android:a9d24b87e7b2f558b9ce3e",
+        "android_client_info": {
+          "package_name": "com.example.eng3k"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31455467675-ispoh7b4hk3h9kblv7o5vn49k5ts76tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALM9pejE9iKDaMRhhNUL6xlSpDlNwVlnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31455467675-ispoh7b4hk3h9kblv7o5vn49k5ts76tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

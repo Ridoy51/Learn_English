@@ -5,13 +5,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <EditText
-        android:id="@+id/signupEmail"
+        android:id="@+id/userName"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         app:layout_constraintWidth_percent=".8"
         app:layout_constraintVertical_bias=".2"
         app:layout_constraintHorizontal_bias=".5"
-        android:hint="Email"
+        android:hint="Name"
         android:paddingStart="20dp"
         android:paddingBottom="10dp"
         android:paddingTop="10dp"
@@ -24,21 +24,22 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
-        android:id="@+id/mobileNum"
+        android:id="@+id/signupEmail"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="Mobile Num"
+        android:hint="Email"
         android:paddingStart="20dp"
         android:paddingTop="10dp"
         android:paddingBottom="10dp"
         android:background="@drawable/edit_text_bg"
         android:textColorHint="@color/pink"
         android:textColor="@color/pink"
+        android:inputType="textEmailAddress"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias=".5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/signupEmail"
+        app:layout_constraintTop_toBottomOf="@+id/userName"
         app:layout_constraintVertical_bias=".1"
         app:layout_constraintWidth_percent=".8" />
 
@@ -53,11 +54,12 @@
         android:background="@drawable/edit_text_bg"
         android:textColorHint="@color/pink"
         android:textColor="@color/pink"
+        android:inputType="textPassword"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias=".5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/mobileNum"
+        app:layout_constraintTop_toBottomOf="@+id/signupEmail"
         app:layout_constraintVertical_bias=".1"
         app:layout_constraintWidth_percent=".8" />
 
@@ -72,6 +74,7 @@
         android:background="@drawable/edit_text_bg"
         android:textColorHint="@color/pink"
         android:textColor="@color/pink"
+        android:inputType="textPassword"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias=".5"
@@ -96,6 +99,18 @@
         app:layout_constraintTop_toBottomOf="@+id/signupPasscon"
         app:layout_constraintVertical_bias=".4"
         app:layout_constraintWidth_percent=".8" />
+
+    <ProgressBar
+        android:id="@+id/signupProgress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:outlineAmbientShadowColor="@color/green"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:visibility="gone"
+        />
 
 
 

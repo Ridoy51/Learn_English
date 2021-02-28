@@ -50,7 +50,7 @@
             android:text="Example"
             android:textStyle="normal" />
 
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/rememberedButt"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
