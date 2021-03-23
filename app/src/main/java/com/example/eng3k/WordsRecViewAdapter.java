@@ -1,6 +1,7 @@
 package com.example.eng3k;
 
 import android.content.Context;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -18,7 +19,7 @@ import com.google.android.material.button.MaterialButton;
 import java.util.ArrayList;
 
 public class WordsRecViewAdapter extends RecyclerView.Adapter<WordsRecViewAdapter.ViewHolder> {
-
+    private static final String TAG = "WordsRecViewAdapter";
     private ArrayList<Words> words =new ArrayList<>();
     private Context context;
 
@@ -36,6 +37,7 @@ public class WordsRecViewAdapter extends RecyclerView.Adapter<WordsRecViewAdapte
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, final int position) {
+        Log.d(TAG, "onBindViewHolder: Called");
         holder.txtWord.setText(holder.itemView.getContext().getString(R.string.word)+": "+words.get(position).getWord());
         holder.txtMeaning.setText(context.getString(R.string.meaning)+": "+words.get(position).getMeaning());
         holder.txtExample.setText(context.getString(R.string.example)+": "+words.get(position).getExample());

@@ -1,18 +1,28 @@
 package com.example.eng3k;
 
 public class Words {
+    private int id;
     private String word;
     private String meaning;
     private String example;
 
-    public Words(String word, String meaning, String example) {
+    public Words(int id,String word, String meaning, String example) {
         this.word = word;
         this.meaning = meaning;
         this.example = example;
+        this.id=id;
     }
 
     public String getWord() {
         return word;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public void setWord(String word) {
@@ -38,7 +48,8 @@ public class Words {
     @Override
     public String toString() {
         return "Words{" +
-                "word='" + word + '\'' +
+                "id=" + id +
+                ", word='" + word + '\'' +
                 ", meaning='" + meaning + '\'' +
                 ", example='" + example + '\'' +
                 '}';
