@@ -44,7 +44,7 @@ public class Utils {
 
                     value=read.split(",");
                     try{
-                        allWords.add(new Words(0, value[1], "ভালো", "tommy is a good dog"));
+                        allWords.add(new Words(0, value[1], value[2], value[3]));
 
                     }catch(Exception e){
                         Log.e("Unknown error", e.toString());

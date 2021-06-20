@@ -1,3168 +1,3167 @@
-1,a
-2,abandon 
-3,ability 
-4,able 
-5,about 
-6,above 
-7,abroad 
-8,absence 
-9,absolute 
-10,absolutely 
-11,absorb 
-12,abuse 
-13,academic 
-14,accept 
-15,acceptable 
-16,access 
-17,accident 
-18,accommodation 
-19,accompany 
-20,according to 
-21,account 
-22,accurate 
-23,accuse 
-24,achieve 
-25,achievement 
-26,acid 
-27,acknowledge 
-28,acquire 
-29,across 
-30,act 
-31,action 
-32,active 
-33,activist 
-34,activity 
-35,actor 
-36,actual 
-37,actually 
-38,ad 
-39,adapt 
-40,add 
-41,addition 
-42,additional 
-43,address 
-44,adequate 
-45,adjust 
-46,administration 
-47,administrative 
-48,admire 
-49,admission 
-50,admit 
-51,adopt 
-52,adult 
-53,advance 
-54,advanced 
-55,advantage 
-56,advert 
-57,advertise 
-58,advertisement 
-59,advertising 
-60,advice 
-61,advise 
-62,adviser 
-63,affair 
-64,affect 
-65,afford 
-66,afraid 
-67,after 
-68,afternoon 
-69,afterwards 
-70,again 
-71,against 
-72,age 
-73,aged 
-74,agency 
-75,agent 
-76,aggressive 
-77,ago 
-78,agree 
-79,agreement 
-80,agriculture 
-81,ahead 
-82,aid 
-83,aim 
-84,air 
-85,aircraft 
-86,airline 
-87,airport 
-88,alarm 
-89,album 
-90,alcohol 
-91,alive 
-92,all 
-93,all right 
-94,allow 
-95,allowance 
-96,almost 
-97,alone 
-98,along 
-99,alongside 
-100,already 
-101,also 
-102,alter 
-103,alternative 
-104,although 
-105,altogether 
-106,always 
-107,amazing 
-108,ambition 
-109,ambulance 
-110,among 
-111,amount 
-112,an 
-113,analyse 
-114,analysis 
-115,analyst 
-116,ancient 
-117,and 
-118,anger 
-119,angle 
-120,angry 
-121,animal 
-122,announce 
-123,announcement 
-124,annoy 
-125,annual 
-126,another 
-127,answer 
-128,anticipate 
-129,anxiety 
-130,anxious 
-131,any 
-132,anybody 
-133,anyhow 
-134,anyone 
-135,anything 
-136,anyway 
-137,anywhere 
-138,apart 
-139,apartment 
-140,apologize 
-141,apology 
-142,apparent 
-143,apparently 
-144,appeal 
-145,appear 
-146,appearance 
-147,apple 
-148,application 
-149,apply 
-150,appoint 
-151,appointment 
-152,appreciate 
-153,approach 
-154,appropriate 
-155,approval 
-156,approve 
-157,approximate 
-158,architect 
-159,architecture 
-160,area 
-161,argue 
-162,argument 
-163,arise 
-164,arm 
-165,armed 
-166,army 
-167,around 
-168,arrange 
-169,arrangement 
-170,arrest 
-171,arrival 
-172,arrive 
-173,art 
-174,article 
-175,artificial 
-176,artist 
-177,as 
-178,ashamed 
-179,aside 
-180,ask 
-181,asleep 
-182,aspect 
-183,assess 
-184,assessment 
-185,assignment 
-186,assist 
-187,assistance 
-188,assistant 
-189,associate 
-190,association 
-191,assume 
-192,assumption 
-193,assure 
-194,at 
-195,atmosphere 
-196,attach 
-197,attack 
-198,attempt 
-199,attend 
-200,attention 
-201,attitude 
-202,attorney 
-203,attract 
-204,attraction 
-205,attractive 
-206,audience 
-207,aunt 
-208,author 
-209,authority 
-210,automatic 
-211,automatically 
-212,autumn 
-213,available 
-214,average 
-215,avoid 
-216,awake 
-217,award 
-218,aware 
-219,awareness 
-220,away 
-221,awful 
-222,awkward 
-223,baby 
-224,back 
-225,background 
-226,backwards 
-227,bacon 
-228,bad 
-229,badly 
-230,bag 
-231,bake 
-232,balance 
-233,ball 
-234,ban 
-235,band 
-236,bang 
-237,bank 
-238,bar 
-239,barrier 
-240,base 
-241,baseball 
-242,basic 
-243,basically 
-244,basis 
-245,basket 
-246,bat 
-247,bath 
-248,bathroom 
-249,battery 
-250,battle 
-251,be 
-252,beach 
-253,bean 
-254,bear 
-255,beard 
-256,beat 
-257,beautiful 
-258,beauty 
-259,because 
-260,become 
-261,bed 
-262,bedroom 
-263,beef 
-264,beer 
-265,before 
-266,beforehand 
-267,begin 
-268,beginning 
-269,behalf 
-270,behave 
-271,behaviour 
-272,behind 
-273,being 
-274,belief 
-275,believe 
-276,bell 
-277,belong 
-278,below 
-279,belt 
-280,bench 
-281,bend 
-282,beneath 
-283,benefit 
-284,beside 
-285,best 
-286,bet 
-287,better 
-288,between 
-289,beyond 
-290,bicycle 
-291,bid 
-292,big 
-293,bike 
-294,bill 
-295,bin 
-296,bird 
-297,birth 
-298,birthday 
-299,biscuit 
-300,bit 
-301,bite 
-302,bitter 
-303,black 
-304,blade 
-305,blame 
-306,blank 
-307,bless 
-308,blind 
-309,block 
-310,bloke 
-311,blonde 
-312,blood 
-313,blow 
-314,blue 
-315,board 
-316,boat 
-317,body 
-318,boil 
-319,boiler 
-320,boiling 
-321,bomb 
-322,bone 
-323,bonus 
-324,book 
-325,boom 
-326,boot 
-327,border 
-328,bored 
-329,boring 
-330,born 
-331,borrow 
-332,boss 
-333,both 
-334,bother 
-335,bottle 
-336,bottom 
-337,bounce 
-338,bound 
-339,bowl 
-340,box 
-341,boy 
-342,boyfriend 
-343,brain 
-344,branch 
-345,brave 
-346,bread 
-347,break 
-348,breakfast 
-349,breast 
-350,breath 
-351,breathe 
-352,brick 
-353,bridge 
-354,brief 
-355,briefly 
-356,bright 
-357,brilliant 
-358,bring 
-359,broad 
-360,brother 
-361,brown 
-362,brush 
-363,buck 
-364,bucket 
-365,buddy 
-366,budget 
-367,bug 
-368,build 
-369,builder 
-370,building 
-371,bump 
-372,bunch 
-373,burn 
-374,burst 
-375,bury 
-376,bus 
-377,business 
-378,busy 
-379,but 
-380,butcher 
-381,butter 
-382,button 
-383,buy 
-384,buyer 
-385,by 
-386,bye 
-387,bye  
-388,cabinet
-389,cable 
-390,cake 
-391,calculate 
-392,calculation 
-393,calculator 
-394,calendar 
-395,call 
-396,calm 
-397,camera 
-398,camp 
-399,campaign 
-400,can 
-401,can
-402,cancel 
-403,cancer 
-404,candidate 
-405,candle 
-406,candy 
-407,cap 
-408,capable 
-409,capacity 
-410,capital 
-411,captain 
-412,capture 
-413,car 
-414,card 
-415,care 
-416,career 
-417,careful 
-418,carefully 
-419,carpet 
-420,carrot 
-421,carry 
-422,cartoon 
-423,case 
-424,cash 
-425,cast 
-426,castle 
-427,cat 
-428,catalogue 
-429,catch 
-430,category 
-431,cause 
-432,CD 
-433,cease 
-434,ceiling 
-435,celebrate 
-436,celebration 
-437,cell 
-438,cellphone 
-439,cent 
-440,centimetre 
-441,central 
-442,centre 
-443,century 
-444,cereal 
-445,certain 
-446,certainly 
-447,certificate 
-448,chain 
-449,chair 
-450,chairman 
-451,challenge 
-452,champion 
-453,championship 
-454,chance 
-455,change 
-456,channel 
-457,chap 
-458,chapter 
-459,character 
-460,characteristic 
-461,characterize 
-462,charge 
-463,charity 
-464,chart 
-465,chase 
-466,chat 
-467,cheap 
-468,cheat 
-469,check 
-470,cheek 
-471,cheese 
-472,chemical 
-473,chemist 
-474,chemistry 
-475,cheque 
-476,cherry 
-477,chest 
-478,chicken 
-479,chief 
-480,child 
-481,childhood 
-482,chip 
-483,chocolate 
-484,choice 
-485,choose 
-486,chop 
-487,chuck 
-488,church 
-489,cigarette 
-490,cinema 
-491,circle 
-492,circuit 
-493,circumstance 
-494,citizen 
-495,city 
-496,civil 
-497,claim 
-498,class 
-499,classic 
-500,classical 
-501,classroom 
-502,clean 
-503,cleaner 
-504,clear 
-505,clearly 
-506,clerk 
-507,clever 
-508,click 
-509,client 
-510,climate 
-511,climb 
-512,clock 
-513,close 
-514,closed 
-515,closely 
-516,closet 
-517,cloth 
-518,clothes 
-519,cloud 
-520,club 
-521,clue 
-522,coach 
-523,coal 
-524,coast 
-525,coat 
-526,code 
-527,coffee 
-528,coin 
-529,cold 
-530,collapse 
-531,collar 
-532,colleague 
-533,collect 
-534,collection 
-535,college 
-536,colour 
-537,column 
-538,combination 
-539,combine 
-540,come 
-541,comfort 
-542,comfortable 
-543,command 
-544,comment 
-545,commercial 
-546,commission 
-547,commit 
-548,commitment 
-549,committee 
-550,common 
-551,communicate 
-552,communication 
-553,community 
-554,company 
-555,compare 
-556,comparison 
-557,compete 
-558,competition 
-559,competitive 
-560,complain 
-561,complaint 
-562,complete 
-563,completely 
-564,complex 
-565,complicated 
-566,component 
-567,comprehensive 
-568,comprise 
-569,computer 
-570,concentrate 
-571,concentration 
-572,concept 
-573,concern 
-574,concerned 
-575,concerning 
-576,concert 
-577,conclude 
-578,conclusion 
-579,condition 
-580,conduct 
-581,conference 
-582,confidence 
-583,confident 
-584,confine 
-585,confirm 
-586,conflict 
-587,confused 
-588,confusing 
-589,confusion 
-590,congratulation 
-591,connect 
-592,connection 
-593,conscious 
-594,consciousness 
-595,consent 
-596,consequence 
-597,consider 
-598,considerable 
-599,considerably 
-600,consideration 
-601,consist 
-602,consistent 
-603,constant 
-604,constantly 
-605,constitute 
-606,construct 
-607,construction 
-608,consult 
-609,consumer 
-610,consumption 
-611,contact 
-612,contain 
-613,contemporary 
-614,content 
-615,contest 
-616,context 
-617,continue 
-618,continuous 
-619,contract 
-620,contrast 
-621,contribute 
-622,contribution 
-623,control 
-624,convenient 
-625,convention 
-626,conventional 
-627,conversation 
-628,convert 
-629,conviction 
-630,convince 
-631,cook 
-632,cooker 
-633,cookie 
-634,cool 
-635,cooperation 
-636,cope 
-637,copy 
-638,core 
-639,corn 
-640,corner 
-641,correct 
-642,corridor 
-643,cost 
-644,cottage 
-645,cotton 
-646,could
-647,council 
-648,count 
-649,counter 
-650,country 
-651,countryside 
-652,county 
-653,couple 
-654,courage 
-655,course 
-656,court 
-657,cousin 
-658,cover 
-659,cow 
-660,crack 
-661,craft 
-662,crash 
-663,crazy 
-664,create 
-665,creation 
-666,creative 
-667,creature 
-668,credit 
-669,credit card 
-670,crew 
-671,crime 
-672,criminal 
-673,crisis 
-674,criterion 
-675,critic 
-676,critical 
-677,criticism 
-678,criticize 
-679,crop 
-680,cross 
-681,crowd 
-682,crown 
-683,crucial 
-684,cruel 
-685,cry 
-686,cultural 
-687,culture 
-688,cup 
-689,cupboard 
-690,curious 
-691,currency 
-692,current 
-693,currently 
-694,curtain 
-695,curve 
-696,cushion 
-697,custom 
-698,customer 
-699,cut 
-700,cute 
-701,cycle 
-702,dad 
-703,daddy 
-704,daft 
-705,daily 
-706,damage 
-707,dance 
-708,danger 
-709,dangerous 
-710,dare 
-711,dark 
-712,darkness 
-713,darling 
-714,data 
-715,database 
-716,date 
-717,daughter 
-718,day 
-719,dead 
-720,deaf 
-721,deal 
-722,dealer 
-723,dear 
-724,dear  
-725,death 
-726,debate 
-727,debt 
-728,decade 
-729,decent 
-730,decide 
-731,decision 
-732,declare 
-733,decline 
-734,deep 
-735,deeply 
-736,defeat 
-737,defence 
-738,defend 
-739,define 
-740,definite 
-741,definitely 
-742,definition 
-743,degree 
-744,delay 
-745,deliberately 
-746,deliver 
-747,delivery 
-748,demand 
-749,democracy 
-750,democratic 
-751,demonstrate 
-752,demonstration 
-753,dentist 
-754,deny 
-755,department 
-756,departure 
-757,depend 
-758,dependent 
-759,deposit 
-760,depression 
-761,depth 
-762,derive 
-763,describe 
-764,description 
-765,desert 
-766,deserve 
-767,design 
-768,designer 
-769,desire 
-770,desk 
-771,desperate 
-772,despite 
-773,destroy 
-774,destruction 
-775,detail 
-776,detailed 
-777,detect 
-778,determination 
-779,determine 
-780,determined 
-781,develop 
-782,development 
-783,device 
-784,devil 
-785,diagram 
-786,diamond 
-787,diary 
-788,die 
-789,diet 
-790,differ 
-791,difference 
-792,different 
-793,difficult 
-794,difficulty 
-795,dig 
-796,dimension 
-797,dinner 
-798,direct 
-799,direction 
-800,directly 
-801,director 
-802,directory 
-803,dirt 
-804,dirty 
-805,disabled 
-806,disagree 
-807,disappear 
-808,disappoint 
-809,disappointed 
-810,disaster 
-811,disc 
-812,discipline 
-813,discount 
-814,discover 
-815,discovery 
-816,discuss 
-817,discussion 
-818,disease 
-819,disgusting 
-820,dish 
-821,disk 
-822,dismiss 
-823,display 
-824,dispute 
-825,distance 
-826,distant 
-827,distinct 
-828,distinction 
-829,distinguish 
-830,distribute 
-831,distribution 
-832,district 
-833,disturb 
-834,divide 
-835,division 
-836,divorce 
-837,do 
-838,doctor 
-839,document 
-840,dog 
-841,dollar 
-842,domestic 
-843,dominant 
-844,dominate 
-845,door 
-846,dot 
-847,double 
-848,doubt 
-849,down 
-850,downstairs 
-851,downtown 
-852,dozen 
-853,draft 
-854,drag 
-855,drama 
-856,dramatic 
-857,draw 
-858,drawer 
-859,drawing 
-860,dream 
-861,dress 
-862,drink 
-863,drive 
-864,driver 
-865,drop 
-866,drug 
-867,drunk 
-868,dry 
-869,duck 
-870,dude 
-871,due 
-872,dull 
-873,dumb 
-874,dump 
-875,during 
-876,dust 
-877,duty 
-878,DVD 
-879,each 
-880,each other 
-881,ear 
-882,early 
-883,earn 
-884,earth 
-885,ease 
-886,easily 
-887,east 
-888,eastern 
-889,easy 
-890,eat 
-891,economic 
-892,economics 
-893,economy 
-894,edge 
-895,edition 
-896,editor 
-897,education 
-898,educational 
-899,efficiency 
-900,efficient 
-901,effect 
-902,effective 
-903,effectively 
-904,effort 
-905,egg 
-906,either 
-907,elderly 
-908,elect 
-909,election 
-910,electric 
-911,electrical 
-912,electricity 
-913,electronic 
-914,element 
-915,elevator 
-916,else 
-917,elsewhere 
-918,email 
-919,embarrassed 
-920,emerge 
-921,emergency 
-922,emotion 
-923,emotional 
-924,emphasis 
-925,emphasize 
-926,empire 
-927,employ 
-928,employee 
-929,employer 
-930,employment 
-931,empty 
-932,enable 
-933,encounter 
-934,encourage 
-935,encouraging 
-936,end 
-937,enemy 
-938,energy 
-939,engage 
-940,engine 
-941,engineer 
-942,engineering 
-943,enhance 
-944,enjoy 
-945,enjoyable 
-946,enormous 
-947,enough 
-948,enquiry 
-949,ensure 
-950,enter 
-951,enterprise 
-952,entertainment 
-953,enthusiasm 
-954,enthusiastic 
-955,entire 
-956,entirely 
-957,entitle 
-958,entrance 
-959,entry 
-960,envelope 
-961,environment 
-962,environmental 
-963,equal 
-964,equally 
-965,equipment 
-966,equivalent 
-967,era 
-968,error 
-969,escape 
-970,especially 
-971,essay 
-972,essential 
-973,essentially 
-974,establish 
-975,establishment 
-976,estate 
-977,estimate 
-978,ethnic 
-979,even 
-980,evening 
-981,event 
-982,eventually 
-983,ever 
-984,every 
-985,everybody 
-986,everyone 
-987,everything 
-988,everywhere 
-989,evidence 
-990,evil 
-991,exact 
-992,exactly 
-993,exam 
-994,examination 
-995,examine 
-996,example 
-997,excellent 
-998,except 
-999,exception 
-1000,exchange 
-1001,excitement 
-1002,exciting 
-1003,exclude 
-1004,excuse 
-1005,executive 
-1006,exercise 
-1007,exhibition 
-1008,exist 
-1009,existence 
-1010,existing 
-1011,exit 
-1012,expand 
-1013,expansion 
-1014,expect 
-1015,expectation 
-1016,expenditure 
-1017,expense 
-1018,expensive 
-1019,experience 
-1020,experienced 
-1021,experiment 
-1022,experimental 
-1023,expert 
-1024,explain 
-1025,explanation 
-1026,explore 
-1027,explosion 
-1028,export 
-1029,expose 
-1030,express 
-1031,expression 
-1032,extend 
-1033,extension 
-1034,extensive 
-1035,extent 
-1036,external 
-1037,extra 
-1038,extraordinary 
-1039,extreme 
-1040,extremely 
-1041,eye 
-1042,face 
-1043,facility 
-1044,fact 
-1045,factor 
-1046,factory 
-1047,fail 
-1048,failure 
-1049,fair 
-1050,fairly 
-1051,faith 
-1052,fall 
-1053,false 
-1054,familiar 
-1055,family 
-1056,famous 
-1057,fan 
-1058,fancy 
-1059,fantastic 
-1060,far 
-1061,farm 
-1062,farmer 
-1063,fascinating 
-1064,fashion 
-1065,fast 
-1066,fat 
-1067,father 
-1068,fault 
-1069,favour 
-1070,favourite 
-1071,fear 
-1072,feature 
-1073,federal 
-1074,fee 
-1075,feed 
-1076,feedback 
-1077,feel 
-1078,feeling 
-1079,fellow 
-1080,female 
-1081,fence 
-1082,festival 
-1083,fetch 
-1084,few 
-1085,field 
-1086,fight 
-1087,figure 
-1088,file 
-1089,fill 
-1090,film 
-1091,filthy 
-1092,final 
-1093,finally 
-1094,finance 
-1095,financial 
-1096,find 
-1097,finding 
-1098,fine 
-1099,finger 
-1100,finish 
-1101,fire 
-1102,firm 
-1103,first 
-1104,firstly 
-1105,fish 
-1106,fishing 
-1107,fit 
-1108,fix 
-1109,fixed 
-1110,flash 
-1111,flat 
-1112,flavour 
-1113,flesh 
-1114,flight 
-1115,flood 
-1116,floor 
-1117,flow 
-1118,flower 
-1119,fly 
-1120,focus 
-1121,fold 
-1122,folk 
-1123,follow 
-1124,following 
-1125,food 
-1126,foot 
-1127,football 
-1128,for 
-1129,force 
-1130,foreign 
-1131,forest 
-1132,forever 
-1133,forget 
-1134,forgive 
-1135,fork 
-1136,form 
-1137,formal 
-1138,formally 
-1139,formation 
-1140,former 
-1141,formula 
-1142,forth 
-1143,fortnight 
-1144,fortunate 
-1145,fortune 
-1146,forward 
-1147,foundation 
-1148,frame 
-1149,frankly 
-1150,free 
-1151,freedom 
-1152,freeway 
-1153,freeze 
-1154,freezer 
-1155,frequent 
-1156,frequently 
-1157,fresh 
-1158,fridge 
-1159,friend 
-1160,friendly 
-1161,friendship 
-1162,frightened 
-1163,from 
-1164,front 
-1165,fruit 
-1166,fry 
-1167,fuel 
-1168,full 
-1169,fully 
-1170,fun 
-1171,function 
-1172,fund 
-1173,fundamental 
-1174,funeral 
-1175,funny 
-1176,furniture 
-1177,further 
-1178,fuss 
-1179,future 
-1180,gain 
-1181,gallery 
-1182,game 
-1183,gang 
-1184,gap 
-1185,garage 
-1186,garbage 
-1187,garden 
-1188,garlic 
-1189,gas 
-1190,gasoline 
-1191,gate 
-1192,gather 
-1193,gay 
-1194,gear 
-1195,gene 
-1196,general 
-1197,generally 
-1198,generate 
-1199,generation 
-1200,generous 
-1201,gentle 
-1202,gentleman 
-1203,gently 
-1204,genuine 
-1205,get 
-1206,giant 
-1207,gift 
-1208,girl 
-1209,girlfriend 
-1210,give 
-1211,glad 
-1212,glance 
-1213,glass 
-1214,global 
-1215,glove 
-1216,go 
-1217,goal 
-1218,god 
-1219,gold 
-1220,golden 
-1221,golf 
-1222,good 
-1223,good morning  
-1224,good night  
-1225,goodbye  
-1226,goodness 
-1227,goods 
-1228,gorgeous 
-1229,gosh  
-1230,govern 
-1231,government 
-1232,governor 
-1233,grab 
-1234,grade 
-1235,gradually 
-1236,gram 
-1237,grammar 
-1238,grand 
-1239,grandad 
-1240,grandfather 
-1241,grandma 
-1242,grandmother 
-1243,grandpa 
-1244,granny 
-1245,grant 
-1246,graph 
-1247,grass 
-1248,grateful 
-1249,great 
-1250,greatly 
-1251,green 
-1252,grey 
-1253,grocery 
-1254,gross 
-1255,ground 
-1256,group 
-1257,grow 
-1258,growth 
-1259,guarantee 
-1260,guard 
-1261,guess 
-1262,guest 
-1263,guidance 
-1264,guide 
-1265,guilty 
-1266,guitar 
-1267,gun 
-1268,guy 
-1269,habit 
-1270,hair 
-1271,half 
-1272,half 
-1273,halfway 
-1274,hall 
-1275,hand 
-1276,handbag 
-1277,handle 
-1278,handy 
-1279,hang 
-1280,happen 
-1281,happy 
-1282,hard 
-1283,hardly 
-1284,harm 
-1285,hat 
-1286,hate 
-1287,have 
-1288,he 
-1289,head 
-1290,headquarters 
-1291,health 
-1292,healthy 
-1293,hear 
-1294,hearing 
-1295,heart 
-1296,heat 
-1297,heater 
-1298,heating 
-1299,heaven 
-1300,heavily 
-1301,heavy 
-1302,height 
-1303,hell 
-1304,hello  
-1305,help 
-1306,helpful 
-1307,hence 
-1308,her 
-1309,here 
-1310,hero 
-1311,hers 
-1312,herself 
-1313,hesitate 
-1314,hi  
-1315,hide 
-1316,high 
-1317,highlight 
-1318,highly 
-1319,highway 
-1320,hill 
-1321,him 
-1322,himself 
-1323,hire 
-1324,his 
-1325,historian 
-1326,historical 
-1327,history 
-1328,hit 
-1329,hold 
-1330,holder 
-1331,holding 
-1332,hole 
-1333,holiday 
-1334,holy 
-1335,home 
-1336,homework 
-1337,honest 
-1338,honestly 
-1339,honey 
-1340,honour 
-1341,hook 
-1342,hope 
-1343,hopefully 
-1344,hopeless 
-1345,horrible 
-1346,horror 
-1347,horse 
-1348,hospital 
-1349,host 
-1350,hot 
-1351,hotel 
-1352,hour 
-1353,house 
-1354,household 
-1355,housing 
-1356,how 
-1357,however 
-1358,huge 
-1359,human 
-1360,hungry 
-1361,hunt 
-1362,hurry 
-1363,hurt 
-1364,husband 
-1365,I 
-1366,ice 
-1367,ice cream 
-1368,idea 
-1369,ideal 
-1370,ideally 
-1371,identify 
-1372,identity 
-1373,idiot 
-1374,if 
-1375,ignore 
-1376,ill 
-1377,illegal 
-1378,illness 
-1379,illustrate 
-1380,image 
-1381,imagination 
-1382,imagine 
-1383,immediate 
-1384,immediately 
-1385,impact 
-1386,implement 
-1387,implication 
-1388,imply 
-1389,import 
-1390,importance 
-1391,important 
-1392,impose 
-1393,impossible 
-1394,impress 
-1395,impression 
-1396,impressive 
-1397,improve 
-1398,improvement 
-1399,in 
-1400,inch 
-1401,incident 
-1402,include 
-1403,including 
-1404,income 
-1405,incorporate 
-1406,increase 
-1407,increasingly 
-1408,incredible 
-1409,incredibly 
-1410,indeed 
-1411,independence 
-1412,independent 
-1413,index 
-1414,indicate 
-1415,indication 
-1416,individual 
-1417,industrial 
-1418,industry 
-1419,inevitable 
-1420,inevitably 
-1421,infant 
-1422,infection 
-1423,inflation 
-1424,influence 
-1425,inform 
-1426,informal 
-1427,information 
-1428,initial 
-1429,initially 
-1430,initiative 
-1431,injure 
-1432,injury 
-1433,inner 
-1434,innocent 
-1435,innovation 
-1436,input 
-1437,inquiry 
-1438,insect 
-1439,inside 
-1440,insist 
-1441,inspection 
-1442,inspector 
-1443,install 
-1444,instance 
-1445,instant 
-1446,instead 
-1447,institute 
-1448,institution 
-1449,instruction 
-1450,instrument 
-1451,insurance 
-1452,intellectual 
-1453,intelligence 
-1454,intelligent 
-1455,intend 
-1456,intense 
-1457,intention 
-1458,interaction 
-1459,interest 
-1460,interested 
-1461,interesting 
-1462,internal 
-1463,international 
-1464,internet 
-1465,interpret 
-1466,interpretation 
-1467,interval 
-1468,intervention 
-1469,interview 
-1470,into 
-1471,introduce 
-1472,introduction 
-1473,invest 
-1474,investigate 
-1475,investigation 
-1476,investment 
-1477,invite 
-1478,involve 
-1479,involved 
-1480,involvement 
-1481,iron 
-1482,island 
-1483,issue 
-1484,it 
-1485,item 
-1486,its 
-1487,itself 
-1488,jacket 
-1489,jam 
-1490,job 
-1491,join 
-1492,joint 
-1493,joke 
-1494,journalist 
-1495,journey 
-1496,joy 
-1497,judge 
-1498,judgment 
-1499,juice 
-1500,jump 
-1501,jumper 
-1502,junior 
-1503,jury 
-1504,just 
-1505,justice 
-1506,justify 
-1507,keen 
-1508,keep 
-1509,kettle 
-1510,key 
-1511,keyboard 
-1512,kick 
-1513,kid 
-1514,kill 
-1515,kilometre 
-1516,kind 
-1517,king 
-1518,kiss 
-1519,kit 
-1520,kitchen 
-1521,knee 
-1522,knife 
-1523,knock 
-1524,know 
-1525,knowledge 
-1526,known 
-1527,lab 
-1528,label 
-1529,laboratory 
-1530,labour 
-1531,lack 
-1532,lad 
-1533,ladder 
-1534,lady 
-1535,lake 
-1536,lamb 
-1537,lamp 
-1538,land 
-1539,landlord 
-1540,landscape 
-1541,lane 
-1542,language 
-1543,large 
-1544,largely 
-1545,last 
-1546,late 
-1547,later 
-1548,latter 
-1549,laugh 
-1550,launch 
-1551,law 
-1552,lawyer 
-1553,lay 
-1554,layer 
-1555,lazy 
-1556,lead 
-1557,leader 
-1558,leadership 
-1559,leading 
-1560,leaf 
-1561,league 
-1562,lean 
-1563,learn 
-1564,least 
-1565,leather 
-1566,leave 
-1567,lecture 
-1568,left 
-1569,leg 
-1570,legal 
-1571,legislation 
-1572,leisure 
-1573,lend 
-1574,length 
-1575,less 
-1576,lesson 
-1577,let 
-1578,letter 
-1579,level 
-1580,liberal 
-1581,library 
-1582,licence 
-1583,lick 
-1584,lid 
-1585,lie 
-1586,life 
-1587,lift 
-1588,light 
-1589,lighting 
-1590,like 
-1591,likely 
-1592,limit 
-1593,limitation 
-1594,limited 
-1595,line 
-1596,link 
-1597,lip 
-1598,liquid 
-1599,list 
-1600,listen 
-1601,literally 
-1602,literary 
-1603,literature 
-1604,little 
-1605,live 
-1606,lively 
-1607,living 
-1608,load 
-1609,loan 
-1610,local 
-1611,locate 
-1612,location 
-1613,lock 
-1614,log 
-1615,logical 
-1616,lonely 
-1617,long 
-1618,long-term 
-1619,look 
-1620,loose 
-1621,lord 
-1622,lorry 
-1623,lose 
-1624,loss 
-1625,lost 
-1626,lot 
-1627,loud 
-1628,lounge 
-1629,love 
-1630,lovely 
-1631,lover 
-1632,low 
-1633,lower 
-1634,luck 
-1635,luckily 
-1636,lucky 
-1637,lump 
-1638,lunch 
-1639,lunchtime 
-1640,machine 
-1641,machinery 
-1642,mad 
-1643,madam 
-1644,magazine 
-1645,magic 
-1646,mail 
-1647,main 
-1648,mainly 
-1649,maintain 
-1650,maintenance 
-1651,major 
-1652,majority 
-1653,make 
-1654,male 
-1655,mall 
-1656,man 
-1657,manage 
-1658,management 
-1659,manager 
-1660,manner 
-1661,manufacturer 
-1662,manufacturing 
-1663,many 
-1664,map 
-1665,march 
-1666,margin 
-1667,mark 
-1668,market 
-1669,marketing 
-1670,marriage 
-1671,married 
-1672,marry 
-1673,marvellous 
-1674,mass 
-1675,massive 
-1676,master 
-1677,match 
-1678,mate 
-1679,material 
-1680,math 
-1681,maths 
-1682,matter 
-1683,maximum 
-1684,may 
-1685,maybe 
-1686,me 
-1687,meal 
-1688,mean 
-1689,meaning 
-1690,means 
-1691,meanwhile 
-1692,measure 
-1693,measurement 
-1694,meat 
-1695,mechanism 
-1696,media 
-1697,medical 
-1698,medicine 
-1699,medieval 
-1700,medium 
-1701,meet 
-1702,meeting 
-1703,member 
-1704,membership 
-1705,memory 
-1706,mental 
-1707,mention 
-1708,menu 
-1709,mere 
-1710,merely 
-1711,mess 
-1712,message 
-1713,messy 
-1714,metal 
-1715,method 
-1716,metre 
-1717,middle 
-1718,midnight 
-1719,might 
-1720,mile 
-1721,military 
-1722,milk 
-1723,millimetre 
-1724,mind 
-1725,mine 
-1726,mineral 
-1727,minimum 
-1728,minister 
-1729,ministry 
-1730,minor 
-1731,minority 
-1732,minute 
-1733,mirror 
-1734,misery 
-1735,miss 
-1736,mission 
-1737,mistake 
-1738,mix 
-1739,mixed 
-1740,mixture 
-1741,mobile 
-1742,mobile phone 
-1743,mode 
-1744,model 
-1745,modern 
-1746,mom 
-1747,moment 
-1748,mommy 
-1749,money 
-1750,monitor 
-1751,month 
-1752,mood 
-1753,moon 
-1754,moral 
-1755,more 
-1756,moreover 
-1757,morning 
-1758,mortgage 
-1759,most 
-1760,mostly 
-1761,mother 
-1762,motion 
-1763,motor 
-1764,motorway 
-1765,mountain 
-1766,mouse 
-1767,mouth 
-1768,move 
-1769,movement 
-1770,movie 
-1771,much 
-1772,mud 
-1773,mum 
-1774,mummy 
-1775,murder 
-1776,muscle 
-1777,museum 
-1778,mushroom 
-1779,music 
-1780,musical 
-1781,must 
-1782,my 
-1783,myself 
-1784,mystery 
-1785,nail 
-1786,naked 
-1787,name 
-1788,narrow 
-1789,nasty 
-1790,nation 
-1791,national 
-1792,native 
-1793,natural 
-1794,naturally 
-1795,nature 
-1796,naughty 
-1797,near 
-1798,nearby 
-1799,nearly 
-1800,neat 
-1801,necessarily 
-1802,necessary 
-1803,neck 
-1804,need 
-1805,negative 
-1806,negotiate 
-1807,negotiation 
-1808,neighbour 
-1809,neighbourhood 
-1810,neither 
-1811,nerve 
-1812,nervous 
-1813,net 
-1814,network 
-1815,never 
-1816,nevertheless 
-1817,new 
-1818,newly 
-1819,news 
-1820,newspaper 
-1821,next 
-1822,nice 
-1823,nicely 
-1824,night 
-1825,nil 
-1826,no 
-1827,no one 
-1828,no way 
-1829,nobody 
-1830,nod 
-1831,noise 
-1832,noisy 
-1833,none 
-1834,nonsense 
-1835,nope 
-1836,nor 
-1837,normal 
-1838,normally 
-1839,north 
-1840,northern 
-1841,nose 
-1842,not 
-1843,notably 
-1844,note 
-1845,nothing 
-1846,notice 
-1847,notion 
-1848,novel 
-1849,now 
-1850,nowadays 
-1851,nowhere 
-1852,nuclear 
-1853,nuisance 
-1854,number 
-1855,numerous 
-1856,nurse 
-1857,nut 
-1858,o�clock 
-1859,object 
-1860,objection 
-1861,objective 
-1862,obligation 
-1863,observation 
-1864,observe 
-1865,obtain 
-1866,obvious 
-1867,obviously 
-1868,occasion 
-1869,occasional 
-1870,occasionally 
-1871,occupation 
-1872,occupy 
-1873,occur 
-1874,ocean 
-1875,odd 
-1876,odds 
-1877,of 
-1878,of course 
-1879,off 
-1880,offence 
-1881,offer 
-1882,office 
-1883,officer 
-1884,official 
-1885,often 
-1886,oil 
-1887,OK 
-1888,OK  
-1889,old 
-1890,on 
-1891,once 
-1892,one 
-1893,one another 
-1894,onion 
-1895,only 
-1896,onto 
-1897,open 
-1898,opening 
-1899,operate 
-1900,operation 
-1901,operator 
-1902,opinion 
-1903,opponent 
-1904,opportunity 
-1905,oppose 
-1906,opposite 
-1907,opposition 
-1908,option 
-1909,or 
-1910,orange 
-1911,order 
-1912,ordinary 
-1913,organ 
-1914,organic 
-1915,organization 
-1916,organize 
-1917,organized 
-1918,origin 
-1919,original 
-1920,originally 
-1921,other 
-1922,otherwise 
-1923,ought to 
-1924,ounce 
-1925,our 
-1926,ours 
-1927,ourselves 
-1928,out 
-1929,outcome 
-1930,output 
-1931,outside 
-1932,outstanding 
-1933,oven 
-1934,over 
-1935,overall 
-1936,overcome 
-1937,overseas 
-1938,overtime 
-1939,owe 
-1940,own 
-1941,owner 
-1942,ownership 
-1943,pace 
-1944,pack 
-1945,package 
-1946,packet 
-1947,pad 
-1948,page 
-1949,pain 
-1950,paint 
-1951,painting 
-1952,pair 
-1953,palace 
-1954,pale 
-1955,pan 
-1956,panel 
-1957,panic 
-1958,pants 
-1959,paper 
-1960,parcel 
-1961,pardon  
-1962,parent 
-1963,park 
-1964,parking 
-1965,parliament 
-1966,part 
-1967,participate 
-1968,particular 
-1969,particularly 
-1970,partly 
-1971,partner 
-1972,partnership 
-1973,party 
-1974,pass 
-1975,passage 
-1976,passenger 
-1977,passion 
-1978,past 
-1979,path 
-1980,patience 
-1981,patient 
-1982,pattern 
-1983,pause 
-1984,pay 
-1985,payment 
-1986,peace 
-1987,peaceful 
-1988,peak 
-1989,pen 
-1990,penalty 
-1991,pencil 
-1992,penny 
-1993,pension 
-1994,people 
-1995,pepper 
-1996,per 
-1997,perceive 
-1998,percent 
-1999,percentage 
-2000,perception 
-2001,perfect 
-2002,perfectly 
-2003,perform 
-2004,performance 
-2005,perhaps 
-2006,period 
-2007,permanent 
-2008,permission 
-2009,permit 
-2010,person 
-2011,personal 
-2012,personality 
-2013,personally 
-2014,personnel 
-2015,perspective 
-2016,persuade 
-2017,petrol 
-2018,phase 
-2019,philosophy 
-2020,phone 
-2021,photo 
-2022,photocopy 
-2023,photograph 
-2024,phrase 
-2025,physical 
-2026,physically 
-2027,physics 
-2028,piano 
-2029,pick 
-2030,picture 
-2031,pie 
-2032,piece 
-2033,pig 
-2034,pile 
-2035,pill 
-2036,pilot 
-2037,pin 
-2038,pink 
-2039,pint 
-2040,pipe 
-2041,pitch 
-2042,pity 
-2043,pizza 
-2044,place 
-2045,plain 
-2046,plan 
-2047,plane 
-2048,planet 
-2049,plant 
-2050,plastic 
-2051,plate 
-2052,platform 
-2053,play 
-2054,player 
-2055,pleasant 
-2056,please 
-2057,please  
-2058,pleased 
-2059,pleasure 
-2060,plenty 
-2061,plot 
-2062,plug 
-2063,plus 
-2064,pocket 
-2065,poem 
-2066,poet 
-2067,poetry 
-2068,point 
-2069,pole 
-2070,police 
-2071,policeman 
-2072,policy 
-2073,polite 
-2074,political 
-2075,politician 
-2076,politics 
-2077,poll 
-2078,pollution 
-2079,pond 
-2080,pool 
-2081,poor 
-2082,pop 
-2083,popular 
-2084,population 
-2085,port 
-2086,pose 
-2087,position 
-2088,positive 
-2089,possess 
-2090,possession 
-2091,possibility 
-2092,possible 
-2093,possibly 
-2094,post 
-2095,post office 
-2096,poster 
-2097,pot 
-2098,potato 
-2099,potential 
-2100,pound 
-2101,pour 
-2102,poverty 
-2103,power 
-2104,powerful 
-2105,practical 
-2106,practically 
-2107,practice 
-2108,practise 
-2109,praise 
-2110,pray 
-2111,prayer 
-2112,precise 
-2113,precisely 
-2114,predict 
-2115,prefer 
-2116,preference 
-2117,pregnant 
-2118,premise 
-2119,preparation 
-2120,prepare 
-2121,prepared 
-2122,presence 
-2123,present 
-2124,presentation 
-2125,preserve 
-2126,president 
-2127,press 
-2128,pressure 
-2129,presumably 
-2130,presume 
-2131,pretend 
-2132,pretty 
-2133,prevent 
-2134,previous 
-2135,previously 
-2136,price 
-2137,pride 
-2138,priest 
-2139,primarily 
-2140,primary 
-2141,prince 
-2142,princess 
-2143,principal 
-2144,principle 
-2145,print 
-2146,printer 
-2147,prior 
-2148,priority 
-2149,prison 
-2150,prisoner 
-2151,private 
-2152,privilege 
-2153,prize 
-2154,probably 
-2155,problem 
-2156,procedure 
-2157,proceed 
-2158,proceeding 
-2159,process 
-2160,produce 
-2161,producer 
-2162,product 
-2163,production 
-2164,profession 
-2165,professional 
-2166,professor 
-2167,profile 
-2168,profit 
-2169,program 
-2170,programme 
-2171,progress 
-2172,project 
-2173,promise 
-2174,promote 
-2175,promotion 
-2176,prompt 
-2177,proof 
-2178,proper 
-2179,properly 
-2180,property 
-2181,proportion 
-2182,proposal 
-2183,propose 
-2184,proposed 
-2185,prosecution 
-2186,prospect 
-2187,protect 
-2188,protection 
-2189,protest 
-2190,proud 
-2191,prove 
-2192,provide 
-2193,provided 
-2194,providing 
-2195,provision 
-2196,psychological 
-2197,psychology 
-2198,pub 
-2199,public 
-2200,publication 
-2201,publicity 
-2202,publish 
-2203,publisher 
-2204,pudding 
-2205,pull 
-2206,punch 
-2207,punishment 
-2208,pupil 
-2209,purchase 
-2210,pure 
-2211,purely 
-2212,purple 
-2213,purpose 
-2214,purse 
-2215,pursue 
-2216,push 
-2217,put 
-2218,qualification
-2219,qualify 
-2220,quality 
-2221,quantity 
-2222,quarter 
-2223,queen 
-2224,question 
-2225,queue 
-2226,quick 
-2227,quickly 
-2228,quid 
-2229,quiet 
-2230,quietly 
-2231,quit 
-2232,quite 
-2233,quote 
-2234,race
-2235,racing 
-2236,radical 
-2237,radio 
-2238,rail 
-2239,railway 
-2240,rain 
-2241,raise 
-2242,range 
-2243,rank 
-2244,rapid 
-2245,rapidly 
-2246,rare 
-2247,rarely 
-2248,rate 
-2249,rather 
-2250,ratio 
-2251,raw 
-2252,reach 
-2253,react 
-2254,reaction 
-2255,read 
-2256,reader 
-2257,readily 
-2258,reading 
-2259,ready 
-2260,real 
-2261,realistic 
-2262,reality 
-2263,realize 
-2264,really 
-2265,reason 
-2266,reasonable 
-2267,reasonably 
-2268,recall 
-2269,receipt 
-2270,receive 
-2271,recent 
-2272,recently 
-2273,reception 
-2274,recipe 
-2275,reckon 
-2276,recognition 
-2277,recognize 
-2278,recommend 
-2279,recommendation 
-2280,record 
-2281,recording 
-2282,recover 
-2283,recovery 
-2284,red 
-2285,reduce 
-2286,reduction 
-2287,refer 
-2288,reference 
-2289,reflect 
-2290,reflection 
-2291,reform 
-2292,refrigerator 
-2293,refuse 
-2294,regard 
-2295,regime 
-2296,region 
-2297,regional 
-2298,register 
-2299,registration 
-2300,regret 
-2301,regular 
-2302,regularly 
-2303,regulation 
-2304,reinforce 
-2305,reject 
-2306,relate 
-2307,related 
-2308,relation 
-2309,relationship 
-2310,relative 
-2311,relatively 
-2312,relax 
-2313,release 
-2314,relevant 
-2315,relief 
-2316,relieve 
-2317,religion 
-2318,religious 
-2319,rely 
-2320,remain 
-2321,remaining 
-2322,remains 
-2323,remark 
-2324,remarkable 
-2325,remember 
-2326,remind 
-2327,remote 
-2328,remove 
-2329,rent 
-2330,repair 
-2331,repeat 
-2332,replace 
-2333,replacement 
-2334,reply 
-2335,report 
-2336,reporter 
-2337,represent 
-2338,representation 
-2339,representative 
-2340,republic 
-2341,reputation 
-2342,request 
-2343,require 
-2344,requirement 
-2345,rescue 
-2346,research 
-2347,reserve 
-2348,resident 
-2349,residential 
-2350,resign 
-2351,resignation 
-2352,resist 
-2353,resistance 
-2354,resolution 
-2355,resolve 
-2356,resort 
-2357,resource 
-2358,respect 
-2359,respectively 
-2360,respond 
-2361,response 
-2362,responsibility 
-2363,responsible 
-2364,rest 
-2365,restaurant 
-2366,restore 
-2367,restrict 
-2368,restriction 
-2369,result 
-2370,retain 
-2371,retire 
-2372,retirement 
-2373,return 
-2374,reveal 
-2375,revenue 
-2376,reverse 
-2377,review 
-2378,revolution 
-2379,reward 
-2380,rhythm 
-2381,rice 
-2382,rich 
-2383,rid 
-2384,ride 
-2385,ridiculous 
-2386,right 
-2387,right  
-2388,ring 
-2389,rip 
-2390,rise 
-2391,risk 
-2392,rival 
-2393,river 
-2394,road 
-2395,rob 
-2396,rock 
-2397,role 
-2398,roll 
-2399,roof 
-2400,room 
-2401,root 
-2402,rope 
-2403,rough 
-2404,roughly 
-2405,round 
-2406,route 
-2407,routine 
-2408,row 
-2409,royal 
-2410,rub 
-2411,rubber 
-2412,rubbish 
-2413,rude 
-2414,ruin 
-2415,rule 
-2416,run 
-2417,rural 
-2418,rush 
-2419,sack 
-2420,sad 
-2421,safe 
-2422,safety 
-2423,sail 
-2424,sake 
-2425,salad 
-2426,salary 
-2427,sale 
-2428,salt 
-2429,same 
-2430,sample 
-2431,sand 
-2432,sandwich 
-2433,satellite 
-2434,satisfaction 
-2435,satisfied 
-2436,satisfy 
-2437,sauce 
-2438,sausage 
-2439,save 
-2440,saving 
-2441,say 
-2442,scale 
-2443,scared 
-2444,scene 
-2445,schedule 
-2446,scheme 
-2447,school 
-2448,science 
-2449,scientific 
-2450,scientist 
-2451,scope 
-2452,score 
-2453,scratch 
-2454,scream 
-2455,screen 
-2456,screw 
-2457,script 
-2458,sea 
-2459,seal 
-2460,search 
-2461,season 
-2462,seat 
-2463,second 
-2464,secondary 
-2465,secondly 
-2466,secret 
-2467,secretary 
-2468,section 
-2469,sector 
-2470,secure 
-2471,security 
-2472,see 
-2473,seed 
-2474,seek 
-2475,seem 
-2476,seize 
-2477,select 
-2478,selection 
-2479,self 
-2480,sell 
-2481,send 
-2482,senior 
-2483,sense 
-2484,sensible 
-2485,sensitive 
-2486,sentence 
-2487,separate 
-2488,sequence 
-2489,series 
-2490,serious 
-2491,seriously 
-2492,servant 
-2493,serve 
-2494,service 
-2495,session 
-2496,set 
-2497,setting 
-2498,settle 
-2499,settlement 
-2500,several 
-2501,severe 
-2502,sew 
-2503,sex 
-2504,sexual 
-2505,shadow 
-2506,shake 
-2507,shall 
-2508,shame 
-2509,shape 
-2510,share 
-2511,sharp 
-2512,sharply 
-2513,shave 
-2514,she 
-2515,shed 
-2516,sheep 
-2517,sheet 
-2518,shelf 
-2519,shell 
-2520,shelter 
-2521,shift 
-2522,shine 
-2523,ship 
-2524,shirt 
-2525,shock 
-2526,shocked 
-2527,shocking 
-2528,shoe 
-2529,shoot 
-2530,shop 
-2531,shopping 
-2532,short 
-2533,shortly 
-2534,shot 
-2535,should 
-2536,shoulder 
-2537,shout 
-2538,shove 
-2539,show 
-2540,shower 
-2541,shrug 
-2542,shut 
-2543,sick 
-2544,side 
-2545,sight 
-2546,sign 
-2547,signal 
-2548,signature 
-2549,significance
-2550,significant 
-2551,significantly 
-2552,silence 
-2553,silent 
-2554,silly 
-2555,silver 
-2556,similar 
-2557,similarly 
-2558,simple 
-2559,simply 
-2560,sin 
-2561,since 
-2562,sing 
-2563,singer 
-2564,single 
-2565,sink 
-2566,sir 
-2567,sister 
-2568,sit 
-2569,site 
-2570,situation 
-2571,size 
-2572,skill 
-2573,skin 
-2574,skirt 
-2575,sky 
-2576,sleep 
-2577,slice 
-2578,slide 
-2579,slight 
-2580,slightly 
-2581,slim 
-2582,slip 
-2583,slope 
-2584,slow 
-2585,slowly 
-2586,small 
-2587,smart 
-2588,smell 
-2589,smile 
-2590,smoke 
-2591,smoking 
-2592,smooth 
-2593,snap 
-2594,snow 
-2595,so 
-2596,soap 
-2597,so-called 
-2598,social 
-2599,society 
-2600,sock 
-2601,soft 
-2602,software 
-2603,soil 
-2604,soldier 
-2605,sole 
-2606,solicitor 
-2607,solid 
-2608,solution 
-2609,solve 
-2610,some 
-2611,somebody 
-2612,somehow 
-2613,someone 
-2614,something 
-2615,sometimes 
-2616,somewhat 
-2617,somewhere 
-2618,son 
-2619,song 
-2620,soon 
-2621,sore 
-2622,sorry 
-2623,sort 
-2624,soul 
-2625,sound 
-2626,soup 
-2627,source 
-2628,south 
-2629,southern 
-2630,space 
-2631,spare 
-2632,speak 
-2633,speaker 
-2634,special 
-2635,specialist 
-2636,species 
-2637,specific 
-2638,specifically 
-2639,specify 
-2640,speech 
-2641,speed 
-2642,spell 
-2643,spelling 
-2644,spend 
-2645,spill 
-2646,spin 
-2647,spirit 
-2648,spiritual 
-2649,spite 
-2650,split 
-2651,spoil 
-2652,spokesman 
-2653,spoon 
-2654,sport 
-2655,spot 
-2656,spray 
-2657,spread 
-2658,spring 
-2659,squad 
-2660,square 
-2661,squeeze 
-2662,stable 
-2663,staff 
-2664,stage 
-2665,stair 
-2666,stake 
-2667,stall 
-2668,stamp 
-2669,stand 
-2670,standard 
-2671,star 
-2672,stare 
-2673,start 
-2674,starve 
-2675,state 
-2676,statement 
-2677,station 
-2678,statistic 
-2679,status 
-2680,stay 
-2681,steady 
-2682,steak 
-2683,steal 
-2684,steam 
-2685,steel 
-2686,steep 
-2687,step 
-2688,stick 
-2689,stiff 
-2690,still 
-2691,stir 
-2692,stock 
-2693,stomach 
-2694,stone 
-2695,stop 
-2696,storage 
-2697,store 
-2698,storm 
-2699,story 
-2700,straight 
-2701,straightforward 
-2702,strain 
-2703,strange 
-2704,stranger 
-2705,strategic 
-2706,strategy 
-2707,straw 
-2708,strawberry 
-2709,stream 
-2710,street 
-2711,strength 
-2712,strengthen 
-2713,stress 
-2714,stretch 
-2715,strict 
-2716,strike 
-2717,string 
-2718,strip 
-2719,stroke 
-2720,strong 
-2721,strongly 
-2722,structure 
-2723,struggle 
-2724,student 
-2725,studio 
-2726,study 
-2727,stuff 
-2728,stupid 
-2729,style 
-2730,subject 
-2731,submit 
-2732,subsequent 
-2733,subsequently 
-2734,substance 
-2735,substantial 
-2736,succeed 
-2737,success 
-2738,successful 
-2739,successfully 
-2740,such 
-2741,suck 
-2742,sudden 
-2743,suddenly 
-2744,suffer 
-2745,sufficient 
-2746,sugar 
-2747,suggest 
-2748,suggestion 
-2749,suit 
-2750,suitable 
-2751,sum 
-2752,summer 
-2753,sun 
-2754,super 
-2755,supermarket 
-2756,supper 
-2757,supply 
-2758,support 
-2759,supporter 
-2760,suppose 
-2761,sure 
-2762,surely 
-2763,surface 
-2764,surgery 
-2765,surprise 
-2766,surprised 
-2767,surprising 
-2768,surprisingly 
-2769,surround 
-2770,survey 
-2771,survival 
-2772,survive 
-2773,suspect 
-2774,suspicion 
-2775,suspicious 
-2776,sustain 
-2777,swap 
-2778,swear 
-2779,sweep 
-2780,sweet 
-2781,swim 
-2782,swimming 
-2783,swing 
-2784,switch 
-2785,symbol 
-2786,sympathy 
-2787,system 
-2788,table 
-2789,tablet 
-2790,tackle 
-2791,tail 
-2792,take 
-2793,tale 
-2794,talent 
-2795,talk 
-2796,tall 
-2797,tank 
-2798,tap 
-2799,tape 
-2800,target 
-2801,task 
-2802,taste 
-2803,tax 
-2804,taxi 
-2805,tea 
-2806,teach 
-2807,teacher 
-2808,teaching 
-2809,team 
-2810,tear 
-2811,technical 
-2812,technique 
-2813,technology 
-2814,telephone 
-2815,television 
-2816,tell 
-2817,telly 
-2818,temperature 
-2819,temporary 
-2820,tend 
-2821,tendency 
-2822,tennis 
-2823,tension 
-2824,tent 
-2825,term 
-2826,terrible 
-2827,terribly 
-2828,territory 
-2829,terror 
-2830,terrorist 
-2831,test 
-2832,text 
-2833,than 
-2834,thank 
-2835,thanks 
-2836,thanks  
-2837,that 
-2838,the 
-2839,theatre 
-2840,their 
-2841,theirs 
-2842,them 
-2843,theme 
-2844,themselves 
-2845,then 
-2846,theoretical 
-2847,theory 
-2848,there 
-2849,therefore 
-2850,they 
-2851,thick 
-2852,thin 
-2853,thing 
-2854,think 
-2855,this 
-2856,though 
-2857,thought 
-2858,threat 
-2859,threaten 
-2860,three 
-2861,throat 
-2862,through 
-2863,throughout 
-2864,throw 
-2865,thus 
-2866,ticket 
-2867,tidy 
-2868,tie 
-2869,tight 
-2870,tile 
-2871,till 
-2872,time 
-2873,tin 
-2874,tiny 
-2875,tip 
-2876,tired 
-2877,title 
-2878,to 
-2879,toast 
-2880,today 
-2881,toe 
-2882,together 
-2883,toilet 
-2884,tomato 
-2885,tomorrow 
-2886,ton 
-2887,tone 
-2888,tongue 
-2889,tonight 
-2890,too 
-2891,tool 
-2892,tooth 
-2893,top 
-2894,topic 
-2895,total 
-2896,totally 
-2897,touch 
-2898,tough 
-2899,tour 
-2900,tourist 
-2901,towards 
-2902,towel 
-2903,tower 
-2904,town 
-2905,toy 
-2906,track 
-2907,trade 
-2908,tradition 
-2909,traditional 
-2910,traffic 
-2911,trailer 
-2912,train 
-2913,trainer 
-2914,training 
-2915,transaction 
-2916,transfer 
-2917,transform 
-2918,transition 
-2919,translate 
-2920,transport 
-2921,transportation 
-2922,trash 
-2923,travel 
-2924,tray 
-2925,treat 
-2926,treatment 
-2927,treaty 
-2928,tree 
-2929,tremendous 
-2930,trend 
-2931,trial 
-2932,trick 
-2933,tricky 
-2934,trip 
-2935,troop 
-2936,trouble 
-2937,trousers 
-2938,truck 
-2939,true 
-2940,truly 
-2941,trust 
-2942,truth 
-2943,try 
-2944,tube 
-2945,tune 
-2946,tunnel 
-2947,turn 
-2948,twice  
-2949,twist 
-2950,type 
-2951,typical 
-2952,tyre 
-2953,ugly 
-2954,ultimate 
-2955,ultimately 
-2956,unable 
-2957,unbelievable 
-2958,uncle 
-2959,under 
-2960,underneath 
-2961,understand 
-2962,understanding 
-2963,undertake 
-2964,unemployed 
-2965,unemployment 
-2966,unfair 
-2967,unfortunate 
-2968,unfortunately 
-2969,unhappy 
-2970,uniform 
-2971,union 
-2972,unique 
-2973,unit 
-2974,united 
-2975,unity 
-2976,universal 
-2977,universe 
-2978,university 
-2979,unknown 
-2980,unless 
-2981,unlike 
-2982,unlikely 
-2983,until 
-2984,unusual 
-2985,up 
-2986,upon 
-2987,upper 
-2988,upset 
-2989,upstairs 
-2990,urban 
-2991,urge 
-2992,urgent 
-2993,us 
-2994,use 
-2995,used 
-2996,used to
-2997,useful 
-2998,user 
-2999,usual 
-3000,usually 
-3001,vacation
-3002,vague 
-3003,valley 
-3004,valuable 
-3005,value 
-3006,van 
-3007,variation 
-3008,variety 
-3009,various 
-3010,vary 
-3011,vast 
-3012,vegetable 
-3013,vehicle 
-3014,version 
-3015,very 
-3016,vet 
-3017,via 
-3018,victim 
-3019,victory 
-3020,video 
-3021,view 
-3022,village 
-3023,violence 
-3024,violent 
-3025,virtually 
-3026,virtue 
-3027,virus 
-3028,visible 
-3029,vision 
-3030,visit 
-3031,visitor 
-3032,visual 
-3033,vital 
-3034,voice 
-3035,volume 
-3036,voluntary 
-3037,vote 
-3038,vulnerable 
-3039,wage 
-3040,wait 
-3041,wake 
-3042,walk 
-3043,wall 
-3044,wander 
-3045,want 
-3046,war 
-3047,ward 
-3048,wardrobe 
-3049,warm 
-3050,warn 
-3051,warning 
-3052,wash 
-3053,washing 
-3054,waste 
-3055,watch 
-3056,water 
-3057,wave 
-3058,way 
-3059,we 
-3060,weak 
-3061,weakness 
-3062,wealth 
-3063,weapon 
-3064,wear 
-3065,weather 
-3066,web 
-3067,website 
-3068,wedding 
-3069,week 
-3070,weekend 
-3071,weekly 
-3072,weigh 
-3073,weight 
-3074,weird 
-3075,welcome 
-3076,welfare 
-3077,well 
-3078,well  
-3079,west 
-3080,western 
-3081,wet 
-3082,what 
-3083,whatever 
-3084,whatsoever 
-3085,wheel 
-3086,when 
-3087,whenever 
-3088,where 
-3089,whereas 
-3090,wherever 
-3091,whether 
-3092,which 
-3093,while 
-3094,whisky 
-3095,whisper 
-3096,white 
-3097,who 
-3098,whoever 
-3099,whole 
-3100,whom 
-3101,whose 
-3102,why 
-3103,wicked 
-3104,wide 
-3105,widely 
-3106,widespread 
-3107,wife 
-3108,wild 
-3109,will 
-3110,will 
-3111,willing 
-3112,win 
-3113,wind 
-3114,window 
-3115,windy 
-3116,wine 
-3117,wing 
-3118,winner 
-3119,winter 
-3120,wipe 
-3121,wire 
-3122,wise 
-3123,wish 
-3124,with 
-3125,withdraw 
-3126,within 
-3127,without 
-3128,witness 
-3129,woman 
-3130,wonder 
-3131,wonderful 
-3132,wood 
-3133,wooden 
-3134,wool 
-3135,word 
-3136,work 
-3137,worker 
-3138,working 
-3139,workshop 
-3140,world 
-3141,worried 
-3142,worry 
-3143,worrying 
-3144,worse 
-3145,worth 
-3146,would 
-3147,wound 
-3148,wrap 
-3149,write 
-3150,writer 
-3151,writing 
-3152,wrong 
-3153,yard 
-3154,yeah 
-3155,year 
-3156,yellow 
-3157,yep  
-3158,yes 
-3159,yesterday 
-3160,yet 
-3161,you 
-3162,young 
-3163,youngster 
-3164,your 
-3165,yours 
-3166,yourself 
-3167,youth 
-3168,zone
+﻿1,abandon ,পরিত্যাগ করা,
+2,ability ,ক্ষমতা,
+3,able ,সক্ষম,
+4,about ,সম্পর্কিত,
+5,above ,উপরে,
+6,abroad ,বিদেশে,
+7,absence ,অনুপস্থিতি,
+8,absolute ,পরম,
+9,absolutely ,একেবারে,
+10,absorb ,শোষণ,
+11,abuse ,অপব্যবহার,
+12,academic ,একাডেমিক,
+13,accept ,গ্রহণ,
+14,acceptable ,গ্রহণযোগ্য,
+15,access ,অ্যাক্সেস,
+16,accident ,দুর্ঘটনা,
+17,accommodation ,থাকার ব্যবস্থা,
+18,accompany ,সাথে,
+19,according to ,অনুসারে,
+20,account ,হিসাব,
+21,accurate ,নির্ভুল,
+22,accuse ,অভিযুক্ত করা,
+23,achieve ,অর্জন,
+24,achievement ,কৃতিত্ব,
+25,acid ,অ্যাসিড,
+26,acknowledge ,স্বীকৃতি,
+27,acquire ,অর্জন,
+28,across ,ওপারে,
+29,act ,আইন,
+30,action ,কর্ম,
+31,active ,সক্রিয়,
+32,activist ,কর্মী,
+33,activity ,ক্রিয়াকলাপ,
+34,actor ,অভিনেতা,
+35,actual ,আসল,
+36,actually ,আসলে,
+37,ad ,বিজ্ঞাপন,
+38,adapt ,অভিযোজিত,
+39,add ,যোগ করুন,
+40,addition ,যোগ,
+41,additional ,অতিরিক্ত,
+42,address ,ঠিকানা,
+43,adequate ,পর্যাপ্ত,
+44,adjust ,সামঞ্জস্য করুন,
+45,administration ,প্রশাসন,
+46,administrative ,প্রশাসনিক,
+47,admire ,প্রশংসা,
+48,admission ,ভর্তি,
+49,admit ,মানা,
+50,adopt ,গ্রহণ,
+51,adult ,প্রাপ্তবয়স্ক,
+52,advance ,অগ্রিম,
+53,advanced ,উন্নত,
+54,advantage ,সুবিধা,
+55,advert ,বিজ্ঞাপন,
+56,advertise ,বিজ্ঞাপন,
+57,advertisement ,বিজ্ঞাপন,
+58,advertising ,বিজ্ঞাপন,
+59,advice ,পরামর্শ,
+60,advise ,পরামর্শ,
+61,adviser ,উপদেষ্টা,
+62,affair ,বিষয়,
+63,affect ,প্রভাবিত,
+64,afford ,সামর্থ,
+65,afraid ,ভীত,
+66,after ,পরে,
+67,afternoon ,বিকেল,
+68,afterwards ,পরে,
+69,again ,আবার,
+70,against ,বিরুদ্ধে,
+71,age ,বয়স,
+72,aged ,বুড়া,
+73,agency ,সংস্থা,
+74,agent ,প্রতিনিধি,
+75,aggressive ,আক্রমণাত্মক,
+76,ago ,আগে,
+77,agree ,একমত,
+78,agreement ,চুক্তি,
+79,agriculture ,কৃষি,
+80,ahead ,এগিয়ে,
+81,aid ,সাহায্য,
+82,aim ,লক্ষ্য,
+83,air ,বায়ু,
+84,aircraft ,বিমান,
+85,airline ,বিমান সংস্থা,
+86,airport ,বিমানবন্দর,
+87,alarm ,অ্যালার্ম,
+88,album ,অ্যালবাম,
+89,alcohol ,অ্যালকোহল,
+90,alive ,জীবিত,
+91,all ,সব,
+92,all right ,ঠিক আছে,
+93,allow ,অনুমতি দিন,
+94,allowance ,ভাতা,
+95,almost ,প্রায়,
+96,alone ,একা,
+97,along ,বরাবর,
+98,alongside ,পাশাপাশি,
+99,already ,ইতিমধ্যে,
+100,also ,এছাড়াও,
+101,alter ,পরিবর্তন,
+102,alternative ,বিকল্প,
+103,although ,যদিও,
+104,altogether ,পুরোপুরি,
+105,always ,সর্বদা,
+106,amazing ,আশ্চর্যজনক,
+107,ambition ,উচ্চাশা,
+108,ambulance ,অ্যাম্বুলেন্স,
+109,among ,মধ্যে,
+110,amount ,পরিমাণ,
+111,an ,একটি,
+112,analyse ,বিশ্লেষণ,
+113,analysis ,বিশ্লেষণ,
+114,analyst ,বিশ্লেষক,
+115,ancient ,প্রাচীন,
+116,and ,এবং,
+117,anger ,রাগ,
+118,angle ,কোণ,
+119,angry ,রাগান্বিত,
+120,animal ,প্রাণী,
+121,announce ,ঘোষণা করা,
+122,announcement ,ঘোষণা,
+123,annoy ,বিরক্ত করা,
+124,annual ,বার্ষিক,
+125,another ,অন্য,
+126,answer ,উত্তর,
+127,anticipate ,পূর্বানুমান,
+128,anxiety ,উদ্বেগ,
+129,anxious ,উদ্বিগ্ন,
+130,any ,যে কোন,
+131,anybody ,যে কেউ,
+132,anyhow ,যাইহোক,
+133,anyone ,যে কেউ,
+134,anything ,কিছু,
+135,anyway ,যাইহোক,
+136,anywhere ,কোথাও,
+137,apart ,পৃথক্,
+138,apartment ,অ্যাপার্টমেন্ট,
+139,apologize ,ক্ষমা প্রার্থনা,
+140,apology ,ক্ষমা,
+141,apparent ,আপাত,
+142,apparently ,স্পষ্টতই,
+143,appeal ,আবেদন,
+144,appear ,হাজির,
+145,appearance ,চেহারা,
+146,apple ,আপেল,
+147,application ,প্রয়োগ,
+148,apply ,প্রয়োগ,
+149,appoint ,নিয়োগ,
+150,appointment ,অ্যাপয়েন্টমেন্ট,
+151,appreciate ,প্রশংসা,
+152,approach ,পন্থা,
+153,appropriate ,যথাযথ,
+154,approval ,অনুমোদন,
+155,approve ,অনুমোদন,
+156,approximate ,আনুমানিক,
+157,architect ,স্থপতি,
+158,architecture ,আর্কিটেকচার,
+159,area ,অঞ্চল,
+160,argue ,তর্ক,
+161,argument ,যুক্তি,
+162,arise ,উত্থিত,
+163,arm ,বাহু,
+164,armed ,সশস্ত্র,
+165,army ,সেনা,
+166,around ,কাছাকাছি,
+167,arrange ,ব্যবস্থা করা,
+168,arrangement ,ব্যবস্থা,
+169,arrest ,গ্রেফতার,
+170,arrival ,আগমন,
+171,arrive ,আগমন,
+172,art ,শিল্প,
+173,article ,নিবন্ধ,
+174,artificial ,কৃত্রিম,
+175,artist ,শিল্পী,
+176,as ,যেমন,
+177,ashamed ,লজ্জিত,
+178,aside ,একপাশে,
+179,ask ,জিজ্ঞাসা,
+180,asleep ,নিদ্রা,
+181,aspect ,দিক,
+182,assess ,মূল্যায়ন,
+183,assessment ,মূল্যায়ন,
+184,assignment ,অ্যাসাইনমেন্ট,
+185,assist ,সহায়তা করুন,
+186,assistance ,সহায়তা,
+187,assistant ,সহকারী,
+188,associate ,সহযোগী,
+189,association ,সংঘ,
+190,assume ,ধরে নেওয়া,
+191,assumption ,ধৃষ্টতা,
+192,assure ,আশ্বাস দিন,
+193,at ,at,
+194,atmosphere ,পরিবেশ,
+195,attach ,সংযুক্ত করা,
+196,attack ,আক্রমণ,
+197,attempt ,চেষ্টা,
+198,attend ,উপস্থিত,
+199,attention ,মনোযোগ,
+200,attitude ,মনোভাব,
+201,attorney ,অ্যাটর্নি,
+202,attract ,আকর্ষণ,
+203,attraction ,আকর্ষণ,
+204,attractive ,আকর্ষণীয়,
+205,audience ,শ্রোতা,
+206,aunt ,খালা,
+207,author ,লেখক,
+208,authority ,কর্তৃত্ব,
+209,automatic ,স্বয়ংক্রিয়,
+210,automatically ,স্বয়ংক্রিয়ভাবে,
+211,autumn ,শরত,
+212,available ,উপলব্ধ,
+213,average ,গড়,
+214,avoid ,এড়ানোর,
+215,awake ,জাগ্রত,
+216,award ,পুরষ্কার,
+217,aware ,সচেতন,
+218,awareness ,সচেতনতা,
+219,away ,দূরে,
+220,awful ,"ভয়াবহ, আতঙ্কজনক",
+221,awkward ,বিশ্রী,
+222,baby ,বাচ্চা,Mr. Rahim has adopted a baby from orphanage.
+223,back ,পেছনে,Do not turn back in exam hall.
+224,background ,পটভূমি,The police checked the background of the  suspect.
+225,backwards ,পিছনে,"Its evolving, just backwards."
+226,bacon ,বেকন,I hate bacon as a food.
+227,bad ,খারাপ,"Unfortunately, I am having a bad day."
+228,badly ,খারাপভাবে,The player is badly injured.
+229,bag ,থলে,He took all the vegetable in the bag.
+230,bake ,বেক করুন,My mom bakes cake for me.
+231,balance ,ভারসাম্য,I is hard to keep balance in space.
+232,ball ,বল,The kid wanted to buy a ball.
+233,ban ,নিষেধাজ্ঞা,Muslim should ban Israel products
+234,band ,ব্যান্ড,My favourite band is LRB.
+235,bang ,ঠুং ঠুং শব্দ,I heard a bang in my backyard.
+236,bank ,ব্যাংক,Don’t keep your money in non-islamic Bank.
+237,bar ,বার,The person behind the bar is called Bartender.
+238,barrier ,বাধা,Police made a barrier to stop the protesters.
+239,base ,বেস,The base of the building is weak.
+240,baseball ,বেসবল,Baseball is a famous sport in Japan.
+241,basic ,বেসিক,You shoud have the basic knowledge of Mathematics.
+242,basically ,মূলত,Basically everyone is bound to follow the constitution.
+243,basis ,ভিত্তি,People should be judged on the basis of their character.
+244,basket ,ঝুড়ি,I bought a basket of mango.
+245,bat ,ব্যাট,Bat is a instrument for cricket.
+246,bath ,স্নান,I take my bath regularly to stay clean.
+247,bathroom ,পায়খানা,Bathroom should be kept clean daily.
+248,battery ,ব্যাটারি,The mobile battery is still healthy.
+249,battle ,যুদ্ধ,It’s the battle in our minds that is the important battle.
+250,be ,থাকা,I wont to an Youtuber.
+251,beach ,সৈকত,Cox's bazar is the world's longest natural sea beach.
+252,bean ,শিম,Beans are good for health.
+253,bear ,ভালুক,The polar bears are white in color.
+254,beard ,দাড়ি,We should keep beard as a muslim.
+255,beat ,বীট,"Unfortunately, Superman couldn’t beat Darksied."
+256,beautiful ,সুন্দর,Bangladesh is a beautiful country.
+257,beauty ,সৌন্দর্য,Don’t judge people by their beauty.
+258,because ,কারণ,I took the covid test because I was sick.
+259,become ,হত্তয়া,My sister wants to become a doctor.
+260,bed ,বিছানা,I love to sleep in my own bed.
+261,bedroom ,শয়নকক্ষ,We should not play in the bedroom.
+262,beef ,গরুর মাংস,I love beef as food.
+263,beer ,বিয়ার,Beer is bad for health.
+264,before ,আগে,Our train arrived before the scheduled time.
+265,beforehand ,আগেই,She had phoned beforehand to let me know she was coming.
+266,begin ,শুরু,
+267,beginning ,শুরু,
+268,behalf ,পক্ষে,
+269,behave ,আচরণ,
+270,behaviour ,আচরণ,
+271,behind ,পিছনে,
+272,being ,হচ্ছে,
+273,belief ,বিশ্বাস,
+274,believe ,বিশ্বাস,
+275,bell ,বেল,
+276,belong ,অন্তর্গত,
+277,below ,নিচে,
+278,belt ,বেল্ট,
+279,bench ,এজলাস,
+280,bend ,বাঁকানো,
+281,beneath ,নীচে,
+282,benefit ,উপকার,
+283,beside ,পাশে,
+284,best ,সেরা,
+285,bet ,বাজি,
+286,better ,উত্তম,
+287,between ,মধ্যে,
+288,beyond ,তার পরেও,
+289,bicycle ,সাইকেল,
+290,bid ,বিড,
+291,big ,বৃহৎ,
+292,bike ,বাইক,
+293,bill ,বিল,
+294,bin ,বিন,
+295,bird ,পাখি,
+296,birth ,জন্ম,
+297,birthday ,জন্মদিন,
+298,biscuit ,বিস্কুট,
+299,bit ,বিট,
+300,bite ,কামড়,
+301,bitter ,তেতো,
+302,black ,কালো,
+303,blade ,ব্লেড,
+304,blame ,দোষ,
+305,blank ,ফাঁকা,
+306,bless ,আশীর্বাদ করুন,
+307,blind ,অন্ধ,
+308,block ,ব্লক,
+309,bloke ,ফোঁটা,
+310,blonde ,স্বর্ণকেশী,
+311,blood ,রক্ত,
+312,blow ,ঘা,
+313,blue ,নীল,
+314,board ,বোর্ড,
+315,boat ,নৌকা,
+316,body ,শরীর,
+317,boil ,ফুটান,
+318,boiler ,বয়লার,
+319,boiling ,ফুটন্ত,
+320,bomb ,বোমা,
+321,bone ,হাড়,
+322,bonus ,বোনাস,
+323,book ,বই,
+324,boom ,বুম,
+325,boot ,বুট,
+326,border ,সীমানা,
+327,bored ,বিরক্ত,
+328,boring ,বিরক্তিকর,
+329,born ,জন্ম,
+330,borrow ,ধার,
+331,boss ,বস,
+332,both ,উভয়,
+333,bother ,বিরক্ত,
+334,bottle ,বোতল,
+335,bottom ,নীচে,
+336,bounce ,বাউন্স,
+337,bound ,আবদ্ধ,
+338,bowl ,বাটি,
+339,box ,বাক্স,
+340,boy ,ছেলে,
+341,boyfriend ,প্রেমিক,
+342,brain ,মস্তিষ্ক,
+343,branch ,শাখা,
+344,brave ,সাহসী,
+345,bread ,রুটি,
+346,break ,বিরতি,
+347,breakfast ,প্রাতঃরাশ,
+348,breast ,স্তন,
+349,breath ,শ্বাস,
+350,breathe ,শ্বাস,
+351,brick ,ইট,
+352,bridge ,ব্রিজ,
+353,brief ,সংক্ষিপ্ত,
+354,briefly ,সংক্ষেপে,
+355,bright ,উজ্জ্বল,
+356,brilliant ,উজ্জ্বল,
+357,bring ,আনা,
+358,broad ,বিস্তৃত,
+359,brother ,ভাই,
+360,brown ,বাদামী,
+361,brush ,ব্রাশ,
+362,buck ,বক,
+363,bucket ,বালতি,
+364,buddy ,বন্ধু,
+365,budget ,বাজেট,
+366,bug ,বাগ,
+367,build ,বিল্ড,
+368,builder ,নির্মাতা,
+369,building ,বিল্ডিং,
+370,bump ,ফেলা,
+371,bunch ,গুচ্ছ,
+372,burn ,পোড়া,
+373,burst ,ফেটে,
+374,bury ,কবর দেওয়া,
+375,bus ,বাস,
+376,business ,ব্যবসা,
+377,busy ,ব্যস্ত,
+378,but ,কিন্তু,
+379,butcher ,কসাই,
+380,butter ,মাখন,
+381,button ,বোতাম,
+382,buy ,কেনা,
+383,buyer ,ক্রেতা,
+384,by ,দ্বারা,
+385,bye ,বিদায়,
+386,bye  ,বিদায়,
+387,cabinet,মন্ত্রিসভা,
+388,cable ,তারের,
+389,cake ,পিষ্টক,
+390,calculate ,গণনা,
+391,calculation ,গণনা,
+392,calculator ,ক্যালকুলেটর,
+393,calendar ,পঞ্জিকা,
+394,call ,কল,
+395,calm ,শান্ত,
+396,camera ,ক্যামেরা,
+397,camp ,শিবির,
+398,campaign ,প্রচার,
+399,can ,করতে পারা,
+400,can,করতে পারা,
+401,cancel ,বাতিল,
+402,cancer ,ক্যান্সার,
+403,candidate ,প্রার্থী,
+404,candle ,মোমবাতি,
+405,candy ,মিছরি,
+406,cap ,ক্যাপ,
+407,capable ,সক্ষম,
+408,capacity ,ক্ষমতা,
+409,capital ,মূলধন,
+410,captain ,অধিনায়ক,
+411,capture ,ক্যাপচার,
+412,car ,গাড়ি,
+413,card ,কার্ড,
+414,care ,যত্ন,
+415,career ,কর্মজীবন,
+416,careful ,সাবধান,
+417,carefully ,সাবধানে,
+418,carpet ,কার্পেট,
+419,carrot ,গাজর,
+420,carry ,বহন,
+421,cartoon ,কার্টুন,
+422,case ,কেস,
+423,cash ,নগদ,
+424,cast ,নিক্ষেপ,
+425,castle ,দুর্গ,
+426,cat ,বিড়াল,
+427,catalogue ,ক্যাটালগ,
+428,catch ,ধরা,
+429,category ,বিভাগ,
+430,cause ,কারণ,
+431,CD ,সিডি,
+432,cease ,বন্ধ করুন,
+433,ceiling ,সিলিং,
+434,celebrate ,উদযাপন,
+435,celebration ,উদযাপন,
+436,cell ,কোষ,
+437,cellphone ,মুঠোফোন,
+438,cent ,শতক,
+439,centimetre ,সেন্টিমিটার,
+440,central ,কেন্দ্রীয়,
+441,centre ,কেন্দ্র,
+442,century ,শতাব্দী,
+443,cereal ,সিরিয়াল,
+444,certain ,নির্দিষ্ট,
+445,certainly ,অবশ্যই,
+446,certificate ,সনদপত্র,
+447,chain ,চেইন,
+448,chair ,চেয়ার,
+449,chairman ,চেয়ারম্যান,
+450,challenge ,চ্যালেঞ্জ,
+451,champion ,রক্ষক,
+452,championship ,চ্যাম্পিয়নশিপ,
+453,chance ,সুযোগ,
+454,change ,পরিবর্তন,
+455,channel ,চ্যানেল,
+456,chap ,অধ্যায়,
+457,chapter ,অধ্যায়,
+458,character ,চরিত্র,
+459,characteristic ,চরিত্রগত,
+460,characterize ,বৈশিষ্ট্যযুক্ত,
+461,charge ,চার্জ,
+462,charity ,দানশীলতা,
+463,chart ,চার্ট,
+464,chase ,পশ্চাদ্ধাবন,
+465,chat ,চ্যাট,
+466,cheap ,সস্তা,
+467,cheat ,প্রতারণা,
+468,check ,চেক,
+469,cheek ,গাল,
+470,cheese ,পনির,
+471,chemical ,রাসায়নিক,
+472,chemist ,রসায়নবিদ,
+473,chemistry ,রসায়ন,
+474,cheque ,চেক,
+475,cherry ,চেরি,
+476,chest ,বুক,
+477,chicken ,মুরগি,
+478,chief ,প্রধান,
+479,child ,শিশু,
+480,childhood ,শৈশব,
+481,chip ,চিপ,
+482,chocolate ,চকোলেট,
+483,choice ,পছন্দ,
+484,choose ,পছন্দ করা,
+485,chop ,কাটা,
+486,chuck ,ছক,
+487,church ,গির্জা,
+488,cigarette ,সিগারেট,
+489,cinema ,সিনেমা,
+490,circle ,বৃত্ত,
+491,circuit ,সার্কিট,
+492,circumstance ,পরিস্থিতি,
+493,citizen ,নাগরিক,
+494,city ,শহর,
+495,civil ,নাগরিক,
+496,claim ,দাবি,
+497,class ,ক্লাস,
+498,classic ,ক্লাসিক,
+499,classical ,ধ্রুপদী,
+500,classroom ,শ্রেণিকক্ষ,
+501,clean ,পরিষ্কার,
+502,cleaner ,পরিষ্কারক,
+503,clear ,স্পষ্ট,
+504,clearly ,পরিষ্কারভাবে,
+505,clerk ,কেরানী,
+506,clever ,চালাক,
+507,click ,ক্লিক,
+508,client ,ক্লায়েন্ট,
+509,climate ,জলবায়ু,
+510,climb ,আরোহণ,
+511,clock ,ঘড়ি,
+512,close ,বন্ধ,
+513,closed ,বন্ধ,
+514,closely ,ঘনিষ্ঠভাবে,
+515,closet ,আলমারি,
+516,cloth ,কাপড়,
+517,clothes ,বস্ত্র,
+518,cloud ,মেঘ,
+519,club ,ক্লাব,
+520,clue ,ক্লু,
+521,coach ,কোচ,
+522,coal ,কয়লা,
+523,coast ,উপকূল,
+524,coat ,কোট,
+525,code ,কোড,
+526,coffee ,কফি,
+527,coin ,মুদ্রা,
+528,cold ,ঠান্ডা,
+529,collapse ,ধস,
+530,collar ,কলার,
+531,colleague ,সহকর্মী,
+532,collect ,সংগ্রহ,
+533,collection ,সংগ্রহ,
+534,college ,কলেজ,
+535,colour ,রঙ,
+536,column ,কলাম,
+537,combination ,সংমিশ্রণ,
+538,combine ,একত্রিত,
+539,come ,এসো,
+540,comfort ,সান্ত্বনা,
+541,comfortable ,আরামপ্রদ,
+542,command ,আদেশ,
+543,comment ,মন্তব্য,
+544,commercial ,ব্যবসায়িক,
+545,commission ,কমিশন,
+546,commit ,প্রতিশ্রুতিবদ্ধ,
+547,commitment ,প্রতিশ্রুতি,
+548,committee ,কমিটি,
+549,common ,সাধারণ,
+550,communicate ,যোগাযোগ,
+551,communication ,যোগাযোগ,
+552,community ,সম্প্রদায়,
+553,company ,প্রতিষ্ঠান,
+554,compare ,তুলনা করা,
+555,comparison ,তুলনা,
+556,compete ,প্রতিদ্বন্দ্বিতা করা,
+557,competition ,প্রতিযোগিতা,
+558,competitive ,প্রতিযোগিতামূলক,
+559,complain ,অভিযোগ,
+560,complaint ,অভিযোগ,
+561,complete ,সম্পূর্ণ,
+562,completely ,সম্পূর্ণরূপে,
+563,complex ,জটিল,
+564,complicated ,জটিল,
+565,component ,উপাদান,
+566,comprehensive ,বিস্তৃত,
+567,comprise ,অন্তর্ভুক্ত,
+568,computer ,কম্পিউটার,
+569,concentrate ,ঘন করা,
+570,concentration ,একাগ্রতা,
+571,concept ,ধারণা,
+572,concern ,উদ্বেগ,
+573,concerned ,উদ্বিগ্ন,
+574,concerning ,সম্পর্কিত,
+575,concert ,কনসার্ট,
+576,conclude ,উপসংহার,
+577,conclusion ,উপসংহার,
+578,condition ,শর্ত,
+579,conduct ,পরিচালনা,
+580,conference ,সম্মেলন,
+581,confidence ,আত্মবিশ্বাস,
+582,confident ,আত্মবিশ্বাসী,
+583,confine ,আবদ্ধ,
+584,confirm ,নিশ্চিত করুন,
+585,conflict ,দ্বন্দ্ব,
+586,confused ,বিভ্রান্ত,
+587,confusing ,বিভ্রান্তিকর,
+588,confusion ,বিভ্রান্তি,
+589,congratulation ,অভিনন্দন,
+590,connect ,সংযোগ,
+591,connection ,সংযোগ,
+592,conscious ,সচেতন,
+593,consciousness ,চেতনা,
+594,consent ,সম্মতি,
+595,consequence ,পরিণতি,
+596,consider ,বিবেচনা,
+597,considerable ,যথেষ্ট,
+598,considerably ,অনেক,
+599,consideration ,বিবেচনা,
+600,consist ,গঠিত,
+601,consistent ,সামঞ্জস্যপূর্ণ,
+602,constant ,ধ্রুবক,
+603,constantly ,নিয়ত,
+604,constitute ,গঠন করা,
+605,construct ,নির্মাণ,
+606,construction ,নির্মাণ,
+607,consult ,পরামর্শ,
+608,consumer ,গ্রাহক,
+609,consumption ,খরচ,
+610,contact ,যোগাযোগ,
+611,contain ,ধারণ,
+612,contemporary ,সমকালীন,
+613,content ,বিষয়বস্তু,
+614,contest ,প্রতিযোগিতা,
+615,context ,প্রসঙ্গ,
+616,continue ,চালিয়ে যান,
+617,continuous ,একটানা,
+618,contract ,চুক্তি,
+619,contrast ,বিপরীতে,
+620,contribute ,অবদান,
+621,contribution ,অবদান,
+622,control ,নিয়ন্ত্রণ,
+623,convenient ,সুবিধাজনক,
+624,convention ,সম্মেলন,
+625,conventional ,প্রচলিত,
+626,conversation ,কথোপকথন,
+627,convert ,রূপান্তর,
+628,conviction ,দৃঢ় বিশ্বাস,
+629,convince ,সন্তুষ্ট,
+630,cook ,রান্না করুন,
+631,cooker ,পাত্র,
+632,cookie ,কুকি,
+633,cool ,শীতল,
+634,cooperation ,সহযোগিতা,
+635,cope ,সামলাতে,
+636,copy ,অনুলিপি,
+637,core ,মূল,
+638,corn ,ভুট্টা,
+639,corner ,কোণে,
+640,correct ,সঠিক,
+641,corridor ,করিডোর,
+642,cost ,খরচ,
+643,cottage ,কটেজ,
+644,cotton ,সুতি,
+645,could,পারে,
+646,council ,পরিষদ,
+647,count ,গণনা,
+648,counter ,পাল্টা,
+649,country ,দেশ,
+650,countryside ,পল্লী,
+651,county ,কাউন্টি,
+652,couple ,দম্পতি,
+653,courage ,সাহস,
+654,course ,অবশ্যই,
+655,court ,আদালত,
+656,cousin ,কাজিন,
+657,cover ,আবরণ,
+658,cow ,গাভী,
+659,crack ,ফাটল,
+660,craft ,নৈপুণ্য,
+661,crash ,ক্রাশ,
+662,crazy ,পাগল,
+663,create ,সৃষ্টি,
+664,creation ,সৃষ্টি,
+665,creative ,সৃজনশীল,
+666,creature ,জীব,
+667,credit ,ক্রেডিট,
+668,credit card ,ক্রেডিট কার্ড,
+669,crew ,নাবিকদল,
+670,crime ,অপরাধ,
+671,criminal ,অপরাধী,
+672,crisis ,সংকট,
+673,criterion ,মানদণ্ড,
+674,critic ,সমালোচক,
+675,critical ,সমালোচক,
+676,criticism ,সমালোচনা,
+677,criticize ,সমালোচনা,
+678,crop ,ফসল,
+679,cross ,ক্রস,
+680,crowd ,ভিড়,
+681,crown ,মুকুট,
+682,crucial ,অত্যন্ত গুরুত্বপূর্ণ,
+683,cruel ,নিষ্ঠুর,
+684,cry ,কান্নাকাটি,
+685,cultural ,সাংস্কৃতিক,
+686,culture ,সংস্কৃতি,
+687,cup ,কাপ,
+688,cupboard ,আলমারি,
+689,curious ,কৌতূহলী,
+690,currency ,মুদ্রা,
+691,current ,কারেন্ট,
+692,currently ,বর্তমানে,
+693,curtain ,পর্দা,
+694,curve ,বক্ররেখা,
+695,cushion ,কুশন,
+696,custom ,প্রথা,
+697,customer ,ক্রেতা,
+698,cut ,কাটা,
+699,cute ,সুন্দর,
+700,cycle ,সাইকেল,
+701,dad ,বাবা,
+702,daddy ,বাবা,
+703,daft ,খালি,
+704,daily ,প্রতিদিন,
+705,damage ,ক্ষতি,
+706,dance ,নাচ,
+707,danger ,বিপদ,
+708,dangerous ,বিপজ্জনক,
+709,dare ,সাহস,
+710,dark ,অন্ধকার,
+711,darkness ,অন্ধকার,
+712,darling ,প্রিয়তম,
+713,data ,তথ্য,
+714,database ,তথ্যশালা,
+715,date ,তারিখ,
+716,daughter ,কন্যা,
+717,day ,দিন,
+718,dead ,মৃত,
+719,deaf ,বধির,
+720,deal ,চুক্তি,
+721,dealer ,ব্যবসায়ী,
+722,dear ,প্রিয়,
+723,dear  ,প্রিয়,
+724,death ,মৃত্যু,
+725,debate ,বিতর্ক,
+726,debt ,debtণ,
+727,decade ,দশক,
+728,decent ,শালীন,
+729,decide ,সিদ্ধান্ত,
+730,decision ,সিদ্ধান্ত,
+731,declare ,ঘোষণা,
+732,decline ,পতন,
+733,deep ,গভীর,
+734,deeply ,গভীরভাবে,
+735,defeat ,পরাজয়,
+736,defence ,প্রতিরক্ষা,
+737,defend ,রক্ষা করা,
+738,define ,সংজ্ঞায়িত করা,
+739,definite ,নির্দিষ্ট,
+740,definitely ,স্পষ্টভাবে,
+741,definition ,সংজ্ঞা,
+742,degree ,ডিগ্রি,
+743,delay ,বিলম্ব,
+744,deliberately ,ভেবেচিন্তে,
+745,deliver ,বিতরণ,
+746,delivery ,বিতরণ,
+747,demand ,চাহিদা,
+748,democracy ,গণতন্ত্র,
+749,democratic ,গণতান্ত্রিক,
+750,demonstrate ,প্রদর্শন,
+751,demonstration ,প্রদর্শন,
+752,dentist ,চিকিত্সক,
+753,deny ,অস্বীকার,
+754,department ,বিভাগ,
+755,departure ,প্রস্থান,
+756,depend ,নির্ভর,
+757,dependent ,নির্ভরশীল,
+758,deposit ,জমা,
+759,depression ,বিষণ্ণতা,
+760,depth ,গভীরতা,
+761,derive ,প্রাপ্ত,
+762,describe ,বর্ণনা,
+763,description ,বর্ণনা,
+764,desert ,মরুভূমি,
+765,deserve ,প্রাপ্য,
+766,design ,নকশা,
+767,designer ,নকশাকার,
+768,desire ,ইচ্ছা,
+769,desk ,ডেস্ক,
+770,desperate ,মরিয়া,
+771,despite ,সত্ত্বেও,
+772,destroy ,ধ্বংস,
+773,destruction ,ধ্বংস,
+774,detail ,বিশদ,
+775,detailed ,বিশদ,
+776,detect ,সনাক্ত,
+777,determination ,সংকল্প,
+778,determine ,নির্ধারণ,
+779,determined ,সংকল্পবদ্ধ,
+780,develop ,বিকাশ,
+781,development ,বিকাশ,
+782,device ,যন্ত্র,
+783,devil ,শয়তান,
+784,diagram ,চিত্র,
+785,diamond ,হীরা,
+786,diary ,ডায়েরি,
+787,die ,মারা,
+788,diet ,ডায়েট,
+789,differ ,পার্থক্য,
+790,difference ,পার্থক্য,
+791,different ,বিভিন্ন,
+792,difficult ,কঠিন,
+793,difficulty ,অসুবিধা,
+794,dig ,খনন করা,
+795,dimension ,মাত্রা,
+796,dinner ,রাতের খাবার,
+797,direct ,সরাসরি,
+798,direction ,অভিমুখ,
+799,directly ,সরাসরি,
+800,director ,পরিচালক,
+801,directory ,ডিরেক্টরি,
+802,dirt ,ময়লা,
+803,dirty ,নোংরা,
+804,disabled ,অক্ষম,
+805,disagree ,অসমত,
+806,disappear ,অদৃশ্য,
+807,disappoint ,হতাশ,
+808,disappointed ,হতাশ,
+809,disaster ,বিপর্যয়,
+810,disc ,ডিস্ক,
+811,discipline ,শৃঙ্খলা,
+812,discount ,ছাড়,
+813,discover ,আবিষ্কার,
+814,discovery ,আবিষ্কার,
+815,discuss ,আলোচনা করা,
+816,discussion ,আলোচনা,
+817,disease ,রোগ,
+818,disgusting ,জঘন্য,
+819,dish ,থালা,
+820,disk ,ডিস্ক,
+821,dismiss ,বরখাস্ত করা,
+822,display ,প্রদর্শন,
+823,dispute ,বিতর্ক,
+824,distance ,দূরত্ব,
+825,distant ,দূর,
+826,distinct ,স্বতন্ত্র,
+827,distinction ,পার্থক্য,
+828,distinguish ,পার্থক্য করা,
+829,distribute ,বিতরণ,
+830,distribution ,বিতরণ,
+831,district ,জেলা,
+832,disturb ,ঝামেলা,
+833,divide ,বিভক্ত করা,
+834,division ,বিভাগ,
+835,divorce ,বিবাহবিচ্ছেদ,
+836,do ,কর,
+837,doctor ,ডাক্তার,
+838,document ,দলিল,
+839,dog ,কুকুর,
+840,dollar ,ডলার,
+841,domestic ,গার্হস্থ্য,
+842,dominant ,প্রভাবশালী,
+843,dominate ,আয়ত্ত করা,
+844,door ,দরজা,
+845,dot ,বিন্দু,
+846,double ,দ্বিগুণ,
+847,doubt ,সন্দেহ,
+848,down ,নিচে,
+849,downstairs ,নীচে,
+850,downtown ,শহরের কেন্দ্রস্থল,
+851,dozen ,ডজন,
+852,draft ,খসড়া,
+853,drag ,টানুন,
+854,drama ,নাটক,
+855,dramatic ,নাটকীয়,
+856,draw ,আঁকুন,
+857,drawer ,ড্রয়ার,
+858,drawing ,অঙ্কন,
+859,dream ,স্বপ্ন,
+860,dress ,পোশাক,
+861,drink ,পান করা,
+862,drive ,ড্রাইভ,
+863,driver ,চালক,
+864,drop ,ড্রপ,
+865,drug ,ড্রাগ,
+866,drunk ,মাতাল,
+867,dry ,শুকনো,
+868,duck ,হাঁস,
+869,dude ,শহরবাসী,
+870,due ,বাকি,
+871,dull ,নিস্তেজ,
+872,dumb ,বোবা,
+873,dump ,ফেলা,
+874,during ,সময়,
+875,dust ,ধূলা,
+876,duty ,কর্তব্য,
+877,DVD ,ডিভিডি,
+878,each ,প্রতিটি,
+879,each other ,একে অপরকে,
+880,ear ,কান,
+881,early ,তাড়াতাড়ি,
+882,earn ,উপার্জন,
+883,earth ,পৃথিবী,
+884,ease ,স্বাচ্ছন্দ্য,
+885,easily ,সহজেই,
+886,east ,পূর্ব,
+887,eastern ,পূর্ব,
+888,easy ,সহজ,
+889,eat ,খাওয়া,
+890,economic ,অর্থনৈতিক,
+891,economics ,অর্থনীতি,
+892,economy ,অর্থনীতি,
+893,edge ,প্রান্ত,
+894,edition ,সংস্করণ,
+895,editor ,সম্পাদক,
+896,education ,শিক্ষা,
+897,educational ,শিক্ষামূলক,
+898,efficiency ,দক্ষতা,
+899,efficient ,দক্ষ,
+900,effect ,প্রভাব,
+901,effective ,কার্যকর,
+902,effectively ,কার্যকরভাবে,
+903,effort ,প্রচেষ্টা,
+904,egg ,ডিম,
+905,either ,হয়,
+906,elderly ,প্রবীণ,
+907,elect ,নির্বাচিত,
+908,election ,নির্বাচন,
+909,electric ,বৈদ্যুতিক,
+910,electrical ,বৈদ্যুতিক,
+911,electricity ,বিদ্যুৎ,
+912,electronic ,বৈদ্যুতিক,
+913,element ,উপাদান,
+914,elevator ,লিফট,
+915,else ,অন্য,
+916,elsewhere ,অন্য কোথাও,
+917,email ,ইমেল,
+918,embarrassed ,বিব্রত,
+919,emerge ,উত্থান,
+920,emergency ,জরুরী,
+921,emotion ,আবেগ,
+922,emotional ,সংবেদনশীল,
+923,emphasis ,জোর,
+924,emphasize ,জোর দেওয়া,
+925,empire ,সাম্রাজ্য,
+926,employ ,নিয়োগ,
+927,employee ,কর্মচারী,
+928,employer ,নিয়োগকর্তা,
+929,employment ,কর্মসংস্থান,
+930,empty ,খালি,
+931,enable ,সক্ষম করুন,
+932,encounter ,মুখোমুখি,
+933,encourage ,উত্সাহ,
+934,encouraging ,উত্সাহজনক,
+935,end ,শেষ,
+936,enemy ,শত্রু,
+937,energy ,শক্তি,
+938,engage ,নিযুক্ত করা,
+939,engine ,ইঞ্জিন,
+940,engineer ,ইঞ্জিনিয়ার,
+941,engineering ,প্রকৌশল,
+942,enhance ,বাড়ান,
+943,enjoy ,উপভোগ করুন,
+944,enjoyable ,উপভোগ্য,
+945,enormous ,প্রচুর,
+946,enough ,যথেষ্ট,
+947,enquiry ,অনুসন্ধান,
+948,ensure ,নিশ্চিত করা,
+949,enter ,প্রবেশ করান,
+950,enterprise ,উদ্যোগ,
+951,entertainment ,বিনোদন,
+952,enthusiasm ,উত্সাহ,
+953,enthusiastic ,উদ্যমী,
+954,entire ,পুরো,
+955,entirely ,পুরোপুরি,
+956,entitle ,এনটাইটেল,
+957,entrance ,প্রবেশদ্বার,
+958,entry ,প্রবেশ,
+959,envelope ,খাম,
+960,environment ,পরিবেশ,
+961,environmental ,পরিবেশগত,
+962,equal ,সমান,
+963,equally ,সমানভাবে,
+964,equipment ,সরঞ্জাম,
+965,equivalent ,সমতুল্য,
+966,era ,যুগ,
+967,error ,ত্রুটি,
+968,escape ,পালানো,
+969,especially ,বিশেষত,
+970,essay ,প্রবন্ধ,
+971,essential ,অপরিহার্য,
+972,essentially ,মূলত,
+973,establish ,প্রতিষ্ঠিত,
+974,establishment ,প্রতিষ্ঠা,
+975,estate ,সম্পত্তি,
+976,estimate ,অনুমান,
+977,ethnic ,জাতিগত,
+978,even ,এমন কি,
+979,evening ,সন্ধ্যা,
+980,event ,ইভেন্ট,
+981,eventually ,অবশেষে,
+982,ever ,সর্বদা,
+983,every ,প্রতি,
+984,everybody ,সবাই,
+985,everyone ,সবাই,
+986,everything ,সব,
+987,everywhere ,সর্বত্র,
+988,evidence ,প্রমান,
+989,evil ,অশুভ,
+990,exact ,হুবহু,
+991,exactly ,ঠিক,
+992,exam ,পরীক্ষা,
+993,examination ,পরীক্ষা,
+994,examine ,পরীক্ষা করা,
+995,example ,উদাহরণ,
+996,excellent ,দুর্দান্ত,
+997,except ,বাদে,
+998,exception ,ব্যতিক্রম,
+999,exchange ,বিনিময়,
+1000,excitement ,উত্তেজনা,
+1001,exciting ,উত্তেজনাপূর্ণ,
+1002,exclude ,বাদ দিন,
+1003,excuse ,অজুহাত,
+1004,executive ,কার্যনির্বাহী,
+1005,exercise ,অনুশীলন,
+1006,exhibition ,প্রদর্শনী,
+1007,exist ,উপস্থিত,
+1008,existence ,অস্তিত্ব,
+1009,existing ,বিদ্যমান,
+1010,exit ,প্রস্থান,
+1011,expand ,বিস্তৃত করা,
+1012,expansion ,প্রসারণ,
+1013,expect ,প্রত্যাশা,
+1014,expectation ,প্রত্যাশা,
+1015,expenditure ,ব্যয়,
+1016,expense ,ব্যয়,
+1017,expensive ,ব্যয়বহুল,
+1018,experience ,অভিজ্ঞতা,
+1019,experienced ,অভিজ্ঞ,
+1020,experiment ,পরীক্ষা,
+1021,experimental ,পরীক্ষামূলক,
+1022,expert ,বিশেষজ্ঞ,
+1023,explain ,ব্যাখ্যা করা,
+1024,explanation ,ব্যাখ্যা,
+1025,explore ,অন্বেষণ,
+1026,explosion ,বিস্ফোরণ,
+1027,export ,এক্সপোর্ট,
+1028,expose ,প্রকাশ করা,
+1029,express ,প্রকাশ করা,
+1030,expression ,অভিব্যক্তি,
+1031,extend ,প্রসারিত করা,
+1032,extension ,এক্সটেনশন,
+1033,extensive ,বিস্তৃত,
+1034,extent ,ব্যাপ্তি,
+1035,external ,বাহ্যিক,
+1036,extra ,অতিরিক্ত,
+1037,extraordinary ,অসাধারণ,
+1038,extreme ,চরম,
+1039,extremely ,অত্যন্ত,
+1040,eye ,চক্ষু,
+1041,face ,মুখ,
+1042,facility ,সুবিধা,
+1043,fact ,সত্য,
+1044,factor ,ফ্যাক্টর,
+1045,factory ,কারখানা,
+1046,fail ,ব্যর্থ,
+1047,failure ,ব্যর্থতা,
+1048,fair ,ফর্সা,
+1049,fairly ,মোটামুটি,
+1050,faith ,বিশ্বাস,
+1051,fall ,পড়া,
+1052,false ,মিথ্যা,
+1053,familiar ,পরিচিত,
+1054,family ,পরিবার,
+1055,famous ,বিখ্যাত,
+1056,fan ,ফ্যান,
+1057,fancy ,অভিনব,
+1058,fantastic ,দুর্দান্ত,
+1059,far ,অনেক দূরে,
+1060,farm ,খামার,
+1061,farmer ,কৃষক,
+1062,fascinating ,আকর্ষণীয়,
+1063,fashion ,ফ্যাশন,
+1064,fast ,দ্রুত,
+1065,fat ,চর্বি,
+1066,father ,পিতা,
+1067,fault ,দোষ,
+1068,favour ,আনুকূল্য,
+1069,favourite ,প্রিয়,
+1070,fear ,ভয়,
+1071,feature ,বৈশিষ্ট্য,
+1072,federal ,ফেডারেল,
+1073,fee ,ফি,
+1074,feed ,খাওয়ান,
+1075,feedback ,প্রতিক্রিয়া,
+1076,feel ,অনুভব করা,
+1077,feeling ,অনুভূতি,
+1078,fellow ,সহকর্মী,
+1079,female ,মহিলা,
+1080,fence ,বেড়া,
+1081,festival ,উৎসব,
+1082,fetch ,আনা,
+1083,few ,কয়েক,
+1084,field ,ক্ষেত্র,
+1085,fight ,লড়াই,
+1086,figure ,চিত্র,
+1087,file ,ফাইল,
+1088,fill ,পূরণ,
+1089,film ,ফিল্ম,
+1090,filthy ,নোংরা,
+1091,final ,চূড়ান্ত,
+1092,finally ,শেষ পর্যন্ত,
+1093,finance ,অর্থায়ন,
+1094,financial ,আর্থিক,
+1095,find ,অনুসন্ধান,
+1096,finding ,সন্ধান করা,
+1097,fine ,ঠিক আছে,
+1098,finger ,আঙুল,
+1099,finish ,শেষ,
+1100,fire ,আগুন,
+1101,firm ,দৃঢ়,
+1102,first ,প্রথম,
+1103,firstly ,প্রথমত,
+1104,fish ,মাছ,
+1105,fishing ,মাছ ধরা,
+1106,fit ,ফিট,
+1107,fix ,ঠিক কর,
+1108,fixed ,স্থির,
+1109,flash ,ফ্ল্যাশ,
+1110,flat ,সমান,
+1111,flavour ,গন্ধ,
+1112,flesh ,মাংস,
+1113,flight ,বিমান,
+1114,flood ,বন্যা,
+1115,floor ,মেঝে,
+1116,flow ,প্রবাহ,
+1117,flower ,ফুল,
+1118,fly ,উড়ে,
+1119,focus ,ফোকাস,
+1120,fold ,ভাঁজ,
+1121,folk ,লোক,
+1122,follow ,অনুসরণ,
+1123,following ,নিম্নলিখিত,
+1124,food ,খাদ্য,
+1125,foot ,পা,
+1126,football ,ফুটবল,
+1127,for ,জন্য,
+1128,force ,জোর,
+1129,foreign ,বিদেশী,
+1130,forest ,বন। জংগল,
+1131,forever ,চিরতরে,
+1132,forget ,ভুলে যাও,
+1133,forgive ,ক্ষমা,
+1134,fork ,কাঁটাচামচ,
+1135,form ,ফর্ম,
+1136,formal ,প্রথাগত,
+1137,formally ,আনুষ্ঠানিকভাবে,
+1138,formation ,গঠন,
+1139,former ,প্রাক্তন,
+1140,formula ,সূত্র,
+1141,forth ,সামনে,
+1142,fortnight ,পাক্ষিক,
+1143,fortunate ,ভাগ্যবান,
+1144,fortune ,ভাগ্য,
+1145,forward ,এগিয়ে,
+1146,foundation ,ভিত্তি,
+1147,frame ,ফ্রেম,
+1148,frankly ,অকপটে,
+1149,free ,বিনামূল্যে,
+1150,freedom ,স্বাধীনতা,
+1151,freeway ,ফ্রিওয়ে,
+1152,freeze ,বরফে পরিণত করা,
+1153,freezer ,ফ্রিজার,
+1154,frequent ,ঘন ঘন,
+1155,frequently ,ঘন ঘন,
+1156,fresh ,সতেজ,
+1157,fridge ,ফ্রিজ,
+1158,friend ,বন্ধু,
+1159,friendly ,বন্ধুত্বপূর্ণ,
+1160,friendship ,বন্ধুত্ব,
+1161,frightened ,ভীত,
+1162,from ,থেকে,
+1163,front ,সামনের,
+1164,fruit ,ফল,
+1165,fry ,ভাজা,
+1166,fuel ,জ্বালানী,
+1167,full ,সম্পূর্ণ,
+1168,fully ,পুরোপুরি,
+1169,fun ,মজা,
+1170,function ,ফাংশন,
+1171,fund ,তহবিল,
+1172,fundamental ,মৌলিক,
+1173,funeral ,অন্ত্যেষ্টিক্রিয়া,
+1174,funny ,হাস্যকর,
+1175,furniture ,আসবাবপত্র,
+1176,further ,আরও,
+1177,fuss ,হৈ চৈ,
+1178,future ,ভবিষ্যত,
+1179,gain ,লাভ করা,
+1180,gallery ,গ্যালারী,
+1181,game ,খেলা,
+1182,gang ,গ্যাং,
+1183,gap ,ফাঁক,
+1184,garage ,গ্যারেজ,
+1185,garbage ,আবর্জনা,
+1186,garden ,উদ্যান,
+1187,garlic ,রসুন,
+1188,gas ,গ্যাস,
+1189,gasoline ,পেট্রল,
+1190,gate ,গেট,
+1191,gather ,জড়ো করা,
+1192,gay ,সমকামী,
+1193,gear ,গিয়ার,
+1194,gene ,জিন,
+1195,general ,সাধারণ,
+1196,generally ,সাধারণত,
+1197,generate ,উত্পন্ন করা,
+1198,generation ,প্রজন্ম,
+1199,generous ,উদার,
+1200,gentle ,মৃদু,
+1201,gentleman ,ভদ্রলোক,
+1202,gently ,আলতো করে,
+1203,genuine ,অকৃত্রিম,
+1204,get ,পাওয়া,
+1205,giant ,দৈত্য,
+1206,gift ,উপহার,
+1207,girl ,মেয়ে,
+1208,girlfriend ,বান্ধবী,
+1209,give ,দিতে,
+1210,glad ,আনন্দিত,
+1211,glance ,এক পলক দেখা,
+1212,glass ,গ্লাস,
+1213,global ,গ্লোবাল,
+1214,glove ,গ্লাভস,
+1215,go ,যাওয়া,
+1216,goal ,লক্ষ্য,
+1217,god ,সৃষ্টিকর্তা,
+1218,gold ,সোনার,
+1219,golden ,সোনালী,
+1220,golf ,গল্ফ,
+1221,good ,ভাল,
+1222,good morning  ,সুপ্রভাত,
+1223,good night  ,শুভ রাত্রি,
+1224,goodbye  ,বিদায়,
+1225,goodness ,মঙ্গল,
+1226,goods ,মাল,
+1227,gorgeous ,টকটকে,
+1228,gosh  ,গোশ,
+1229,govern ,পরিচালনা,
+1230,government ,সরকার,
+1231,governor ,গভর্নর,
+1232,grab ,দখল,
+1233,grade ,শ্রেণী,
+1234,gradually ,ধীরে ধীরে,
+1235,gram ,ছোলা,
+1236,grammar ,ব্যাকরণ,
+1237,grand ,গ্র্যান্ড,
+1238,grandad ,গ্র্যান্ডাড,
+1239,grandfather ,দাদা,
+1240,grandma ,ঠাকুমা,
+1241,grandmother ,দাদী,
+1242,grandpa ,পিতামহ,
+1243,granny ,বৃদ্ধা,
+1244,grant ,প্রদান,
+1245,graph ,চিত্রলেখ,
+1246,grass ,ঘাস,
+1247,grateful ,কৃতজ্ঞ,
+1248,great ,দুর্দান্ত,
+1249,greatly ,ব্যাপকভাবে,
+1250,green ,সবুজ,
+1251,grey ,ধূসর,
+1252,grocery ,মুদিখানা,
+1253,gross ,স্থূল,
+1254,ground ,স্থল,
+1255,group ,দল,
+1256,grow ,বৃদ্ধি,
+1257,growth ,বৃদ্ধি,
+1258,guarantee ,গ্যারান্টি,
+1259,guard ,প্রহরী,
+1260,guess ,অনুমান,
+1261,guest ,অতিথি,
+1262,guidance ,গাইডেন্স,
+1263,guide ,গাইড,
+1264,guilty ,দোষী,
+1265,guitar ,গিটার,
+1266,gun ,বন্দুক,
+1267,guy ,লোক,
+1268,habit ,অভ্যাস,
+1269,hair ,চুল,
+1270,half ,অর্ধেক,
+1271,half ,অর্ধেক,
+1272,halfway ,অর্ধেক,
+1273,hall ,হল,
+1274,hand ,হাত,
+1275,handbag ,হ্যান্ডব্যাগ,
+1276,handle ,হাতল,
+1277,handy ,সহজ,
+1278,hang ,ফাঁসি,
+1279,happen ,ঘটবে,
+1280,happy ,সুখী,
+1281,hard ,শক্ত,
+1282,hardly ,কষ্টে,
+1283,harm ,ক্ষতি,
+1284,hat ,টুপি,
+1285,hate ,ঘৃণা,
+1286,have ,আছে,
+1287,he ,তিনি,
+1288,head ,মাথা,
+1289,headquarters ,সদর দফতর,
+1290,health ,স্বাস্থ্য,
+1291,healthy ,সুস্থ,
+1292,hear ,শুনুন,
+1293,hearing ,শ্রবণ,
+1294,heart ,হৃদয়,
+1295,heat ,উত্তাপ,
+1296,heater ,হিটার,
+1297,heating ,গরম করার,
+1298,heaven ,স্বর্গ,
+1299,heavily ,ভারী,
+1300,heavy ,ভারী,
+1301,height ,উচ্চতা,
+1302,hell ,নরক,
+1303,hello  ,হ্যালো,
+1304,help ,সাহায্য,
+1305,helpful ,সহায়ক,
+1306,hence ,অতএব,
+1307,her ,তার,
+1308,here ,এখানে,
+1309,hero ,নায়ক,
+1310,hers ,তার,
+1311,herself ,নিজেকে,
+1312,hesitate ,দ্বিধা,
+1313,hi  ,ওহে,
+1314,hide ,আড়াল,
+1315,high ,উচ্চ,
+1316,highlight ,লক্ষণীয় করা,
+1317,highly ,অত্যন্ত,
+1318,highway ,হাইওয়ে,
+1319,hill ,পাহাড়,
+1320,him ,তার,
+1321,himself ,নিজেই,
+1322,hire ,ভাড়া,
+1323,his ,তার,
+1324,historian ,ইতিহাসবিদ,
+1325,historical ,.তিহাসিক,
+1326,history ,ইতিহাস,
+1327,hit ,আঘাত,
+1328,hold ,রাখা,
+1329,holder ,ধারক,
+1330,holding ,ধারণ,
+1331,hole ,গর্ত,
+1332,holiday ,ছুটি,
+1333,holy ,পবিত্র,
+1334,home ,বাড়ি,
+1335,homework ,বাড়ির কাজ,
+1336,honest ,সৎ,
+1337,honestly ,সত্যি বলতে,
+1338,honey ,মধু,
+1339,honour ,সম্মান,
+1340,hook ,হুক,
+1341,hope ,আশা,
+1342,hopefully ,আশা করি,
+1343,hopeless ,হতাশ,
+1344,horrible ,ভয়াবহ,
+1345,horror ,ভয়াবহতা,
+1346,horse ,ঘোড়া,
+1347,hospital ,হাসপাতাল,
+1348,host ,হোস্ট,
+1349,hot ,গরম,
+1350,hotel ,হোটেল,
+1351,hour ,ঘন্টা,
+1352,house ,গৃহ,
+1353,household ,পরিবার,
+1354,housing ,হাউজিং,
+1355,how ,কিভাবে,
+1356,however ,যাহোক,
+1357,huge ,বিশাল,
+1358,human ,মানব,
+1359,hungry ,ক্ষুধার্ত,
+1360,hunt ,খোজা,
+1361,hurry ,তাড়াতাড়ি,
+1362,hurt ,আহত,
+1363,husband ,স্বামী,
+1364,I ,আমি,
+1365,ice ,বরফ,
+1366,ice cream ,আইসক্রিম,
+1367,idea ,ধারণা,
+1368,ideal ,আদর্শ,
+1369,ideally ,আদর্শভাবে,
+1370,identify ,সনাক্ত,
+1371,identity ,পরিচয়,
+1372,idiot ,বোকা,
+1373,if ,যদি,
+1374,ignore ,উপেক্ষা,
+1375,ill ,অসুস্থ,
+1376,illegal ,অবৈধ,
+1377,illness ,অসুস্থতা,
+1378,illustrate ,চিত্রিত করা,
+1379,image ,চিত্র,
+1380,imagination ,কল্পনা,
+1381,imagine ,কল্পনা,
+1382,immediate ,তাত্ক্ষণিক,
+1383,immediately ,অবিলম্বে,
+1384,impact ,প্রভাব,
+1385,implement ,বাস্তবায়ন,
+1386,implication ,জড়িত,
+1387,imply ,বোঝা,
+1388,import ,আমদানি,
+1389,importance ,গুরুত্ব,
+1390,important ,গুরুত্বপূর্ণ,
+1391,impose ,চাপিয়ে দেওয়া,
+1392,impossible ,অসম্ভব,
+1393,impress ,ছাপ,
+1394,impression ,ছাপ,
+1395,impressive ,চিত্তাকর্ষক,
+1396,improve ,উন্নতি,
+1397,improvement ,উন্নতি,
+1398,in ,ভিতরে,
+1399,inch ,ইঞ্চি,
+1400,incident ,ঘটনা,
+1401,include ,অন্তর্ভুক্ত,
+1402,including ,সহ,
+1403,income ,আয়,
+1404,incorporate ,নিগমবদ্ধ,
+1405,increase ,বৃদ্ধি,
+1406,increasingly ,ক্রমবর্ধমানভাবে,
+1407,incredible ,অবিশ্বাস্য,
+1408,incredibly ,অবিশ্বাস্যভাবে,
+1409,indeed ,প্রকৃতপক্ষে,
+1410,independence ,স্বাধীনতা,
+1411,independent ,স্বতন্ত্র,
+1412,index ,সূচক,
+1413,indicate ,ইঙ্গিত,
+1414,indication ,ইঙ্গিত,
+1415,individual ,স্বতন্ত্র,
+1416,industrial ,শিল্প,
+1417,industry ,শিল্প,
+1418,inevitable ,অনিবার্য,
+1419,inevitably ,অনিবার্যভাবে,
+1420,infant ,শিশু,
+1421,infection ,সংক্রমণ,
+1422,inflation ,মূল্যস্ফীতি,
+1423,influence ,প্রভাব,
+1424,inform ,অবহিত,
+1425,informal ,অনানুষ্ঠানিক,
+1426,information ,তথ্য,
+1427,initial ,প্রাথমিক,
+1428,initially ,প্রাথমিকভাবে,
+1429,initiative ,উদ্যোগ,
+1430,injure ,আহত,
+1431,injury ,আঘাত,
+1432,inner ,অভ্যন্তরীণ,
+1433,innocent ,নির্দোষ,
+1434,innovation ,নতুনত্ব,
+1435,input ,ইনপুট,
+1436,inquiry ,অনুসন্ধান,
+1437,insect ,পোকা,
+1438,inside ,ভিতরে,
+1439,insist ,জেদ করা,
+1440,inspection ,পরিদর্শন,
+1441,inspector ,পরিদর্শক,
+1442,install ,ইনস্টল,
+1443,instance ,দৃষ্টান্ত,
+1444,instant ,তাত্ক্ষণিক,
+1445,instead ,পরিবর্তে,
+1446,institute ,ইনস্টিটিউট,
+1447,institution ,প্রতিষ্ঠান,
+1448,instruction ,নির্দেশ,
+1449,instrument ,যন্ত্র,
+1450,insurance ,বীমা,
+1451,intellectual ,বৌদ্ধিক,
+1452,intelligence ,বুদ্ধি,
+1453,intelligent ,বুদ্ধিমান,
+1454,intend ,অভিপ্রায়,
+1455,intense ,তীব্র,
+1456,intention ,অভিপ্রায়,
+1457,interaction ,মিথষ্ক্রিয়া,
+1458,interest ,স্বার্থ,
+1459,interested ,আগ্রহী,
+1460,interesting ,মজাদার,
+1461,internal ,অভ্যন্তরীণ,
+1462,international ,আন্তর্জাতিক,
+1463,internet ,ইন্টারনেট,
+1464,interpret ,ব্যাখ্যা,
+1465,interpretation ,ব্যাখ্যা,
+1466,interval ,অন্তর,
+1467,intervention ,হস্তক্ষেপ,
+1468,interview ,সাক্ষাত্কার,
+1469,into ,মধ্যে,
+1470,introduce ,পরিচয় করিয়ে দেওয়া,
+1471,introduction ,ভূমিকা,
+1472,invest ,বিনিয়োগ,
+1473,investigate ,তদন্ত,
+1474,investigation ,তদন্ত,
+1475,investment ,বিনিয়োগ,
+1476,invite ,আমন্ত্রণ,
+1477,involve ,জড়িত,
+1478,involved ,জড়িত,
+1479,involvement ,জড়িত হওয়া,
+1480,iron ,লোহা,
+1481,island ,দ্বীপ,
+1482,issue ,সমস্যা,
+1483,it ,এটা,
+1484,item ,আইটেম,
+1485,its ,এটি,
+1486,itself ,নিজেই,
+1487,jacket ,জ্যাকেট,
+1488,jam ,জ্যাম,
+1489,job ,কাজ,
+1490,join ,যোগ দিন,
+1491,joint ,যৌথ,
+1492,joke ,রসিকতা,
+1493,journalist ,সাংবাদিক,
+1494,journey ,ভ্রমণ,
+1495,joy ,আনন্দ,
+1496,judge ,বিচারক,
+1497,judgment ,রায়,
+1498,juice ,রস,
+1499,jump ,ঝাঁপ দাও,
+1500,jumper ,জাম্পার,
+1501,junior ,জুনিয়র,
+1502,jury ,জুরি,
+1503,just ,ঠিক,
+1504,justice ,বিচার,
+1505,justify ,ন্যায়সঙ্গত করা,
+1506,keen ,উত্সাহী,
+1507,keep ,রাখা,
+1508,kettle ,কেটলি,
+1509,key ,মূল,
+1510,keyboard ,কীবোর্ড,
+1511,kick ,লাথি,
+1512,kid ,ছাগলছানা,
+1513,kill ,হত্যা,
+1514,kilometre ,কিলোমিটার,
+1515,kind ,সদয়,
+1516,king ,রাজা,
+1517,kiss ,চুম্বন,
+1518,kit ,কিট,
+1519,kitchen ,রান্নাঘর,
+1520,knee ,হাঁটু,
+1521,knife ,ছুরি,
+1522,knock ,ঠক্ঠক্,
+1523,know ,জানুন,
+1524,knowledge ,জ্ঞান,
+1525,known ,পরিচিত,
+1526,lab ,ল্যাব,
+1527,label ,লেবেল,
+1528,laboratory ,পরীক্ষাগার,
+1529,labour ,শ্রম,
+1530,lack ,অভাব,
+1531,lad ,ছেলে,
+1532,ladder ,মই,
+1533,lady ,মহিলা,
+1534,lake ,হ্রদ,
+1535,lamb ,মেষশাবক,
+1536,lamp ,বাতি,
+1537,land ,জমি,
+1538,landlord ,জমিদার,
+1539,landscape ,ল্যান্ডস্কেপ,
+1540,lane ,গলি,
+1541,language ,ভাষা,
+1542,large ,বড়,
+1543,largely ,মূলত,
+1544,last ,শেষ,
+1545,late ,দেরী,
+1546,later ,পরে,
+1547,latter ,পরবর্তী,
+1548,laugh ,হাসি,
+1549,launch ,শুরু করা,
+1550,law ,আইন,
+1551,lawyer ,আইনজীবী,
+1552,lay ,পাড়া,
+1553,layer ,স্তর,
+1554,lazy ,অলস,
+1555,lead ,সীসা,
+1556,leader ,নেতা,
+1557,leadership ,নেতৃত্ব,
+1558,leading ,নেতৃস্থানীয়,
+1559,leaf ,পাত,
+1560,league ,লীগ,
+1561,lean ,রোগা,
+1562,learn ,শিখুন,
+1563,least ,কমপক্ষে,
+1564,leather ,চামড়া,
+1565,leave ,ছেড়ে দিন,
+1566,lecture ,বক্তৃতা,
+1567,left ,বাম,
+1568,leg ,পা,
+1569,legal ,আইনী,
+1570,legislation ,আইন,
+1571,leisure ,অবসর,
+1572,lend ,ধার,
+1573,length ,দৈর্ঘ্য,
+1574,less ,কম,
+1575,lesson ,পাঠ,
+1576,let ,দিন,
+1577,letter ,চিঠি,
+1578,level ,স্তর,
+1579,liberal ,উদার,
+1580,library ,গ্রন্থাগার,
+1581,licence ,লাইসেন্স,
+1582,lick ,চাটুন,
+1583,lid ,ঢাকনা,
+1584,lie ,মিথ্যা,
+1585,life ,জীবন,
+1586,lift ,উত্তোলন,
+1587,light ,আলো,
+1588,lighting ,আলো,
+1589,like ,পছন্দ,
+1590,likely ,সম্ভবত,
+1591,limit ,সীমা,
+1592,limitation ,সীমাবদ্ধতা,
+1593,limited ,সীমাবদ্ধ,
+1594,line ,লাইন,
+1595,link ,লিঙ্ক,
+1596,lip ,ঠোঁট,
+1597,liquid ,তরল,
+1598,list ,তালিকা,
+1599,listen ,শোনো,
+1600,literally ,আক্ষরিক অর্থে,
+1601,literary ,সাহিত্যিক,
+1602,literature ,সাহিত্য,
+1603,little ,সামান্য,
+1604,live ,লাইভ দেখান,
+1605,lively ,প্রাণবন্ত,
+1606,living ,জীবিত,
+1607,load ,ভার,
+1608,loan ,loanণ,
+1609,local ,স্থানীয়,
+1610,locate ,সনাক্ত,
+1611,location ,অবস্থান,
+1612,lock ,লক,
+1613,log ,লগ,
+1614,logical ,যৌক্তিক,
+1615,lonely ,একাকী,
+1616,long ,দীর্ঘ,
+1617,long-term ,দীর্ঘ মেয়াদী,
+1618,look ,চেহারা,
+1619,loose ,আলগা,
+1620,lord ,প্রভু,
+1621,lorry ,লরি,
+1622,lose ,হারান,
+1623,loss ,ক্ষতি,
+1624,lost ,নিখোঁজ,
+1625,lot ,অনেক,
+1626,loud ,জোরে,
+1627,lounge ,লাউঞ্জ,
+1628,love ,ভালবাসা,
+1629,lovely ,সুদৃশ্য,
+1630,lover ,প্রেমিক,
+1631,low ,কম,
+1632,lower ,কম,
+1633,luck ,ভাগ্য,
+1634,luckily ,ভাগ্যক্রমে,
+1635,lucky ,ভাগ্যবান,
+1636,lump ,পিণ্ড,
+1637,lunch ,মধ্যাহ্নভোজ,
+1638,lunchtime ,লাঞ্চের সময়,
+1639,machine ,যন্ত্র,
+1640,machinery ,যন্ত্রপাতি,
+1641,mad ,পাগল,
+1642,madam ,ম্যাডাম,
+1643,magazine ,পত্রিকা,
+1644,magic ,যাদু,
+1645,mail ,মেইল,
+1646,main ,প্রধান,
+1647,mainly ,প্রধানত,
+1648,maintain ,বজায় রাখা,
+1649,maintenance ,রক্ষণাবেক্ষণ,
+1650,major ,মেজর,
+1651,majority ,সংখ্যাগরিষ্ঠ,
+1652,make ,করা,
+1653,male ,পুরুষ,
+1654,mall ,মল,
+1655,man ,মানুষ,
+1656,manage ,পরিচালনা,
+1657,management ,ব্যবস্থাপনা,
+1658,manager ,ম্যানেজার,
+1659,manner ,পদ্ধতি,
+1660,manufacturer ,প্রস্তুতকারক,
+1661,manufacturing ,উত্পাদন,
+1662,many ,অনেক,
+1663,map ,মানচিত্র,
+1664,march ,পদযাত্রা,
+1665,margin ,মার্জিন,
+1666,mark ,চিহ্ন,
+1667,market ,বাজার,
+1668,marketing ,বিপণন,
+1669,marriage ,বিবাহ,
+1670,married ,বিবাহিত,
+1671,marry ,বিবাহ করা,
+1672,marvellous ,অপূর্ব,
+1673,mass ,ভর,
+1674,massive ,বিশাল,
+1675,master ,মাস্টার,
+1676,match ,ম্যাচ,
+1677,mate ,সাথী,
+1678,material ,উপাদান,
+1679,math ,গণিত,
+1680,maths ,গণিত,
+1681,matter ,বিষয়,
+1682,maximum ,সর্বাধিক,
+1683,may ,পারে,
+1684,maybe ,হতে পারে,
+1685,me ,আমাকে,
+1686,meal ,খাবার,
+1687,mean ,মানে,
+1688,meaning ,অর্থ,
+1689,means ,মানে,
+1690,meanwhile ,ইতিমধ্যে,
+1691,measure ,পরিমাপ করা,
+1692,measurement ,মাপা,
+1693,meat ,মাংস,
+1694,mechanism ,পদ্ধতি,
+1695,media ,মিডিয়া,
+1696,medical ,চিকিৎসা,
+1697,medicine ,ওষুধ,
+1698,medieval ,মধ্যযুগীয়,
+1699,medium ,মধ্যম,
+1700,meet ,সম্মেলন,
+1701,meeting ,সভা,
+1702,member ,সদস্য,
+1703,membership ,সদস্যপদ,
+1704,memory ,স্মৃতি,
+1705,mental ,মানসিক,
+1706,mention ,উল্লেখ,
+1707,menu ,তালিকা,
+1708,mere ,নিছক,
+1709,merely ,নিছক,
+1710,mess ,গণ্ডগোল,
+1711,message ,বার্তা,
+1712,messy ,অগোছালো,
+1713,metal ,ধাতু,
+1714,method ,পদ্ধতি,
+1715,metre ,মিটার,
+1716,middle ,মধ্যম,
+1717,midnight ,মধ্যরাত,
+1718,might ,হতে পারে,
+1719,mile ,মাইল,
+1720,military ,সামরিক,
+1721,milk ,দুধ,
+1722,millimetre ,মিলিমিটার,
+1723,mind ,মন,
+1724,mine ,আমার,
+1725,mineral ,খনিজ,
+1726,minimum ,সর্বনিম্ন,
+1727,minister ,মন্ত্রী,
+1728,ministry ,মন্ত্রণালয়,
+1729,minor ,গৌণ,
+1730,minority ,নাবালকত্ব,
+1731,minute ,মিনিট,
+1732,mirror ,আয়না,
+1733,misery ,দুর্দশা,
+1734,miss ,হারানো,
+1735,mission ,মিশন,
+1736,mistake ,ভুল,
+1737,mix ,মিশ্রণ,
+1738,mixed ,মিশ্রিত,
+1739,mixture ,মিশ্রণ,
+1740,mobile ,মুঠোফোন,
+1741,mobile phone ,মোবাইল ফোন,
+1742,mode ,মোড,
+1743,model ,মডেল,
+1744,modern ,আধুনিক,
+1745,mom ,মা,
+1746,moment ,মুহূর্ত,
+1747,mommy ,মা,
+1748,money ,টাকা,
+1749,monitor ,নিরীক্ষণ,
+1750,month ,মাস,
+1751,mood ,মেজাজ,
+1752,moon ,চাঁদ,
+1753,moral ,নৈতিক,
+1754,more ,আরও,
+1755,moreover ,তদুপরি,
+1756,morning ,সকাল,
+1757,mortgage ,বন্ধক,
+1758,most ,সর্বাধিক,
+1759,mostly ,অধিকাংশ ক্ষেত্রে,
+1760,mother ,মা,
+1761,motion ,গতি,
+1762,motor ,মোটর,
+1763,motorway ,মোটরওয়ে,
+1764,mountain ,পর্বত,
+1765,mouse ,মাউস,
+1766,mouth ,মুখ,
+1767,move ,সরানো,
+1768,movement ,আন্দোলন,
+1769,movie ,সিনেমা,
+1770,much ,অনেক,
+1771,mud ,কাদা,
+1772,mum ,মা,
+1773,mummy ,মমি,
+1774,murder ,খুন,
+1775,muscle ,পেশী,
+1776,museum ,যাদুঘর,
+1777,mushroom ,মাশরুম,
+1778,music ,সংগীত,
+1779,musical ,বাদ্যযন্ত্র,
+1780,must ,অবশ্যই,
+1781,my ,আমার,
+1782,myself ,আমার,
+1783,mystery ,রহস্য,
+1784,nail ,পেরেক,
+1785,naked ,নগ্ন,
+1786,name ,নাম,
+1787,narrow ,সরু,
+1788,nasty ,কদর্য,
+1789,nation ,জাতি,
+1790,national ,জাতীয়,
+1791,native ,স্থানীয়,
+1792,natural ,প্রাকৃতিক,
+1793,naturally ,স্বাভাবিকভাবে,
+1794,nature ,প্রকৃতি,
+1795,naughty ,দুষ্টু,
+1796,near ,কাছে,
+1797,nearby ,কাছাকাছি,
+1798,nearly ,প্রায়,
+1799,neat ,ঝরঝরে,
+1800,necessarily ,অগত্যা,
+1801,necessary ,প্রয়োজনীয়,
+1802,neck ,ঘাড়,
+1803,need ,প্রয়োজন,
+1804,negative ,নেতিবাচক,
+1805,negotiate ,আলোচনা করা,
+1806,negotiation ,আলাপ - আলোচনা,
+1807,neighbour ,প্রতিবেশী,
+1808,neighbourhood ,পাড়া,
+1809,neither ,না,
+1810,nerve ,স্নায়ু,
+1811,nervous ,স্নায়বিক,
+1812,net ,নেট,
+1813,network ,অন্তর্জাল,
+1814,never ,কখনই না,
+1815,nevertheless ,তবুও,
+1816,new ,নতুন,
+1817,newly ,সদ্য,
+1818,news ,খবর,
+1819,newspaper ,খবরের কাগজ,
+1820,next ,পরবর্তী,
+1821,nice ,সুন্দর,
+1822,nicely ,সুন্দরভাবে,
+1823,night ,রাত,
+1824,nil ,শূন্য,
+1825,no ,না,
+1826,no one ,কেউ না,
+1827,no way ,কোনভাবেই না,
+1828,nobody ,কেউ না,
+1829,nod ,হাঁ,
+1830,noise ,শব্দ,
+1831,noisy ,সশব্দ,
+1832,none ,কিছুই না,
+1833,nonsense ,আজেবাজে কথা,
+1834,nope ,না,
+1835,nor ,না,
+1836,normal ,সাধারণ,
+1837,normally ,সাধারণত,
+1838,north ,উত্তর,
+1839,northern ,উত্তর,
+1840,nose ,নাক,
+1841,not ,না,
+1842,notably ,লক্ষণীয়ভাবে,
+1843,note ,বিঃদ্রঃ,
+1844,nothing ,কিছুই না,
+1845,notice ,নোটিশ,
+1846,notion ,ধারণা,
+1847,novel ,উপন্যাস,
+1848,now ,এখন,
+1849,nowadays ,আজকাল,
+1850,nowhere ,কোথাও,
+1851,nuclear ,পারমাণবিক,
+1852,nuisance ,উপদ্রব,
+1853,number ,সংখ্যা,
+1854,numerous ,অনেক,
+1855,nurse ,নার্স,
+1856,nut ,বাদাম,
+1857,o’clock ,ওক্লক,
+1858,object ,অবজেক্ট,
+1859,objection ,আপত্তি,
+1860,objective ,উদ্দেশ্য,
+1861,obligation ,বাধ্যবাধকতা,
+1862,observation ,পর্যবেক্ষণ,
+1863,observe ,পর্যবেক্ষণ,
+1864,obtain ,প্রাপ্ত,
+1865,obvious ,স্পষ্ট,
+1866,obviously ,স্পষ্টতই,
+1867,occasion ,উপলক্ষ,
+1868,occasional ,মাঝে মাঝে,
+1869,occasionally ,মাঝে মাঝে,
+1870,occupation ,পেশা,
+1871,occupy ,দখল করা,
+1872,occur ,ঘটতে পারে,
+1873,ocean ,সমুদ্র,
+1874,odd ,অস্বাভাবিক,
+1875,odds ,প্রতিকূলতা,
+1876,of ,এর,
+1877,of course ,অবশ্যই,
+1878,off ,বন্ধ,
+1879,offence ,অপরাধ,
+1880,offer ,অফার,
+1881,office ,দপ্তর,
+1882,officer ,অফিসার,
+1883,official ,দাপ্তরিক,
+1884,often ,প্রায়শই,
+1885,oil ,তেল,
+1886,OK ,ঠিক আছে,
+1887,OK  ,ঠিক আছে,
+1888,old ,পুরাতন,
+1889,on ,চালু,
+1890,once ,একদা,
+1891,one ,এক,
+1892,one another ,একে অন্যকে,
+1893,onion ,পেঁয়াজ,
+1894,only ,কেবল,
+1895,onto ,উপর,
+1896,open ,খোলা,
+1897,opening ,খোলার,
+1898,operate ,পরিচালনা,
+1899,operation ,অপারেশন,
+1900,operator ,অপারেটর,
+1901,opinion ,মতামত,
+1902,opponent ,প্রতিপক্ষ,
+1903,opportunity ,সুযোগ,
+1904,oppose ,বিরোধিতা,
+1905,opposite ,বিপরীত,
+1906,opposition ,বিরোধী দল,
+1907,option ,বিকল্প,
+1908,or ,বা,
+1909,orange ,কমলা,
+1910,order ,অর্ডার,
+1911,ordinary ,সাধারণ,
+1912,organ ,অঙ্গ,
+1913,organic ,জৈব,
+1914,organization ,সংগঠন,
+1915,organize ,সংগঠিত করা,
+1916,organized ,সংগঠিত,
+1917,origin ,উত্স,
+1918,original ,আসল,
+1919,originally ,মূলত,
+1920,other ,অন্যান্য,
+1921,otherwise ,অন্যথায়,
+1922,ought to ,উচিৎ,
+1923,ounce ,আউন্স,
+1924,our ,আমাদের,
+1925,ours ,আমাদের,
+1926,ourselves ,আমাদের,
+1927,out ,আউট,
+1928,outcome ,ফলাফল,
+1929,output ,আউটপুট,
+1930,outside ,বাইরের,
+1931,outstanding ,অসামান্য,
+1932,oven ,চুলা,
+1933,over ,শেষ,
+1934,overall ,সামগ্রিকভাবে,
+1935,overcome ,কাটিয়ে ওঠা,
+1936,overseas ,বিদেশী,
+1937,overtime ,অতিরিক্ত সময়,
+1938,owe ,ণী,
+1939,own ,নিজস্ব,
+1940,owner ,মালিক,
+1941,ownership ,মালিকানা,
+1942,pace ,গতি,
+1943,pack ,প্যাক,
+1944,package ,প্যাকেজ,
+1945,packet ,প্যাকেট,
+1946,pad ,প্যাড,
+1947,page ,পৃষ্ঠা,
+1948,pain ,ব্যথা,
+1949,paint ,পেইন্ট,
+1950,painting ,পেইন্টিং,
+1951,pair ,জোড়,
+1952,palace ,প্রাসাদ,
+1953,pale ,ফ্যাকাশে,
+1954,pan ,প্যান,
+1955,panel ,প্যানেল,
+1956,panic ,আতঙ্ক,
+1957,pants ,প্যান্ট,
+1958,paper ,কাগজ,
+1959,parcel ,পার্সেল,
+1960,pardon  ,ক্ষমা,
+1961,parent ,পিতামাতা,
+1962,park ,পার্ক,
+1963,parking ,পার্কিং,
+1964,parliament ,সংসদ,
+1965,part ,অংশ,
+1966,participate ,অংশগ্রহণ,
+1967,particular ,বিশেষ,
+1968,particularly ,বিশেষত,
+1969,partly ,আংশিকভাবে,
+1970,partner ,অংশীদার,
+1971,partnership ,অংশীদারিত্ব,
+1972,party ,পার্টি,
+1973,pass ,পাস,
+1974,passage ,উত্তরণ,
+1975,passenger ,যাত্রী,
+1976,passion ,আবেগ,
+1977,past ,অতীত,
+1978,path ,পথ,
+1979,patience ,ধৈর্য,
+1980,patient ,রোগী,
+1981,pattern ,প্যাটার্ন,
+1982,pause ,বিরতি দিন,
+1983,pay ,প্রদান,
+1984,payment ,প্রদান,
+1985,peace ,শান্তি,
+1986,peaceful ,শান্তিপূর্ণ,
+1987,peak ,শিখর,
+1988,pen ,কলম,
+1989,penalty ,জরিমানা,
+1990,pencil ,পেন্সিল,
+1991,penny ,পয়সা,
+1992,pension ,পেনশন,
+1993,people ,মানুষ,
+1994,pepper ,মরিচ,
+1995,per ,প্রতি,
+1996,perceive ,উপলব্ধি,
+1997,percent ,শতাংশ,
+1998,percentage ,শতাংশ,
+1999,perception ,উপলব্ধি,
+2000,perfect ,নিখুঁত,
+2001,perfectly ,পুরোপুরি,
+2002,perform ,সম্পাদন,
+2003,performance ,কর্মক্ষমতা,
+2004,perhaps ,সম্ভবত,
+2005,period ,পিরিয়ড,
+2006,permanent ,স্থায়ী,
+2007,permission ,অনুমতি,
+2008,permit ,অনুমতি,
+2009,person ,ব্যক্তি,
+2010,personal ,ব্যক্তিগত,
+2011,personality ,ব্যক্তিত্ব,
+2012,personally ,ব্যক্তিগতভাবে,
+2013,personnel ,কর্মী,
+2014,perspective ,দৃষ্টিভঙ্গি,
+2015,persuade ,পটান,
+2016,petrol ,পেট্রল,
+2017,phase ,পর্যায়,
+2018,philosophy ,দর্শন,
+2019,phone ,ফোন,
+2020,photo ,ফটো,
+2021,photocopy ,ফটোকপি,
+2022,photograph ,আলোকচিত্র,
+2023,phrase ,বাক্যাংশ,
+2024,physical ,শারীরিক,
+2025,physically ,শারীরিকভাবে,
+2026,physics ,পদার্থবিজ্ঞান,
+2027,piano ,পিয়ানো,
+2028,pick ,বাছাই,
+2029,picture ,ছবি,
+2030,pie ,পাই,
+2031,piece ,টুকরা,
+2032,pig ,শূকর,
+2033,pile ,গাদা,
+2034,pill ,বড়ি,
+2035,pilot ,বিমান - চালক,
+2036,pin ,পিন,
+2037,pink ,গোলাপী,
+2038,pint ,পিন্ট,
+2039,pipe ,পাইপ,
+2040,pitch ,পিচ,
+2041,pity ,কৃপা,
+2042,pizza ,পিজ্জা,
+2043,place ,স্থান,
+2044,plain ,সরল,
+2045,plan ,পরিকল্পনা,
+2046,plane ,প্লেন,
+2047,planet ,গ্রহ,
+2048,plant ,উদ্ভিদ,
+2049,plastic ,প্লাস্টিক,
+2050,plate ,প্লেট,
+2051,platform ,প্ল্যাটফর্ম,
+2052,play ,খেলুন,
+2053,player ,প্লেয়ার,
+2054,pleasant ,সুখকর,
+2055,please ,অনুগ্রহ,
+2056,please  ,অনুগ্রহ,
+2057,pleased ,খুশি,
+2058,pleasure ,আনন্দ,
+2059,plenty ,প্রচুর,
+2060,plot ,পটভূমি,
+2061,plug ,প্লাগ,
+2062,plus ,প্লাস,
+2063,pocket ,পকেট,
+2064,poem ,কবিতা,
+2065,poet ,কবি,
+2066,poetry ,কবিতা,
+2067,point ,পয়েন্ট,
+2068,pole ,মেরু,
+2069,police ,পুলিশ,
+2070,policeman ,পুলিশ,
+2071,policy ,নীতি,
+2072,polite ,ভদ্র,
+2073,political ,রাজনৈতিক,
+2074,politician ,রাজনীতিবিদ,
+2075,politics ,রাজনীতি,
+2076,poll ,পোল,
+2077,pollution ,দূষণ,
+2078,pond ,পুকুর,
+2079,pool ,পুল,
+2080,poor ,দরিদ্র,
+2081,pop ,পপ,
+2082,popular ,জনপ্রিয়,
+2083,population ,জনসংখ্যা,
+2084,port ,বন্দর,
+2085,pose ,অঙ্গবিক্ষেপ,
+2086,position ,অবস্থান,
+2087,positive ,ধনাত্মক,
+2088,possess ,অধিকারী,
+2089,possession ,দখল,
+2090,possibility ,সম্ভাবনা,
+2091,possible ,সম্ভব,
+2092,possibly ,সম্ভবত,
+2093,post ,পোস্ট,
+2094,post office ,ডাক ঘর,
+2095,poster ,পোস্টার,
+2096,pot ,পাত্র,
+2097,potato ,আলু,
+2098,potential ,সম্ভাবনা,
+2099,pound ,পাউন্ড,
+2100,pour ,.ালা,
+2101,poverty ,দারিদ্র্য,
+2102,power ,শক্তি,
+2103,powerful ,ক্ষমতাশালী,
+2104,practical ,ব্যবহারিক,
+2105,practically ,ব্যবহারিকভাবে,
+2106,practice ,অনুশীলন করা,
+2107,practise ,অনুশীলন করা,
+2108,praise ,প্রশংসা,
+2109,pray ,প্রার্থনা,
+2110,prayer ,প্রার্থনা,
+2111,precise ,সুনির্দিষ্ট,
+2112,precisely ,অবিকল,
+2113,predict ,পূর্বাভাস,
+2114,prefer ,পছন্দ,
+2115,preference ,পছন্দ,
+2116,pregnant ,গর্ভবতী,
+2117,premise ,অনুমান,
+2118,preparation ,প্রস্তুতি,
+2119,prepare ,প্রস্তুত করা,
+2120,prepared ,প্রস্তুত,
+2121,presence ,উপস্থিতি,
+2122,present ,উপস্থিত,
+2123,presentation ,উপস্থাপনা,
+2124,preserve ,সংরক্ষণ,
+2125,president ,রাষ্ট্রপতি,
+2126,press ,টিপুন,
+2127,pressure ,চাপ,
+2128,presumably ,সম্ভবতঃ,
+2129,presume ,অনুমান,
+2130,pretend ,ভান করা,
+2131,pretty ,সুন্দর,
+2132,prevent ,প্রতিরোধ,
+2133,previous ,আগে,
+2134,previously ,পূর্বে,
+2135,price ,দাম,
+2136,pride ,গর্ব,
+2137,priest ,পুরোহিত,
+2138,primarily ,প্রাথমিকভাবে,
+2139,primary ,প্রাথমিক,
+2140,prince ,রাজপুত্র,
+2141,princess ,রাজকুমারী,
+2142,principal ,অধ্যক্ষ,
+2143,principle ,নীতি,
+2144,print ,ছাপা,
+2145,printer ,প্রিন্টার,
+2146,prior ,পূর্বে,
+2147,priority ,অগ্রাধিকার,
+2148,prison ,কারাগার,
+2149,prisoner ,বন্দী,
+2150,private ,ব্যক্তিগত,
+2151,privilege ,অধিকার,
+2152,prize ,পুরষ্কার,
+2153,probably ,সম্ভবত,
+2154,problem ,সমস্যা,
+2155,procedure ,পদ্ধতি,
+2156,proceed ,এগিয়ে যান,
+2157,proceeding ,এগিয়ে চলছে,
+2158,process ,প্রক্রিয়া,
+2159,produce ,উৎপাদন করা,
+2160,producer ,প্রযোজক,
+2161,product ,পণ্য,
+2162,production ,উত্পাদন,
+2163,profession ,পেশা,
+2164,professional ,পেশাদার,
+2165,professor ,অধ্যাপক,
+2166,profile ,প্রোফাইল,
+2167,profit ,লাভ,
+2168,program ,কার্যক্রম,
+2169,programme ,কার্যক্রম,
+2170,progress ,অগ্রগতি,
+2171,project ,প্রকল্প,
+2172,promise ,প্রতিশ্রুতি,
+2173,promote ,প্রচার করুন,
+2174,promotion ,পদোন্নতি,
+2175,prompt ,শীঘ্র,
+2176,proof ,প্রমাণ,
+2177,proper ,সঠিক,
+2178,properly ,সঠিকভাবে,
+2179,property ,সম্পত্তি,
+2180,proportion ,অনুপাত,
+2181,proposal ,প্রস্তাব,
+2182,propose ,প্রস্তাব,
+2183,proposed ,প্রস্তাবিত,
+2184,prosecution ,মামলা,
+2185,prospect ,সম্ভাবনা,
+2186,protect ,রক্ষা করুন,
+2187,protection ,সুরক্ষা,
+2188,protest ,প্রতিবাদ,
+2189,proud ,গর্বিত,
+2190,prove ,প্রমাণ,
+2191,provide ,সরবরাহ,
+2192,provided ,সরবরাহ করা,
+2193,providing ,সরবরাহ,
+2194,provision ,বিধান,
+2195,psychological ,মানসিক,
+2196,psychology ,মনস্তত্ত্ব,
+2197,pub ,মদের দোকান,
+2198,public ,পাবলিক,
+2199,publication ,প্রকাশনা,
+2200,publicity ,প্রচার,
+2201,publish ,প্রকাশ,
+2202,publisher ,প্রকাশক,
+2203,pudding ,পুডিং,
+2204,pull ,টান,
+2205,punch ,খোঁচা,
+2206,punishment ,শাস্তি,
+2207,pupil ,ছাত্র,
+2208,purchase ,ক্রয়,
+2209,pure ,খাঁটি,
+2210,purely ,খাঁটিভাবে,
+2211,purple ,বেগুনি,
+2212,purpose ,উদ্দেশ্য,
+2213,purse ,পার্স,
+2214,pursue ,অন্বেষণ করা,
+2215,push ,ঠেলা,
+2216,put ,করা,
+2217,qualification,যোগ্যতা,
+2218,qualify ,যোগ্যতা,
+2219,quality ,গুণ,
+2220,quantity ,পরিমাণ,
+2221,quarter ,চতুর্থাংশ,
+2222,queen ,রাণী,
+2223,question ,প্রশ্ন,
+2224,queue ,কিউ,
+2225,quick ,দ্রুত,
+2226,quickly ,দ্রুত,
+2227,quid ,কুইড,
+2228,quiet ,শান্ত,
+2229,quietly ,নিঃশব্দে,
+2230,quit ,ছেড়ে দিন,
+2231,quite ,বেশ,
+2232,quote ,উদ্ধৃতি,
+2233,race,জাতি,
+2234,racing ,রেসিং,
+2235,radical ,র‌্যাডিক্যাল,
+2236,radio ,রেডিও,
+2237,rail ,রেল,
+2238,railway ,রেলপথ,
+2239,rain ,বৃষ্টি,
+2240,raise ,উত্থাপন,
+2241,range ,পরিসর,
+2242,rank ,পদ,
+2243,rapid ,দ্রুত,
+2244,rapidly ,দ্রুত,
+2245,rare ,বিরল,
+2246,rarely ,খুব কমই,
+2247,rate ,হার,
+2248,rather ,বরং,
+2249,ratio ,অনুপাত,
+2250,raw ,কাঁচা,
+2251,reach ,পৌঁছানো,
+2252,react ,প্রতিক্রিয়া,
+2253,reaction ,প্রতিক্রিয়া,
+2254,read ,পড়া,
+2255,reader ,পাঠক,
+2256,readily ,সহজেই,
+2257,reading ,পড়া,
+2258,ready ,প্রস্তুত,
+2259,real ,বাস্তব,
+2260,realistic ,বাস্তববাদী,
+2261,reality ,বাস্তবতা,
+2262,realize ,উপলব্ধি,
+2263,really ,সত্যিই,
+2264,reason ,কারণ,
+2265,reasonable ,যুক্তিসঙ্গত,
+2266,reasonably ,যুক্তিসঙ্গতভাবে,
+2267,recall ,প্রত্যাহার,
+2268,receipt ,প্রাপ্তি,
+2269,receive ,গ্রহণ,
+2270,recent ,সাম্প্রতিক,
+2271,recently ,সম্প্রতি,
+2272,reception ,অভ্যর্থনা,
+2273,recipe ,রেসিপি,
+2274,reckon ,বোধ করা,
+2275,recognition ,স্বীকৃতি,
+2276,recognize ,চিনতে,
+2277,recommend ,সুপারিশ,
+2278,recommendation ,সুপারিশ,
+2279,record ,রেকর্ড,
+2280,recording ,রেকর্ডিং,
+2281,recover ,পুনরুদ্ধার,
+2282,recovery ,পুনরুদ্ধার,
+2283,red ,লাল,
+2284,reduce ,হ্রাস,
+2285,reduction ,হ্রাস,
+2286,refer ,উল্লেখ করুন,
+2287,reference ,রেফারেন্স,
+2288,reflect ,প্রতিফলিত করা,
+2289,reflection ,প্রতিবিম্ব,
+2290,reform ,সংশোধন,
+2291,refrigerator ,ফ্রিজ,
+2292,refuse ,প্রত্যাখ্যান,
+2293,regard ,বিবেচনা,
+2294,regime ,শাসনব্যবস্থা,
+2295,region ,অঞ্চল,
+2296,regional ,আঞ্চলিক,
+2297,register ,নিবন্ধন,
+2298,registration ,নিবন্ধকরণ,
+2299,regret ,আফসোস,
+2300,regular ,নিয়মিত,
+2301,regularly ,নিয়মিত,
+2302,regulation ,নিয়ন্ত্রণ,
+2303,reinforce ,শক্তিশালী করা,
+2304,reject ,প্রত্যাখ্যান,
+2305,relate ,বলা,
+2306,related ,সম্পর্কিত,
+2307,relation ,সম্পর্ক,
+2308,relationship ,সম্পর্ক,
+2309,relative ,আপেক্ষিক,
+2310,relatively ,তুলনামূলকভাবে,
+2311,relax ,আরাম,
+2312,release ,মুক্তি,
+2313,relevant ,প্রাসঙ্গিক,
+2314,relief ,স্বস্তি,
+2315,relieve ,মুক্তি,
+2316,religion ,ধর্ম,
+2317,religious ,ধর্মীয়,
+2318,rely ,নির্ভর করা,
+2319,remain ,থাকা,
+2320,remaining ,বাকি,
+2321,remains ,অবশেষ,
+2322,remark ,মন্তব্য,
+2323,remarkable ,অসাধারণ,
+2324,remember ,মনে আছে,
+2325,remind ,মনে করিয়ে দিন,
+2326,remote ,দূরবর্তী,
+2327,remove ,অপসারণ,
+2328,rent ,ভাড়া,
+2329,repair ,মেরামত,
+2330,repeat ,পুনরাবৃত্তি,
+2331,replace ,প্রতিস্থাপন,
+2332,replacement ,প্রতিস্থাপন,
+2333,reply ,উত্তর,
+2334,report ,রিপোর্ট,
+2335,reporter ,রিপোর্টার,
+2336,represent ,চিত্রিত করা,
+2337,representation ,উপস্থাপনা,
+2338,representative ,প্রতিনিধি,
+2339,republic ,প্রজাতন্ত্র,
+2340,reputation ,খ্যাতি,
+2341,request ,অনুরোধ,
+2342,require ,প্রয়োজন,
+2343,requirement ,প্রয়োজনীয়তা,
+2344,rescue ,উদ্ধার,
+2345,research ,গবেষণা,
+2346,reserve ,সংচিতি,
+2347,resident ,বাসিন্দা,
+2348,residential ,আবাসিক,
+2349,resign ,পদত্যাগ,
+2350,resignation ,পদত্যাগ,
+2351,resist ,প্রতিহত করা,
+2352,resistance ,প্রতিরোধের,
+2353,resolution ,রেজোলিউশন,
+2354,resolve ,সমাধান,
+2355,resort ,অবলম্বন,
+2356,resource ,সংস্থান,
+2357,respect ,সম্মান,
+2358,respectively ,যথাক্রমে,
+2359,respond ,সাড়া,
+2360,response ,প্রতিক্রিয়া,
+2361,responsibility ,দায়িত্ব,
+2362,responsible ,দায়বদ্ধ,
+2363,rest ,বিশ্রাম,
+2364,restaurant ,রেঁস্তোরা,
+2365,restore ,পুনরুদ্ধার,
+2366,restrict ,সীমাবদ্ধ,
+2367,restriction ,সীমাবদ্ধতা,
+2368,result ,ফলাফল,
+2369,retain ,ধরে রাখা,
+2370,retire ,অবসর,
+2371,retirement ,অবসর,
+2372,return ,প্রত্যাবর্তন,
+2373,reveal ,প্রকাশ করা,
+2374,revenue ,রাজস্ব,
+2375,reverse ,বিপরীত,
+2376,review ,পুনঃমূল্যায়ন,
+2377,revolution ,বিপ্লব,
+2378,reward ,পুরষ্কার,
+2379,rhythm ,ছন্দ,
+2380,rice ,ভাত,
+2381,rich ,ধনী,
+2382,rid ,মুক্তি,
+2383,ride ,চলা,
+2384,ridiculous ,হাস্যকর,
+2385,right ,ঠিক,
+2386,right  ,ঠিক,
+2387,ring ,রিং,
+2388,rip ,চিপ,
+2389,rise ,উত্থান,
+2390,risk ,ঝুঁকি,
+2391,rival ,প্রতিদ্বন্দ্বী,
+2392,river ,নদী,
+2393,road ,রাস্তা,
+2394,rob ,ছিনতাই,
+2395,rock ,শিলা,
+2396,role ,ভূমিকা,
+2397,roll ,রোল,
+2398,roof ,ছাদ,
+2399,room ,ঘর,
+2400,root ,রুট,
+2401,rope ,দড়ি,
+2402,rough ,মোটামুটি,
+2403,roughly ,মোটামুটিভাবে,
+2404,round ,গোল,
+2405,route ,রুট,
+2406,routine ,রুটিন,
+2407,row ,সারি,
+2408,royal ,রাজকীয়,
+2409,rub ,ঘষা,
+2410,rubber ,রাবার,
+2411,rubbish ,আবর্জনা,
+2412,rude ,অভদ্র,
+2413,ruin ,ধ্বংস,
+2414,rule ,নিয়ম,
+2415,run ,চালান,
+2416,rural ,গ্রামীণ,
+2417,rush ,ভিড়,
+2418,sack ,বস্তা,
+2419,sad ,দু: খিত,
+2420,safe ,নিরাপদ,
+2421,safety ,নিরাপত্তা,
+2422,sail ,পাল,
+2423,sake ,জন্য,
+2424,salad ,সালাদ,
+2425,salary ,বেতন,
+2426,sale ,বিক্রয়,
+2427,salt ,লবণ,
+2428,same ,একই,
+2429,sample ,নমুনা,
+2430,sand ,বালু,
+2431,sandwich ,স্যান্ডউইচ,
+2432,satellite ,উপগ্রহ,
+2433,satisfaction ,সন্তোষ,
+2434,satisfied ,সন্তুষ্ট,
+2435,satisfy ,পরিতৃপ্ত করা,
+2436,sauce ,সস,
+2437,sausage ,সসেজ,
+2438,save ,সংরক্ষণ,
+2439,saving ,সংরক্ষণ,
+2440,say ,বলুন,
+2441,scale ,স্কেল,
+2442,scared ,ভীত,
+2443,scene ,দৃশ্য,
+2444,schedule ,সময়সূচী,
+2445,scheme ,পরিকল্পনা,
+2446,school ,বিদ্যালয়,
+2447,science ,বিজ্ঞান,
+2448,scientific ,বৈজ্ঞানিক,
+2449,scientist ,বিজ্ঞানী,
+2450,scope ,সুযোগ,
+2451,score ,স্কোর,
+2452,scratch ,স্ক্র্যাচ,
+2453,scream ,চিৎকার,
+2454,screen ,পর্দা,
+2455,screw ,স্ক্রু,
+2456,script ,লিপি,
+2457,sea ,সমুদ্র,
+2458,seal ,সীল,
+2459,search ,অনুসন্ধান,
+2460,season ,মৌসম,
+2461,seat ,আসন,
+2462,second ,দ্বিতীয়,
+2463,secondary ,মাধ্যমিক,
+2464,secondly ,দ্বিতীয়ত,
+2465,secret ,গোপন,
+2466,secretary ,সেক্রেটারি,
+2467,section ,অধ্যায়,
+2468,sector ,সেক্টর,
+2469,secure ,নিরাপদ,
+2470,security ,সুরক্ষা,
+2471,see ,দেখা,
+2472,seed ,বীজ,
+2473,seek ,সন্ধান করা,
+2474,seem ,মনে হয়,
+2475,seize ,জব্দ করা,
+2476,select ,নির্বাচন করুন,
+2477,selection ,নির্বাচন,
+2478,self ,স্ব,
+2479,sell ,বিক্রয়,
+2480,send ,প্রেরণ,
+2481,senior ,ঊর্ধ্বতন,
+2482,sense ,ইন্দ্রিয়,
+2483,sensible ,বুদ্ধিমান,
+2484,sensitive ,সংবেদনশীল,
+2485,sentence ,বাক্য,
+2486,separate ,পৃথক,
+2487,sequence ,ক্রম,
+2488,series ,সিরিজ,
+2489,serious ,গুরুতর,
+2490,seriously ,গুরুত্ব সহকারে,
+2491,servant ,চাকর,
+2492,serve ,পরিবেশন,
+2493,service ,পরিষেবা,
+2494,session ,সেশন,
+2495,set ,সেট,
+2496,setting ,স্থাপন,
+2497,settle ,নিষ্পত্তি,
+2498,settlement ,নিষ্পত্তি,
+2499,several ,বেশ কয়েকটি,
+2500,severe ,গুরুতর,
+2501,sew ,সেলাই,
+2502,sex ,লিঙ্গ,
+2503,sexual ,যৌন,
+2504,shadow ,ছায়া,
+2505,shake ,ঝাঁকি,
+2506,shall ,হবে,
+2507,shame ,লজ্জা,
+2508,shape ,আকৃতি,
+2509,share ,ভাগ,
+2510,sharp ,তীক্ষ্ণ,
+2511,sharply ,তীব্রভাবে,
+2512,shave ,কামান,
+2513,she ,সে,
+2514,shed ,শেড,
+2515,sheep ,ভেড়া,
+2516,sheet ,চাদর,
+2517,shelf ,বালুচর,
+2518,shell ,খোল,
+2519,shelter ,আশ্রয়,
+2520,shift ,শিফট,
+2521,shine ,চকচকে,
+2522,ship ,জাহাজ,
+2523,shirt ,শার্ট,
+2524,shock ,ধাক্কা,
+2525,shocked ,বিস্মিত,
+2526,shocking ,জঘন্য,
+2527,shoe ,জুতো,
+2528,shoot ,গুলি,
+2529,shop ,দোকান,
+2530,shopping ,কেনাকাটা,
+2531,short ,সংক্ষিপ্ত,
+2532,shortly ,শীঘ্রই,
+2533,shot ,গুলি,
+2534,should ,উচিত,
+2535,shoulder ,কাঁধ,
+2536,shout ,চিৎকার,
+2537,shove ,ঝাঁকুনি,
+2538,show ,দেখান,
+2539,shower ,ঝরনা,
+2540,shrug ,শ্রাগ,
+2541,shut ,বন্ধ,
+2542,sick ,অসুস্থ,
+2543,side ,পাশ,
+2544,sight ,দৃষ্টিশক্তি,
+2545,sign ,চিহ্ন,
+2546,signal ,সংকেত,
+2547,signature ,স্বাক্ষর,
+2548,significance,তাৎপর্য,
+2549,significant ,তাৎপর্যপূর্ণ,
+2550,significantly ,উল্লেখযোগ্যভাবে,
+2551,silence ,নীরবতা,
+2552,silent ,নীরব,
+2553,silly ,নির্বোধ,
+2554,silver ,রূপা,
+2555,similar ,অনুরূপ,
+2556,similarly ,একইভাবে,
+2557,simple ,সরল,
+2558,simply ,কেবল,
+2559,sin ,পাপ,
+2560,since ,থেকে,
+2561,sing ,গাই,
+2562,singer ,গায়ক,
+2563,single ,একক,
+2564,sink ,ডোবা,
+2565,sir ,স্যার,
+2566,sister ,বোন,
+2567,sit ,বসা,
+2568,site ,সাইট,
+2569,situation ,অবস্থা,
+2570,size ,আকার,
+2571,skill ,দক্ষতা,
+2572,skin ,ত্বক,
+2573,skirt ,স্কার্ট,
+2574,sky ,আকাশ,
+2575,sleep ,ঘুম,
+2576,slice ,টুকরো টুকরো,
+2577,slide ,স্লাইড,
+2578,slight ,সামান্য,
+2579,slightly ,সামান্য,
+2580,slim ,পাতলা,
+2581,slip ,স্লিপ,
+2582,slope ,opeাল,
+2583,slow ,ধীর,
+2584,slowly ,আস্তে আস্তে,
+2585,small ,ছোট,
+2586,smart ,স্মার্ট,
+2587,smell ,গন্ধ,
+2588,smile ,হাসি,
+2589,smoke ,ধোঁয়া,
+2590,smoking ,ধূমপান,
+2591,smooth ,মসৃণ,
+2592,snap ,স্ন্যাপ,
+2593,snow ,তুষার,
+2594,so ,তাই,
+2595,soap ,সাবান,
+2596,so-called ,তথাকথিত,
+2597,social ,সামাজিক,
+2598,society ,সমাজ,
+2599,sock ,মোজা,
+2600,soft ,নরম,
+2601,software ,সফটওয়্যার,
+2602,soil ,মাটি,
+2603,soldier ,সৈনিক,
+2604,sole ,একমাত্র,
+2605,solicitor ,আইনজীবি,
+2606,solid ,শক্ত,
+2607,solution ,সমাধান,
+2608,solve ,সমাধান,
+2609,some ,কিছু,
+2610,somebody ,কেউ,
+2611,somehow ,একরকম,
+2612,someone ,কেউ,
+2613,something ,কিছু,
+2614,sometimes ,কখনও কখনও,
+2615,somewhat ,কিছুটা,
+2616,somewhere ,কোথাও,
+2617,son ,পুত্র,
+2618,song ,গান,
+2619,soon ,শীঘ্রই,
+2620,sore ,ঘা,
+2621,sorry ,দুঃখিত,
+2622,sort ,সাজান,
+2623,soul ,আত্মা,
+2624,sound ,শব্দ,
+2625,soup ,স্যুপ,
+2626,source ,উৎস,
+2627,south ,দক্ষিণ,
+2628,southern ,দক্ষিণ,
+2629,space ,স্থান,
+2630,spare ,অতিরিক্ত,
+2631,speak ,কথা বলতে,
+2632,speaker ,স্পিকার,
+2633,special ,বিশেষ,
+2634,specialist ,বিশেষজ্ঞ,
+2635,species ,প্রজাতি,
+2636,specific ,নির্দিষ্ট,
+2637,specifically ,বিশেষভাবে,
+2638,specify ,নির্দিষ্ট করা,
+2639,speech ,বক্তৃতা,
+2640,speed ,দ্রুততা,
+2641,spell ,বানান,
+2642,spelling ,বানান,
+2643,spend ,ব্যয় করা,
+2644,spill ,ঝরা,
+2645,spin ,স্পিন,
+2646,spirit ,আত্মা,
+2647,spiritual ,আধ্যাত্মিক,
+2648,spite ,তবুও,
+2649,split ,বিভক্ত,
+2650,spoil ,লুণ্ঠন,
+2651,spokesman ,মুখপাত্র,
+2652,spoon ,চামচ,
+2653,sport ,খেলা,
+2654,spot ,স্পট,
+2655,spray ,স্প্রে,
+2656,spread ,ছড়িয়ে পড়া,
+2657,spring ,বসন্ত,
+2658,squad ,স্কোয়াড,
+2659,square ,বর্গক্ষেত্র,
+2660,squeeze ,চাপ,
+2661,stable ,স্থিতিশীল,
+2662,staff ,কর্মী,
+2663,stage ,মঞ্চ,
+2664,stair ,সিঁড়ি,
+2665,stake ,ঝুঁকি,
+2666,stall ,স্টল,
+2667,stamp ,ছাপ,
+2668,stand ,দাঁড়ানো,
+2669,standard ,মান,
+2670,star ,তারা,
+2671,stare ,তাকান,
+2672,start ,শুরু,
+2673,starve ,অনাহার,
+2674,state ,অবস্থা,
+2675,statement ,বিবৃতি,
+2676,station ,স্টেশন,
+2677,statistic ,পরিসংখ্যান,
+2678,status ,অবস্থা,
+2679,stay ,থাকা,
+2680,steady ,স্থির,
+2681,steak ,মাংসের ফালি,
+2682,steal ,চুরি করা,
+2683,steam ,বাষ্প,
+2684,steel ,ইস্পাত,
+2685,steep ,খাড়া,
+2686,step ,পদক্ষেপ,
+2687,stick ,লাঠি,
+2688,stiff ,কড়া,
+2689,still ,এখনও,
+2690,stir ,আলোড়ন,
+2691,stock ,স্টক,
+2692,stomach ,পেট,
+2693,stone ,পাথর,
+2694,stop ,থামো,
+2695,storage ,স্টোরেজ,
+2696,store ,দোকান,
+2697,storm ,ঝড়,
+2698,story ,গল্প,
+2699,straight ,সোজা,
+2700,straightforward ,সোজা,
+2701,strain ,স্ট্রেন,
+2702,strange ,অদ্ভুত,
+2703,stranger ,অপরিচিত,
+2704,strategic ,কৌশলগত,
+2705,strategy ,কৌশল,
+2706,straw ,খড়,
+2707,strawberry ,স্ট্রবেরি,
+2708,stream ,প্রবাহ,
+2709,street ,রাস্তা,
+2710,strength ,শক্তি,
+2711,strengthen ,শক্তিশালী করা,
+2712,stress ,চাপ,
+2713,stretch ,প্রসারিত,
+2714,strict ,কড়া,
+2715,strike ,ধর্মঘট,
+2716,string ,স্ট্রিং,
+2717,strip ,ফালা,
+2718,stroke ,স্ট্রোক,
+2719,strong ,শক্তিশালী,
+2720,strongly ,দৃ .়ভাবে,
+2721,structure ,কাঠামো,
+2722,struggle ,সংগ্রাম,
+2723,student ,ছাত্র,
+2724,studio ,স্টুডিও,
+2725,study ,অধ্যয়ন,
+2726,stuff ,জিনিসপত্র,
+2727,stupid ,বোকা,
+2728,style ,স্টাইল,
+2729,subject ,বিষয়,
+2730,submit ,জমা দিন,
+2731,subsequent ,পরবর্তী,
+2732,subsequently ,পরবর্তীকালে,
+2733,substance ,পদার্থ,
+2734,substantial ,যথেষ্ট,
+2735,succeed ,সফল,
+2736,success ,সাফল্য,
+2737,successful ,সফল,
+2738,successfully ,সাফল্যের সাথে,
+2739,such ,যেমন,
+2740,suck ,স্তন্যপান,
+2741,sudden ,হঠাৎ,
+2742,suddenly ,হঠাৎ,
+2743,suffer ,ভোগা,
+2744,sufficient ,পর্যাপ্ত,
+2745,sugar ,চিনি,
+2746,suggest ,পরামর্শ,
+2747,suggestion ,পরামর্শ,
+2748,suit ,মামলা,
+2749,suitable ,উপযুক্ত,
+2750,sum ,যোগফল,
+2751,summer ,গ্রীষ্ম,
+2752,sun ,সূর্য,
+2753,super ,সুপার,
+2754,supermarket ,সুপারমার্কেট,
+2755,supper ,নৈশভোজ,
+2756,supply ,সরবরাহ,
+2757,support ,সমর্থন,
+2758,supporter ,সমর্থক,
+2759,suppose ,ধরুন,
+2760,sure ,নিশ্চিত,
+2761,surely ,অবশ্যই,
+2762,surface ,পৃষ্ঠতল,
+2763,surgery ,সার্জারি,
+2764,surprise ,বিস্ময়,
+2765,surprised ,অবাক,
+2766,surprising ,বিস্ময়কর,
+2767,surprisingly ,আশ্চর্যজনকভাবে,
+2768,surround ,চারপাশে,
+2769,survey ,জরিপ,
+2770,survival ,বেঁচে থাকা,
+2771,survive ,বেঁচে থাকা,
+2772,suspect ,সন্দেহ,
+2773,suspicion ,সন্দেহ,
+2774,suspicious ,সন্দেহজনক,
+2775,sustain ,টিকিয়ে রাখা,
+2776,swap ,অদলবদল,
+2777,swear ,কসম,
+2778,sweep ,পরিষ্কার করা,
+2779,sweet ,মিষ্টি,
+2780,swim ,সাঁতার,
+2781,swimming ,সাঁতার,
+2782,swing ,দোল,
+2783,switch ,সুইচ,
+2784,symbol ,প্রতীক,
+2785,sympathy ,সহানুভূতি,
+2786,system ,পদ্ধতি,
+2787,table ,টেবিল,
+2788,tablet ,ট্যাবলেট,
+2789,tackle ,সাজসরঁজাম,
+2790,tail ,লেজ,
+2791,take ,গ্রহণ করা,
+2792,tale ,গল্প,
+2793,talent ,প্রতিভা,
+2794,talk ,আলাপ,
+2795,tall ,লম্বা,
+2796,tank ,ট্যাঙ্ক,
+2797,tap ,ট্যাপ করুন,
+2798,tape ,টেপ,
+2799,target ,লক্ষ্য,
+2800,task ,টাস্ক,
+2801,taste ,স্বাদ,
+2802,tax ,কর,
+2803,taxi ,ট্যাক্সি,
+2804,tea ,চা,
+2805,teach ,পড়ান,
+2806,teacher ,শিক্ষক,
+2807,teaching ,শিক্ষকতা,
+2808,team ,টীম,
+2809,tear ,টিয়ার,
+2810,technical ,প্রযুক্তিগত,
+2811,technique ,প্রযুক্তি,
+2812,technology ,প্রযুক্তি,
+2813,telephone ,টেলিফোন,
+2814,television ,টেলিভিশন,
+2815,tell ,বলুন,
+2816,telly ,টেলি,
+2817,temperature ,তাপমাত্রা,
+2818,temporary ,অস্থায়ী,
+2819,tend ,প্রবণতা,
+2820,tendency ,প্রবণতা,
+2821,tennis ,টেনিস,
+2822,tension ,চিন্তা,
+2823,tent ,তাঁবু,
+2824,term ,শব্দ,
+2825,terrible ,ভয়ানক,
+2826,terribly ,ভয়ানকভাবে,
+2827,territory ,এলাকা,
+2828,terror ,সন্ত্রাস,
+2829,terrorist ,সন্ত্রাসী,
+2830,test ,পরীক্ষা,
+2831,text ,পাঠ্য,
+2832,than ,চেয়ে,
+2833,thank ,ধন্যবাদ,
+2834,thanks ,ধন্যবাদ,
+2835,thanks  ,ধন্যবাদ,
+2836,that ,যে,
+2837,the ,দ্য,
+2838,theatre ,থিয়েটার,
+2839,their ,তাদের,
+2840,theirs ,তাদের,
+2841,them ,তাদের,
+2842,theme ,থিম,
+2843,themselves ,নিজেদের,
+2844,then ,তারপর,
+2845,theoretical ,তাত্ত্বিক,
+2846,theory ,তত্ত্ব,
+2847,there ,সেখানে,
+2848,therefore ,অতএব,
+2849,they ,তারা,
+2850,thick ,পুরু,
+2851,thin ,পাতলা,
+2852,thing ,জিনিস,
+2853,think ,ভাবুন,
+2854,this ,এই,
+2855,though ,যদিও,
+2856,thought ,চিন্তা,
+2857,threat ,হুমকি,
+2858,threaten ,হুমকি,
+2859,three ,তিন,
+2860,throat ,গলা,
+2861,through ,মাধ্যম,
+2862,throughout ,জুড়ে,
+2863,throw ,নিক্ষেপ,
+2864,thus ,এইভাবে,
+2865,ticket ,টিকিট,
+2866,tidy ,পরিপাটি,
+2867,tie ,টাই,
+2868,tight ,টাইট,
+2869,tile ,টাইল,
+2870,till ,অবধি,
+2871,time ,সময়,
+2872,tin ,টিন,
+2873,tiny ,ক্ষুদ্র,
+2874,tip ,টিপ,
+2875,tired ,ক্লান্ত,
+2876,title ,শিরোনাম,
+2877,to ,প্রতি,
+2878,toast ,টোস্ট,
+2879,today ,আজ,
+2880,toe ,পায়ের আঙ্গুল,
+2881,together ,একসাথে,
+2882,toilet ,টয়লেট,
+2883,tomato ,টমেটো,
+2884,tomorrow ,আগামীকাল,
+2885,ton ,টন,
+2886,tone ,স্বন,
+2887,tongue ,জিহ্বা,
+2888,tonight ,আজ রাতে,
+2889,too ,খুব,
+2890,tool ,টুল,
+2891,tooth ,দাঁত,
+2892,top ,শীর্ষ,
+2893,topic ,বিষয়,
+2894,total ,মোট,
+2895,totally ,সম্পূর্ণ,
+2896,touch ,স্পর্শ,
+2897,tough ,শক্ত,
+2898,tour ,ভ্রমণ,
+2899,tourist ,পর্যটক,
+2900,towards ,দিকে,
+2901,towel ,তোয়ালে,
+2902,tower ,টাওয়ার,
+2903,town ,শহর,
+2904,toy ,খেলনা,
+2905,track ,ট্র্যাক,
+2906,trade ,বাণিজ্য,
+2907,tradition ,traditionতিহ্য,
+2908,traditional ,প্রচলিত,
+2909,traffic ,ট্র্যাফিক,
+2910,trailer ,লতা,
+2911,train ,ট্রেন,
+2912,trainer ,প্রশিক্ষক,
+2913,training ,প্রশিক্ষণ,
+2914,transaction ,লেনদেন,
+2915,transfer ,স্থানান্তর,
+2916,transform ,রূপান্তর,
+2917,transition ,রূপান্তর,
+2918,translate ,অনুবাদ করা,
+2919,transport ,পরিবহন,
+2920,transportation ,পরিবহন,
+2921,trash ,আবর্জনা,
+2922,travel ,ভ্রমণ,
+2923,tray ,ট্রে,
+2924,treat ,চিকিত্সা,
+2925,treatment ,চিকিত্সা,
+2926,treaty ,সন্ধি,
+2927,tree ,গাছ,
+2928,tremendous ,অসাধারণ,
+2929,trend ,প্রবণতা,
+2930,trial ,বিচার,
+2931,trick ,কৌতুক,
+2932,tricky ,কৌশলী,
+2933,trip ,ট্রিপ,
+2934,troop ,সৈন্যবাহিনী,
+2935,trouble ,ঝামেলা,
+2936,trousers ,ট্রাউজার্স,
+2937,truck ,ট্রাক,
+2938,true ,সত্য,
+2939,truly ,সত্যই,
+2940,trust ,বিশ্বাস,
+2941,truth ,সত্য,
+2942,try ,চেষ্টা করুন,
+2943,tube ,নল,
+2944,tune ,সুর,
+2945,tunnel ,টানেল,
+2946,turn ,মোড়,
+2947,twice  ,দুবার,
+2948,twist ,পাকান,
+2949,type ,প্রকার,
+2950,typical ,সাধারণ,
+2951,tyre ,পাগড়ি,
+2952,ugly ,কুৎসিত,
+2953,ultimate ,চূড়ান্ত,
+2954,ultimately ,শেষ পর্যন্ত,
+2955,unable ,অক্ষম,
+2956,unbelievable ,অবিশ্বাস্য,
+2957,uncle ,চাচা,
+2958,under ,অধীনে,
+2959,underneath ,নিম্নদেশে,
+2960,understand ,বোঝা,
+2961,understanding ,বোধগম্যতা,
+2962,undertake ,হাতে নেওয়া,
+2963,unemployed ,বেকার,
+2964,unemployment ,বেকারত্ব,
+2965,unfair ,অন্যায়,
+2966,unfortunate ,দুর্ভাগ্যজনক,
+2967,unfortunately ,দুর্ভাগ্যক্রমে,
+2968,unhappy ,অসন্তুষ্ট,
+2969,uniform ,ইউনিফর্ম,
+2970,union ,মিলন,
+2971,unique ,অনন্য,
+2972,unit ,ইউনিট,
+2973,united ,unitedক্যবদ্ধ,
+2974,unity ,unityক্য,
+2975,universal ,সর্বজনীন,
+2976,universe ,বিশ্ব,
+2977,university ,বিশ্ববিদ্যালয়,
+2978,unknown ,অজানা,
+2979,unless ,না হলে,
+2980,unlike ,অসদৃশ,
+2981,unlikely ,অসম্ভব,
+2982,until ,অবধি,
+2983,unusual ,অস্বাভাবিক,
+2984,up ,আপ,
+2985,upon ,উপর,
+2986,upper ,উপরের,
+2987,upset ,মর্মাহত,
+2988,upstairs ,উপরে,
+2989,urban ,শহুরে,
+2990,urge ,তাড়ন,
+2991,urgent ,জরুরি,
+2992,us ,আমাদের,
+2993,use ,ব্যবহার,
+2994,used ,ব্যবহৃত,
+2995,used to,অভ্যস্ত,
+2996,useful ,দরকারী,
+2997,user ,ব্যবহারকারী,
+2998,usual ,চলিত,
+2999,usually ,সাধারণত,
+3000,vacation,অবকাশ,
+3001,vague ,অস্পষ্ট,
+3002,valley ,উপত্যকা,
+3003,valuable ,মূল্যবান,
+3004,value ,মান,
+3005,van ,ভ্যান,
+3006,variation ,প্রকরণ,
+3007,variety ,বিভিন্ন,
+3008,various ,বিভিন্ন,
+3009,vary ,পরিবর্তিত হয়,
+3010,vast ,বিশাল,
+3011,vegetable ,শাকসবজি,
+3012,vehicle ,যানবাহন,
+3013,version ,সংস্করণ,
+3014,very ,খুব,
+3015,vet ,পশুচিকিত্সা,
+3016,via ,মাধ্যমে,
+3017,victim ,শিকার,
+3018,victory ,বিজয়,
+3019,video ,ভিডিও,
+3020,view ,দর্শন,
+3021,village ,গ্রাম,
+3022,violence ,সহিংসতা,
+3023,violent ,হিংস্র,
+3024,virtually ,কার্যত,
+3025,virtue ,পুণ্য,
+3026,virus ,ভাইরাস,
+3027,visible ,দৃশ্যমান,
+3028,vision ,দৃষ্টি,
+3029,visit ,দর্শন,
+3030,visitor ,দর্শনার্থী,
+3031,visual ,ভিজ্যুয়াল,
+3032,vital ,প্রাণবন্ত,
+3033,voice ,কণ্ঠস্বর,
+3034,volume ,ভলিউম,
+3035,voluntary ,স্বেচ্ছাসেবী,
+3036,vote ,ভোট,
+3037,vulnerable ,দুর্বল,
+3038,wage ,বেতন,
+3039,wait ,অপেক্ষা করুন,
+3040,wake ,জাগা,
+3041,walk ,হাঁটা,
+3042,wall ,প্রাচীর,
+3043,wander ,বিচরণ,
+3044,want ,চাই,
+3045,war ,যুদ্ধ,
+3046,ward ,ওয়ার্ড,
+3047,wardrobe ,পোশাক,
+3048,warm ,উষ্ণ,
+3049,warn ,সতর্ক করা,
+3050,warning ,সতর্কতা,
+3051,wash ,ধুয়ে ফেলুন,
+3052,washing ,ধোলাই,
+3053,waste ,নষ্ট,
+3054,watch ,ঘড়ি,
+3055,water ,জল,
+3056,wave ,waveেউ,
+3057,way ,উপায়,
+3058,we ,আমরা,
+3059,weak ,দুর্বল,
+3060,weakness ,দুর্বলতা,
+3061,wealth ,ধন,
+3062,weapon ,অস্ত্র,
+3063,wear ,পরা,
+3064,weather ,আবহাওয়া,
+3065,web ,ওয়েব,
+3066,website ,ওয়েবসাইট,
+3067,wedding ,বিবাহ,
+3068,week ,সপ্তাহ,
+3069,weekend ,উইকএন্ড,
+3070,weekly ,সাপ্তাহিক,
+3071,weigh ,ওজন করা,
+3072,weight ,ওজন,
+3073,weird ,অদ্ভুত,
+3074,welcome ,স্বাগত,
+3075,welfare ,কল্যাণ,
+3076,well ,আমরা হব,
+3077,well  ,আমরা হব,
+3078,west ,পশ্চিম,
+3079,western ,পশ্চিমা,
+3080,wet ,ভেজা,
+3081,what ,কি,
+3082,whatever ,যাই হোক,
+3083,whatsoever ,যাই হোক না কেন,
+3084,wheel ,চাকা,
+3085,when ,কখন,
+3086,whenever ,যখনই,
+3087,where ,কোথায়,
+3088,whereas ,যদিও,
+3089,wherever ,যেখানেই,
+3090,whether ,কিনা,
+3091,which ,যা,
+3092,while ,যখন,
+3093,whisky ,হুইস্কি,
+3094,whisper ,ফিসফিস,
+3095,white ,সাদা,
+3096,who ,WHO,
+3097,whoever ,যে কেউ,
+3098,whole ,পুরো,
+3099,whom ,কাকে,
+3100,whose ,কার,
+3101,why ,কেন,
+3102,wicked ,দুষ্ট,
+3103,wide ,প্রশস্ত,
+3104,widely ,ব্যাপকভাবে,
+3105,widespread ,বিস্তৃত,
+3106,wife ,স্ত্রী,
+3107,wild ,বন্য,
+3108,will ,ইচ্ছাশক্তি,
+3109,will ,ইচ্ছাশক্তি,
+3110,willing ,রাজী,
+3111,win ,জিত,
+3112,wind ,বায়ু,
+3113,window ,জানলা,
+3114,windy ,বাতাসযুক্ত,
+3115,wine ,মদ,
+3116,wing ,ডানা,
+3117,winner ,বিজয়ী,
+3118,winter ,শীত,
+3119,wipe ,মুছা,
+3120,wire ,তার,
+3121,wise ,বুদ্ধিমান,
+3122,wish ,ইচ্ছা,
+3123,with ,সঙ্গে,
+3124,withdraw ,প্রত্যাহার,
+3125,within ,মধ্যে,
+3126,without ,ছাড়া,
+3127,witness ,সাক্ষী,
+3128,woman ,মহিলা,
+3129,wonder ,অবাক,
+3130,wonderful ,দুর্দান্ত,
+3131,wood ,কাঠ,
+3132,wooden ,কাঠের,
+3133,wool ,উল,
+3134,word ,শব্দ,
+3135,work ,কাজ,
+3136,worker ,কর্মী,
+3137,working ,কাজ,
+3138,workshop ,কর্মশালা,
+3139,world ,বিশ্ব,
+3140,worried ,উদ্বিগ্ন,
+3141,worry ,উদ্বেগ,
+3142,worrying ,উদ্বেগজনক,
+3143,worse ,আরও খারাপ,
+3144,worth ,মূল্য,
+3145,would ,হবে,
+3146,wound ,ক্ষত,
+3147,wrap ,মোড়ানো,
+3148,write ,লিখুন,
+3149,writer ,লেখক,
+3150,writing ,লেখা,
+3151,wrong ,ভুল,
+3152,yard ,উঠোন,
+3153,yeah ,হ্যাঁ,
+3154,year ,বছর,
+3155,yellow ,হলুদ,
+3156,yep  ,হ্যাঁ,
+3157,yes ,হ্যাঁ,
+3158,yesterday ,গতকাল,
+3159,yet ,এখনো,
+3160,you ,আপনি,
+3161,young ,যুবক,
+3162,youngster ,যুবক,
+3163,your ,তোমার,
+3164,yours ,তোমার,
+3165,yourself ,নিজেকে,
+3166,youth ,যৌবন,
+3167,zone,মণ্ডল,
