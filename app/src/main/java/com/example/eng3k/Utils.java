@@ -1,36 +1,50 @@
 package com.example.eng3k;
 
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.util.Log;
+
+import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 
 import java.io.BufferedReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.lang.reflect.Type;
 import java.util.ArrayList;
 
 
 public class Utils {
+
+    private static final String All_WORDS_KEY ="all_words";
+    private static final String REMEMBERED_WORDS ="remembered_words";
+
     private static Utils instance;
-    private static ArrayList<Words> allWords;
-    private static ArrayList<Words> rememberedWords;
-    private Context context;
+    private SharedPreferences sharedPreferences;
+   /* private static ArrayList<Words> allWords;
+    private static ArrayList<Words> rememberedWords;*/
+
     String[] value;
+
+
 
 
 
     //protected final String apiurl ="http://50e09669da8f.ngrok.io/DB.php";
 
 
-    public Utils() {
+    public Utils(Context context) {
+        sharedPreferences = context.getSharedPreferences("alternate db", Context.MODE_PRIVATE);
 
-        if(null==allWords){
-
-            allWords=new ArrayList<>();
+        if(null==getAllWords()){
 
             initData();
         }
-        if (null== rememberedWords){
-            rememberedWords=new ArrayList<>();
+        if (null== getRememberedWords()){
+            SharedPreferences.Editor editor= sharedPreferences.edit();
+            Gson gson=new Gson();
+            editor.putString(REMEMBERED_WORDS,gson.toJson(new ArrayList<Words>()));
+            editor.commit();
         }
     }
 
@@ -38,7 +52,7 @@ public class Utils {
         //Todo: add initial data
 
 
-
+        ArrayList<Words> words1=new ArrayList<>();
         int id=1;
 
         InputStream inputStream;
@@ -53,8 +67,13 @@ public class Utils {
                     value=read.split(",");
                     try{
 
-                            allWords.add(new Words(id, value[1], value[2], value[3]));
-                        id++;
+                            words1.add(new Words(id, value[1], value[2], value[3]));
+
+                            SharedPreferences.Editor editor = sharedPreferences.edit();
+                            Gson gson = new Gson();
+                            editor.putString(All_WORDS_KEY,gson.toJson(words1));
+                            editor.commit();
+                            id++;
 
 
                     }catch(Exception e){
@@ -161,22 +180,76 @@ public class Utils {
 
     }
 
-    public static Utils getInstance() {
+    public static Utils getInstance(Context context) {
         if(null!=instance){
             return instance;
         }else {
-            instance=new Utils();
+            instance=new Utils(context);
             return instance;
         }
 
     }
 
-    public static ArrayList<Words> getAllWords() {
+    public ArrayList<Words> getAllWords() {
+            Gson gson = new Gson();
+            Type type=new TypeToken<ArrayList<Words>>(){}.getType();
+            ArrayList<Words> words1 = gson.fromJson(sharedPreferences.getString(All_WORDS_KEY,null),type);
+            return words1;
 
-        return allWords;
+    }
+    public ArrayList<Words> getRememberedWords(){
+            Gson gson = new Gson();
+            Type type=new TypeToken<ArrayList<Words>>(){}.getType();
+            ArrayList<Words> words1 = gson.fromJson(sharedPreferences.getString(REMEMBERED_WORDS,null),type);
+            return words1;
+
+    }
+    public Words getWordid(int id){
+        ArrayList<Words> words1=getAllWords();
+        if(null!=words1){
+            for(Words w: words1){
+                if(w.getId()==id){
+                    return w;
+                }
+            }
+        }
+        return null;
     }
 
-    public boolean removeWord(Words words) {
-        return allWords.remove(words);
+    public boolean addtorememberwords(Words word){
+        ArrayList<Words> words1=getRememberedWords();
+        if(null!=words1){
+            if(words1.add(word)){
+                Gson gson = new Gson();
+                SharedPreferences.Editor editor= sharedPreferences.edit();
+                editor.remove(REMEMBERED_WORDS);
+                editor.putString(REMEMBERED_WORDS, gson.toJson(words1));
+                editor.commit();
+                return true;
+            }
+        }
+        return false;
+
+    }
+
+    public boolean removeWord(Words word) {
+        ArrayList<Words> words1= getAllWords();
+        if(null!=words1){
+            for(Words w: words1){
+                if(w.getId()==word.getId()){
+                    if(words1.remove(w)){
+                        Gson gson= new Gson();
+                        SharedPreferences.Editor editor=sharedPreferences.edit();
+                        editor.remove(All_WORDS_KEY);
+                        editor.putString(All_WORDS_KEY,gson.toJson(words1));
+                        editor.commit();
+                        return true;
+
+                    }
+                }
+
+            }
+        }
+        return false;
     }
 }

@@ -8,8 +8,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-    private CardView learn, test ,about;
-    //private Button rmbrdlstbutt;
+    private CardView learn, test ,about,remembered;
 
 
 
@@ -22,10 +21,12 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         learn = findViewById(R.id.learn);
         test = findViewById(R.id.test);
         about = findViewById(R.id.us);
+        remembered = findViewById(R.id.remembered);
 
         learn.setOnClickListener(this);
         test.setOnClickListener(this);
         about.setOnClickListener(this);
+        remembered.setOnClickListener(this);
 
 
     }
@@ -42,6 +43,10 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             Intent intent = new Intent(MainActivity.this , TestActicity.class);
             startActivity(intent);
 
+        }
+        else if(v.getId()==R.id.remembered){
+            Intent intent = new Intent(MainActivity.this , RememberedActivity.class);
+            startActivity(intent);
         }
         else
         {

@@ -7,34 +7,25 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-public class WordListActivity extends AppCompatActivity {
-
+public class RememberedActivity extends AppCompatActivity {
     private RecyclerView wordsRecView;
     private WordsRecViewAdapter adapter;
-    public static WordListActivity baseActivity;
     public static Context mContext;
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_word_list);
+        setContentView(R.layout.activity_remembered);
 
-        baseActivity=this;// passed to non-activity class use
+
         mContext=this.getBaseContext();//passed to non-activity class use
 
-        adapter=new WordsRecViewAdapter(this,"allwords");
+        adapter=new WordsRecViewAdapter(this,"rememberedwords");
         wordsRecView = findViewById(R.id.wrdlistRecView);
 
         wordsRecView.setAdapter(adapter);
         wordsRecView.setLayoutManager(new LinearLayoutManager(this));
 
-        adapter.setWords(Utils.getInstance(this).getAllWords());
-
-
-
-
-
+        adapter.setWords(Utils.getInstance(this).getRememberedWords());
     }
 }

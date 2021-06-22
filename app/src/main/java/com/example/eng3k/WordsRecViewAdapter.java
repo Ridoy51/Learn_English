@@ -17,19 +17,20 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 import java.util.Locale;
 
+import static com.example.eng3k.WordListActivity.mContext;
+
 public class WordsRecViewAdapter extends RecyclerView.Adapter<WordsRecViewAdapter.ViewHolder> {
     private static final String TAG = "WordsRecViewAdapter";
     private ArrayList<Words> words =new ArrayList<>();
     private Context context;
     private TextToSpeech mtts;
 
+    private String parentActivity;
 
 
-
-
-
-    public WordsRecViewAdapter(Context context) {
-        this.context=context;
+    public WordsRecViewAdapter(Context context, String parentActivity) {
+        this.context = context;
+        this.parentActivity = parentActivity;
     }
 
     @NonNull
@@ -47,18 +48,31 @@ public class WordsRecViewAdapter extends RecyclerView.Adapter<WordsRecViewAdapte
         holder.txtMeaning.setText(context.getString(R.string.meaning)+": "+words.get(position).getMeaning());
         holder.txtExample.setText(context.getString(R.string.example)+": "+words.get(position).getExample());
         holder.rememberedButt.setText(context.getString(R.string.remembered));
-        holder.rememberedButt.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
 
-                if(Utils.getInstance().removeWord(words.get(position))){
-                    Toast.makeText(context,"REMEMBERED", Toast.LENGTH_SHORT).show();
-                    notifyDataSetChanged();
+        if(parentActivity.equals("rememberedwords")){
+            holder.rememberedButt.setVisibility(View.GONE);
+        }
+        else if(parentActivity.equals("allwords")){
+
+            holder.rememberedButt.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+
+                    if(Utils.getInstance(mContext).addtorememberwords(words.get(position))) {
+
+                        if (Utils.getInstance(mContext).removeWord(words.get(position))) {
+                            Toast.makeText(context, "REMEMBERED", Toast.LENGTH_SHORT).show();
+                            notifyDataSetChanged();
+                            holder.rememberedButt.setVisibility(View.GONE);
+
+                        }
+                    }
 
                 }
+            });
 
-            }
-        });
+        }
+
         holder.speech.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

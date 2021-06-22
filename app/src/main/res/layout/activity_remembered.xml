@@ -8,17 +8,17 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Learn"
-        android:id="@+id/learn"
+        android:text="Remembered"
+        android:id="@+id/rem"
         android:textSize="25sp"
         android:textStyle="bold"
         android:textColor="#201E1E"
         android:layout_centerHorizontal="true"
         />
-    
-    
+
+
     <androidx.recyclerview.widget.RecyclerView
-        android:layout_below="@+id/learn"
+        android:layout_below="@+id/rem"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/wrdlistRecView"

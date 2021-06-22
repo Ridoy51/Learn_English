@@ -19,7 +19,7 @@
             android:id="@+id/txtWord"
             android:gravity="center"
             android:textSize="25sp"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_marginStart="5dp"
@@ -29,17 +29,14 @@
             android:textStyle="bold" />
 
         <com.google.android.material.button.MaterialButton
-            android:layout_width="50dp"
             android:id="@+id/speech"
+
+            android:layout_width="50dp"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/txtWord"
-            android:layout_centerHorizontal="true"
-            app:icon="@drawable/ic_action_name"
-            android:gravity="center"
             android:layout_marginTop="3dp"
-            android:layout_marginEnd="20dp"
+            android:layout_marginStart="5dp"
             android:theme="@style/Widget.AppCompat.Button.Small"
-            />
+            app:icon="@drawable/ic_action_name" />
 
         <TextView
             android:id="@+id/txtMeaning"
