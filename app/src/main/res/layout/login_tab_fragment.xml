@@ -62,21 +62,6 @@
         app:layout_constraintVertical_bias=".8"
         app:layout_constraintWidth_percent=".8" />
 
-    <TextView
-        android:id="@+id/forgotPass"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Forgot Password?"
-        android:layout_marginTop="5dp"
-        android:layout_marginStart="5dp"
-        android:textColor="@color/red"
-        app:layout_constraintVertical_bias="0"
-        app:layout_constraintHorizontal_bias="1"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/loginPass"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/loginPass" />
-
     <ProgressBar
         android:id="@+id/loginProgress"
         android:layout_width="wrap_content"

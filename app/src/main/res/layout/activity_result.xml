@@ -5,7 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    tools:context=".ResultActivity">
+    tools:context=".ResultActivity"
+    android:orientation="vertical"
+    android:background="@color/colorAccent">
 
     <TextView
         android:layout_width="wrap_content"
@@ -13,7 +15,28 @@
         android:id="@+id/scoretxt"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:textColor="#4F64D6"
+        android:textColor="#050505"
+        />
+
+    <Button
+        android:id="@+id/home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="Home"
+        android:textSize="25sp"
+
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Test Again"
+        android:id="@+id/retest"
+        android:layout_marginTop="50dp"
+        android:textSize="25sp"
+        android:textAllCaps="false"
+
         />
 
 </LinearLayout>

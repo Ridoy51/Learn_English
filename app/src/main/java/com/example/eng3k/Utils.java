@@ -8,6 +8,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+
 public class Utils {
     private static Utils instance;
     private static ArrayList<Words> allWords;
@@ -15,10 +16,10 @@ public class Utils {
     private Context context;
     String[] value;
 
+
+
     //protected final String apiurl ="http://50e09669da8f.ngrok.io/DB.php";
 
-    //FirebaseDatabase database= FirebaseDatabase.getInstance();
-    //DatabaseReference dbref= database.getReference("word");
 
     public Utils() {
 
@@ -35,8 +36,15 @@ public class Utils {
 
     private void initData() {
         //Todo: add initial data
-            InputStream inputStream;
-            inputStream = WordListActivity.mContext.getResources().openRawResource(R.raw.data);
+
+
+
+        int id=1;
+
+        InputStream inputStream;
+
+
+        inputStream = WordListActivity.mContext.getResources().openRawResource(R.raw.data);
             BufferedReader reader= new BufferedReader(new InputStreamReader(inputStream));
             try{
                 String read;
@@ -44,7 +52,10 @@ public class Utils {
 
                     value=read.split(",");
                     try{
-                        allWords.add(new Words(0, value[1], value[2], value[3]));
+
+                            allWords.add(new Words(id, value[1], value[2], value[3]));
+                        id++;
+
 
                     }catch(Exception e){
                         Log.e("Unknown error", e.toString());
@@ -165,7 +176,7 @@ public class Utils {
         return allWords;
     }
 
-    public static ArrayList<Words> getRememberedWords() {
-        return rememberedWords;
+    public boolean removeWord(Words words) {
+        return allWords.remove(words);
     }
 }

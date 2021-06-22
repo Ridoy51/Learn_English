@@ -126,10 +126,13 @@ public class TestActicity2 extends AppCompatActivity implements View.OnClickList
 
             if (rButtons[rdcontrol].isChecked()) {
 
-                resulttxt.setText("Correct Ans"+s);
+                resulttxt.setText("Correct Ans="+s);
+                resulttxt.setTextColor(this.getResources().getColor(R.color.green));
 
             } else {
-                resulttxt.setText("Wrong Ans");
+                resulttxt.setText("Wrong Ans!!\nCorrect Ans: "+rButtons[rdcontrol].getText());
+                resulttxt.setTextColor(this.getResources().getColor(R.color.red));
+
             }
         }
 

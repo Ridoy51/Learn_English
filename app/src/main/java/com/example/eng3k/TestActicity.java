@@ -117,10 +117,14 @@ public class TestActicity extends AppCompatActivity implements View.OnClickListe
         {
             point++;
             resulttxt.setText("Correct Answer"+point);
+            resulttxt.setTextColor(this.getResources().getColor(R.color.green));
+
 
         }
         else {
-            resulttxt.setText("Wrong Answer");
+            resulttxt.setText("Wrong Answer\nCorrect Ans: "+rButtons[rdcontrol].getText());
+            resulttxt.setTextColor(this.getResources().getColor(R.color.red));
+
         }
 
         if(v.getId()==R.id.next)

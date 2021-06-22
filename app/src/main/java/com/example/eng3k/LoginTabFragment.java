@@ -9,7 +9,6 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.annotation.NonNull;
@@ -24,7 +23,7 @@ import com.google.firebase.auth.FirebaseAuth;
 public class LoginTabFragment extends Fragment implements View.OnClickListener{
     EditText loginEmail, loginPass;
     Button loginButt;
-    TextView forgotPass;
+    //TextView forgotPass;
     ProgressBar loginProgress;
 
     private FirebaseAuth lAuth;
@@ -42,7 +41,7 @@ public class LoginTabFragment extends Fragment implements View.OnClickListener{
         loginEmail=root.findViewById(R.id.loginemail);
         loginPass=root.findViewById(R.id.loginPass);
         loginButt=root.findViewById(R.id.loginButt);
-        forgotPass=root.findViewById(R.id.forgotPass);
+        //forgotPass=root.findViewById(R.id.forgotPass);
         loginProgress=root.findViewById(R.id.loginProgress);
 
         loginButt.setOnClickListener(this);
@@ -51,19 +50,19 @@ public class LoginTabFragment extends Fragment implements View.OnClickListener{
         loginEmail.setTranslationY(800);
         loginPass.setTranslationY(800);
         loginButt.setTranslationY(800);
-        forgotPass.setTranslationY(800);
+       // forgotPass.setTranslationY(800);
 
 
         loginEmail.setAlpha(v);
         loginPass.setAlpha(v);
         loginButt.setAlpha(v);
-        forgotPass.setAlpha(v);
+       // forgotPass.setAlpha(v);
 
 
         loginEmail.animate().translationY(0).alpha(1).setDuration(800).setStartDelay(300).start();
         loginPass.animate().translationY(0).alpha(1).setDuration(800).setStartDelay(500).start();
         loginButt.animate().translationY(0).alpha(1).setDuration(800).setStartDelay(500).start();
-        forgotPass.animate().translationY(0).alpha(1).setDuration(800).setStartDelay(700).start();
+        //forgotPass.animate().translationY(0).alpha(1).setDuration(800).setStartDelay(700).start();
 
 
 
@@ -123,4 +122,15 @@ public class LoginTabFragment extends Fragment implements View.OnClickListener{
         });
 
     }
+    /*@Override
+    public void onStart() {
+        super.onStart();
+        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+        if (user!=null){
+            startActivity(new Intent(getActivity(),MainActivity.class));
+        }
+
+
+    }*/
+
 }

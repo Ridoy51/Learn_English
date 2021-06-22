@@ -1,12 +1,12 @@
 package com.example.eng3k;
 
 import android.content.Context;
+import android.speech.tts.TextToSpeech;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -14,14 +14,19 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.google.android.material.button.MaterialButton;
-
 import java.util.ArrayList;
+import java.util.Locale;
 
 public class WordsRecViewAdapter extends RecyclerView.Adapter<WordsRecViewAdapter.ViewHolder> {
     private static final String TAG = "WordsRecViewAdapter";
     private ArrayList<Words> words =new ArrayList<>();
     private Context context;
+    private TextToSpeech mtts;
+
+
+
+
+
 
     public WordsRecViewAdapter(Context context) {
         this.context=context;
@@ -45,7 +50,28 @@ public class WordsRecViewAdapter extends RecyclerView.Adapter<WordsRecViewAdapte
         holder.rememberedButt.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(context, words.get(position).getWord()+" "+context.getString(R.string.remembered), Toast.LENGTH_SHORT).show();
+
+                if(Utils.getInstance().removeWord(words.get(position))){
+                    Toast.makeText(context,"REMEMBERED", Toast.LENGTH_SHORT).show();
+                    notifyDataSetChanged();
+
+                }
+
+            }
+        });
+        holder.speech.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mtts= new TextToSpeech(context, new TextToSpeech.OnInitListener() {
+                    @Override
+                    public void onInit(int status) {
+                        if(status==TextToSpeech.SUCCESS){
+                            mtts.setLanguage(Locale.US);
+                            mtts.speak(words.get(position).getWord(),TextToSpeech.QUEUE_FLUSH,null);
+                        }
+                    }
+                });
+                Toast.makeText(context, words.get(position).getWord(), Toast.LENGTH_SHORT).show();
             }
         });
         holder.parent.setOnClickListener(new View.OnClickListener() {
@@ -55,6 +81,7 @@ public class WordsRecViewAdapter extends RecyclerView.Adapter<WordsRecViewAdapte
             }
         });
     }
+
 
     @Override
     public int getItemCount() {
@@ -71,6 +98,7 @@ public class WordsRecViewAdapter extends RecyclerView.Adapter<WordsRecViewAdapte
 
         private TextView txtWord,txtMeaning,txtExample;
         private Button rememberedButt;
+        private Button speech;
 
 
         private CardView parent;
@@ -80,6 +108,7 @@ public class WordsRecViewAdapter extends RecyclerView.Adapter<WordsRecViewAdapte
             txtMeaning = itemView.findViewById(R.id.txtMeaning);
             txtExample= itemView.findViewById(R.id.txtExample);
             parent = itemView.findViewById(R.id.parent);
+            speech=itemView.findViewById(R.id.speech);
             rememberedButt= itemView.findViewById(R.id.rememberedButt);
         }
     }

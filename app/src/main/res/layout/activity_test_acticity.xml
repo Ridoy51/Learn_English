@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".TestActicity"
     android:gravity="center"
-    android:background="@drawable/background_color"
+    android:background="#EDBBC9"
     android:orientation="vertical">
 
     <LinearLayout
@@ -97,6 +97,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Next"
+            android:layout_marginEnd="20dp"
             android:textColor="#791818"
             android:textSize="20sp" />
 
@@ -104,6 +105,7 @@
             android:id="@+id/apply"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
             android:text="Apply"
             android:textColor="#791818"
 
@@ -123,7 +125,7 @@
             android:layout_height="match_parent"
             android:text=""
             android:textColor="#791818"
-            android:textSize="20sp" />
+            android:textSize="30sp" />
 
     </LinearLayout>
 

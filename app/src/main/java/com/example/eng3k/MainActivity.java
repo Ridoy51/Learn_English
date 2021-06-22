@@ -1,59 +1,66 @@
 package com.example.eng3k;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.cardview.widget.CardView;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
-import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.cardview.widget.CardView;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-    private Button wrdlstbutt;
-    private Button testButt;
-    private Button rmbrdlstbutt;
+    private CardView learn, test ,about;
+    //private Button rmbrdlstbutt;
 
-    @Override
-    public void onClick(View v) {
-        switch (v.getId()){
-            case R.id.wrdlstbutt:
-                Toast.makeText(this, wrdlstbutt.getText()+" selected", Toast.LENGTH_SHORT).show();
-                Intent i= new Intent(this, WordListActivity.class);
-                startActivity(i);
 
-                break;
-            case R.id.rmbrdlstbutt:
-                Toast.makeText(this, rmbrdlstbutt.getText()+" selected", Toast.LENGTH_SHORT).show();
-                break;
-            case R.id.testButt:
-                Toast.makeText(this, testButt.getText()+" selected", Toast.LENGTH_SHORT).show();
-                break;
-            default: break;
 
-        }
-
-    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
 
-        wrdlstbutt= findViewById(R.id.wrdlstbutt);
-        rmbrdlstbutt= findViewById(R.id.rmbrdlstbutt);
-        testButt= findViewById(R.id.testButt);
+        learn = findViewById(R.id.learn);
+        test = findViewById(R.id.test);
+        about = findViewById(R.id.us);
 
-        wrdlstbutt.setOnClickListener(this);
-        rmbrdlstbutt.setOnClickListener(this);
-        testButt.setOnClickListener(this);
+        learn.setOnClickListener(this);
+        test.setOnClickListener(this);
+        about.setOnClickListener(this);
 
-        wrdlstbutt.setText(getString(R.string.wrdlst));
-        rmbrdlstbutt.setText(getString(R.string.rmbrdlst));
-        testButt.setText(getString(R.string.test));
 
     }
 
+    @Override
+    public void onClick(View v) {
+        if(v.getId() == R.id.learn)
+        {
+            Intent intent = new Intent(MainActivity.this , WordListActivity.class);
+            startActivity(intent);
+        }
+        else if(v.getId() == R.id.test)
+        {
+            Intent intent = new Intent(MainActivity.this , TestActicity.class);
+            startActivity(intent);
+
+        }
+        else
+        {
+            Intent intent = new Intent(MainActivity.this , AboutActivity.class);
+            startActivity(intent);
+        }
+
+
+    }
+    @Override
+    public void onBackPressed(){
+        Intent  intent = new Intent(Intent.ACTION_MAIN);
+        intent.addCategory(Intent.CATEGORY_HOME);
+        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        startActivity(intent);
+        finish();
+        System.exit(0);
+
+    }
 
 
 }

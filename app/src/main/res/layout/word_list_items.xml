@@ -12,11 +12,14 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:gravity="center">
 
         <TextView
             android:id="@+id/txtWord"
-            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:textSize="25sp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:layout_marginStart="5dp"
@@ -25,11 +28,26 @@
             android:text="Word List"
             android:textStyle="bold" />
 
-        <TextView
-            android:id="@+id/txtMeaning"
-            android:layout_width="wrap_content"
+        <com.google.android.material.button.MaterialButton
+            android:layout_width="50dp"
+            android:id="@+id/speech"
             android:layout_height="wrap_content"
             android:layout_below="@+id/txtWord"
+            android:layout_centerHorizontal="true"
+            app:icon="@drawable/ic_action_name"
+            android:gravity="center"
+            android:layout_marginTop="3dp"
+            android:layout_marginEnd="20dp"
+            android:theme="@style/Widget.AppCompat.Button.Small"
+            />
+
+        <TextView
+            android:id="@+id/txtMeaning"
+            android:gravity="center"
+            android:textSize="25sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/speech"
             android:layout_centerHorizontal="true"
             android:layout_marginStart="5dp"
             android:layout_marginTop="7dp"
@@ -39,6 +57,8 @@
 
         <TextView
             android:id="@+id/txtExample"
+            android:gravity="center"
+            android:textSize="25sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/txtMeaning"
